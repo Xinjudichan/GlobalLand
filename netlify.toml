@@ -1,0 +1,43 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# Production: only when `main` changes (Publish All merge)
+[context.production]
+  command = "npm run build"
+
+# Deploy Preview: only when a PR is opened (Preview All button)
+[context.deploy-preview]
+  command = "npm run build"
+
+# Do NOT auto-build the `cms` branch on every Save Draft
+# (avoids burning credits while editing many projects)
+[context.branch-deploy]
+  ignore = "exit 0"
+
+[[redirects]]
+  from = "/admin"
+  to = "/admin/"
+  status = 301
+
+[[redirects]]
+  from = "/admin/*"
+  to = "/admin/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/cms"
+  to = "/cms/"
+  status = 301
+
+# Prefer real static files under /images; do not SPA-fallback missing assets to index.html
+[[redirects]]
+  from = "/images/*"
+  to = "/images/:splat"
+  status = 200
+  force = false
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

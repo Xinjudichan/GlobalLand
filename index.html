@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <meta
+      name="description"
+      content="Global Land LLC — low-density residential development and high-quality commercial real estate investment in Washington State."
+    />
+    <title>Global Land LLC</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <!-- Netlify Forms: static detection for SPA (must match ContactPage field names) -->
+    <form name="contact" method="POST" netlify data-netlify="true" data-netlify-honeypot="bot-field" hidden>
+      <input type="hidden" name="form-name" value="contact" />
+      <input name="bot-field" />
+      <input name="email" type="email" />
+      <input name="subject" type="text" />
+      <textarea name="message"></textarea>
+      <textarea name="message-html"></textarea>
+    </form>
+    <script type="module" src="/src/main.tsx"></script>
+    <!-- Required for Netlify Identity invite / password recovery popups -->
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script>
+      ;(function () {
+        if (!window.netlifyIdentity) return
+
+        function openFromHash() {
+          var hash = window.location.hash || ''
+          if (hash.indexOf('invite_token=') !== -1) {
+            window.netlifyIdentity.open('signup')
+            return
+          }
+          if (hash.indexOf('recovery_token=') !== -1) {
+            window.netlifyIdentity.open('recovery')
+          }
+        }
+
+        window.netlifyIdentity.on('init', function (user) {
+          openFromHash()
+          if (!user) {
+            window.netlifyIdentity.on('login', function () {
+              document.location.href = '/admin/'
+            })
+          }
+        })
+
+        // If hash arrives after init (some email clients)
+        window.addEventListener('hashchange', openFromHash)
+      })()
+    </script>
+  </body>
+</html>

@@ -1,0 +1,46 @@
+{
+  "id": "belleview-office",
+  "slug": "belleview-office",
+  "nameEn": "Belleview Office",
+  "nameZh": "贝尔维尤办公楼",
+  "cityEn": "Bellevue",
+  "cityZh": "贝尔维尤",
+  "type": "office",
+  "status": "acquired",
+  "units": null,
+  "buildings": 1,
+  "saleValueM": null,
+  "acquisitionPriceM": null,
+  "year": 2023,
+  "lat": 47.607758,
+  "lng": -122.183547,
+  "summaryEn": "Office asset in Bellevue held within the Global Land commercial portfolio.",
+  "summaryZh": "Global Land 商业组合中的贝尔维尤办公资产。",
+  "bodyEn": "",
+  "bodyZh": "",
+  "bodyFont": "body",
+  "blocks": [
+    {
+      "id": "b-mslavuzq-ik9t7",
+      "type": "text",
+      "textEn": "<p>Office asset in Bellevue held within the Global Land commercial portfolio.</p>",
+      "textZh": "<p>Global Land 商业组合中的贝尔维尤办公资产。</p>"
+    }
+  ],
+  "highlightsEn": [
+    "Bellevue office",
+    "Commercial"
+  ],
+  "highlightsZh": [
+    "贝尔维尤办公",
+    "商业"
+  ],
+  "image": "/images/projects/belleview-office.png",
+  "images": [
+    "/images/projects/belleview-office.png"
+  ],
+  "link": "",
+  "relatedEntity": "",
+  "featured": true,
+  "published": true
+}

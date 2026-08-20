@@ -1,0 +1,46 @@
+{
+  "id": "forum-south",
+  "slug": "forum-south",
+  "nameEn": "Forum South Office",
+  "nameZh": "论坛南办公楼",
+  "cityEn": "Bellevue",
+  "cityZh": "贝尔维尤",
+  "type": "office",
+  "status": "acquired",
+  "units": null,
+  "buildings": 1,
+  "saleValueM": null,
+  "acquisitionPriceM": null,
+  "year": 2023,
+  "lat": 47.619462,
+  "lng": -122.171956,
+  "summaryEn": "Commercial office asset invested in and managed within the Greater Seattle Eastside portfolio.",
+  "summaryZh": "大西雅图东区投资并管理的商业办公资产。",
+  "bodyEn": "",
+  "bodyZh": "",
+  "bodyFont": "body",
+  "blocks": [
+    {
+      "id": "b-mslats0d-om3m4",
+      "type": "text",
+      "textEn": "<p>Commercial office asset invested in and managed within the Greater Seattle Eastside portfolio.</p>",
+      "textZh": "<p>大西雅图东区投资并管理的商业办公资产。</p>"
+    }
+  ],
+  "highlightsEn": [
+    "Office investment",
+    "Eastside"
+  ],
+  "highlightsZh": [
+    "办公投资",
+    "东区"
+  ],
+  "image": "/images/projects/forum-south.png",
+  "images": [
+    "/images/projects/forum-south.png"
+  ],
+  "link": "",
+  "relatedEntity": "",
+  "featured": true,
+  "published": true
+}

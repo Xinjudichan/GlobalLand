@@ -1,0 +1,121 @@
+import { Link, useParams } from 'react-router-dom'
+import { ContentBlocks } from '../components/ContentBlocks'
+import { getNewsBySlug, newsArticles, newsDateLabel, newsTitle } from '../data/news'
+import { useI18n } from '../i18n'
+import { ensureArticleBlocks } from '../lib/newsBlocks'
+import { toHtml } from '../lib/newsHtml'
+
+function isBlankHtml(html: string) {
+  return !html
+    .replace(/<br\s*\/?>/gi, '')
+    .replace(/&nbsp;/gi, '')
+    .replace(/<[^>]+>/g, '')
+    .trim()
+}
+
+function sortedNews() {
+  return [...newsArticles].sort((a, b) => b.date.localeCompare(a.date))
+}
+
+export function NewsDetailPage() {
+  const { slug = '' } = useParams()
+  const { t, lang } = useI18n()
+  const raw = getNewsBySlug(slug)
+
+  if (!raw) {
+    return (
+      <div className="container" style={{ paddingBottom: '3rem' }}>
+        <div className="page-hero">
+          <h1>{t('news.notFound')}</h1>
+          <p className="section-lead">{t('news.notFoundLead')}</p>
+          <Link className="btn btn-outline btn-compact" to="/news">
+            {t('news.back')}
+          </Link>
+        </div>
+      </div>
+    )
+  }
+
+  const article = ensureArticleBlocks(raw)
+  const title = newsTitle(article, lang)
+  const date = newsDateLabel(article, lang)
+  const details =
+    lang === 'zh'
+      ? article.eventDetailsZh || article.eventDetailsEn
+      : article.eventDetailsEn || article.eventDetailsZh
+  const detailsHtml = toHtml(details)
+  const registerHref = (article.registerUrl || '').trim() || '/contact'
+
+  const ordered = sortedNews()
+  const index = ordered.findIndex((a) => a.slug === article.slug || a.id === article.id)
+  const prev = index > 0 ? ordered[index - 1] : null
+  const next = index >= 0 && index < ordered.length - 1 ? ordered[index + 1] : null
+
+  return (
+    <div className="container news-article" style={{ paddingBottom: '3.5rem' }}>
+      <p className="news-back">
+        <Link to="/news">{t('news.back')}</Link>
+      </p>
+
+      <span className={`news-badge news-badge--${article.kind}`}>{t(`news.kind.${article.kind}`)}</span>
+
+      <h1 className="news-article-title">{title}</h1>
+      <time className="news-article-date" dateTime={article.date}>
+        {date}
+      </time>
+
+      {article.image ? (
+        <div className="news-article-hero">
+          <img src={article.image} alt={title} />
+        </div>
+      ) : null}
+
+      <ContentBlocks blocks={article.blocks || []} lang={lang} />
+
+      {!isBlankHtml(detailsHtml) && (
+        <section className="news-event-block">
+          <h2>{t('news.eventDetails')}</h2>
+          <div className="news-event-meta news-rich" dangerouslySetInnerHTML={{ __html: detailsHtml }} />
+        </section>
+      )}
+
+      {(article.bannerTitleZh || article.bannerSubZh) && (
+        <div className="news-event-banner" aria-hidden={lang === 'en'}>
+          <div className="news-event-banner-inner">
+            {article.bannerTitleZh && <p className="news-event-banner-title">{article.bannerTitleZh}</p>}
+            {article.bannerSubZh && <p className="news-event-banner-sub">{article.bannerSubZh}</p>}
+          </div>
+        </div>
+      )}
+
+      {article.kind === 'event' && (
+        <div className="news-article-actions">
+          <a className="btn btn-primary btn-compact" href={registerHref}>
+            {lang === 'zh' ? '报名参加' : 'Register'}
+          </a>
+        </div>
+      )}
+
+      {(prev || next) && (
+        <nav className="news-pager" aria-label={lang === 'zh' ? '上下篇' : 'Adjacent articles'}>
+          <div className="news-pager-slot news-pager-slot--prev">
+            {prev ? (
+              <Link to={`/news/${prev.slug}`} className="news-pager-link">
+                <span className="news-pager-label">{t('news.prev')}</span>
+                <span className="news-pager-title">{newsTitle(prev, lang)}</span>
+              </Link>
+            ) : null}
+          </div>
+          <div className="news-pager-slot news-pager-slot--next">
+            {next ? (
+              <Link to={`/news/${next.slug}`} className="news-pager-link">
+                <span className="news-pager-label">{t('news.next')}</span>
+                <span className="news-pager-title">{newsTitle(next, lang)}</span>
+              </Link>
+            ) : null}
+          </div>
+        </nav>
+      )}
+    </div>
+  )
+}
