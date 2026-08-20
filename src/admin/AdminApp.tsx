@@ -53,10 +53,20 @@ export function AdminApp() {
     }
     id.init?.()
     const sync = () => setUser(id.currentUser() as User | null)
+    const openFromHash = () => {
+      const hash = window.location.hash || ''
+      if (hash.includes('invite_token=')) id.open('signup')
+      else if (hash.includes('recovery_token=')) id.open('recovery')
+      else if (hash.includes('confirmation_token=')) id.open('login')
+    }
     sync()
-    id.on('init', sync)
+    id.on('init', () => {
+      sync()
+      openFromHash()
+    })
     id.on('login', sync)
     id.on('logout', () => setUser(null))
+    openFromHash()
   }, [])
 
   if (user === undefined) {
