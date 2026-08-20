@@ -419,7 +419,7 @@ export async function fetchContactSubmissions(): Promise<
     return {
       ok: false,
       error:
-        'Inbox reads Netlify Forms on the live site. Deploy and open /admin/#/inbox after setting NETLIFY_API_TOKEN.',
+        'Inbox reads Netlify Forms on the live site. Deploy and open /admin/inbox after setting NETLIFY_API_TOKEN.',
     }
   }
 
