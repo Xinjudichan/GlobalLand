@@ -1,8 +1,8 @@
 {
   "id": "sammamish-sfh",
   "slug": "sammamish-sfh",
-  "nameEn": "Sammamish SFH Neighborhood Development",
-  "nameZh": "萨马米什独栋住宅社区",
+  "nameEn": "Sammamish Single-Family and Townhome Residential Development Project",
+  "nameZh": "萨马米什独栋和联排住宅开发项目",
   "cityEn": "Sammamish",
   "cityZh": "萨马米什",
   "type": "sfh",
@@ -16,9 +16,17 @@
   "lng": -122.0422,
   "summaryEn": "Single-family home neighborhood development in Sammamish invested in and managed by Lili Lu.",
   "summaryZh": "萨马米什独栋住宅开发项目，由 Lili Lu 投资并管理。",
-  "bodyEn": "Single-family home neighborhood development in Sammamish invested in and managed by Lili Lu.",
-  "bodyZh": "萨马米什独栋住宅开发项目，由 Lili Lu 投资并管理。",
+  "bodyEn": "",
+  "bodyZh": "",
   "bodyFont": "body",
+  "blocks": [
+    {
+      "id": "b-mtjud50u-qvf42",
+      "type": "text",
+      "textEn": "<p>Single-family home neighborhood development in Sammamish invested in and managed by Lili Lu.</p>",
+      "textZh": "<p>萨马米什独栋住宅开发项目，由 Lili Lu 投资并管理。</p>"
+    }
+  ],
   "highlightsEn": [
     "Single-family",
     "Sammamish"
@@ -28,9 +36,11 @@
     "萨马米什"
   ],
   "image": "/images/projects/sammamish.png",
-  "featured": true,
-  "published": true,
   "images": [
     "/images/projects/sammamish.png"
-  ]
+  ],
+  "link": "",
+  "relatedEntity": "",
+  "featured": true,
+  "published": true
 }
