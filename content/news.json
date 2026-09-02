@@ -23,6 +23,107 @@
     "image": "/images/uploads/1788338588235-64021.jpg"
   },
   {
+    "id": "news-1788338680188",
+    "slug": "news-1788338680188",
+    "kind": "news",
+    "date": "2026-08-26",
+    "dateLabelEn": "August 26, 2026",
+    "dateLabelZh": "2026年8月26日",
+    "archiveYear": 2026,
+    "archiveMonth": 8,
+    "titleEn": "Seven Washington College Towns Emerge as New Hotspots for Livability",
+    "titleZh": "华州七座大学城跻身宜居新热门",
+    "summaryEn": "",
+    "summaryZh": "",
+    "blocks": [
+      {
+        "id": "b-mtjuoqrx-5x0q1",
+        "type": "text",
+        "textEn": "<p>In Washington State, where rents and home prices have long been high, a number of college towns—vibrant with campus energy, rich in cultural resources, and offering relatively lower housing costs—are emerging as new options of interest not only to students but also to families, working professionals, retirees, and first-time homebuyers. The latest ranking lists seven cities: Pullman, Cheney, Ellensburg, Walla Walla, Centralia, Spokane, and Yakima. Their average monthly rents range from approximately $1,350 to $1,600, which are about 25% to 37% lower than the statewide average.</p><p>According to data from the real estate information platform Zillow as of August 23, the average monthly rent for all types of housing in Washington State has reached $2,145, about 7% higher than the national average. As of the end of July, the typical home value across the state was approximately $601,545.</p><p>By comparison, the typical home values in the seven college towns listed above range from $367,203 to $460,975, all below the state level. Zillow's rental data for Washington shows that the appeal of these cities stems not only from affordability but also from the sporting events, museums, theaters, cafés, lectures, and community activities that the universities bring.</p><p><strong>Pullman</strong></p>",
+        "textZh": "<p>在房租和房价长期高企的华盛顿州，一批充满校园活力、文化资源丰富且住房成本相对较低的大学城，正成为学生以外的家庭、上班族、退休人士和首次购房者关注的新选择。最新评选列出普尔曼、切尼、埃伦斯堡、瓦拉瓦拉、森特勒利亚、斯波坎和雅基马七座城市，其平均月租约为1350美元至1600美元，比全州平均水平低约25%至37%。</p><p>房地产信息平台齐洛（Zillow）截至8月23日的数据显示，华州各类住宅平均月租已达2145美元，较全国平均租金高出约7%；截至7月底，全州典型住房价值约为601,545美元。</p><p>相比之下，上述七座大学城的典型住房价值介于367,203美元至460,975美元之间，全部低于全州水平。Zillow华州租房数据显示，这些城市的吸引力不仅来自“便宜”，还包括大学带来的体育比赛、博物馆、剧院、咖啡馆、讲座和社区活动。</p><p><strong>普尔曼（Pullman）</strong></p>"
+      },
+      {
+        "id": "b-mtjup2t3-x36en",
+        "type": "image",
+        "src": "/images/uploads/1788338718864-64017.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mtjupeb6-g4r68",
+        "type": "text",
+        "textEn": "<p>Considered the most traditionally charming college town. Washington State University is the heart of city life, with its campus hosting athletic events, art exhibitions, performance venues, and museums of art, anthropology, and zoology. The average monthly rent is approximately $1,350, tied with Cheney for the lowest among the seven cities and about 37% below the statewide average. The typical home value is around $435,863, about 27.5% lower than the state average. The strong \"Cougar\" culture also makes restaurants, shops, and streets particularly lively on game days.</p><p><strong>Cheney</strong></p>",
+        "textZh": "<p>被视为最具传统气息的大学城。华盛顿州立大学（Washington State University）是城市生活的核心，校园拥有体育赛事、艺术展览、表演场地以及艺术、人类学和动物学博物馆。当地平均月租约1350美元，与切尼并列七座城市最低，比全州平均水平低约37%；典型住房价值约435,863美元，比全州低约27.5%。浓厚的“美洲狮队”文化，也让每逢比赛日的餐馆、商店和街道格外热闹。</p><p><strong>切尼（Cheney）</strong></p>"
+      },
+      {
+        "id": "b-mtjuqn0y-9ucea",
+        "type": "image",
+        "src": "/images/uploads/1788338791334-64018.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mtjuqu4t-8nny7",
+        "type": "text",
+        "textEn": "<p>With an average monthly rent of approximately $1,350 and a typical home value of around $426,825. Eastern Washington University's 300-acre main campus is located here, about 16 miles from Spokane. Residents can enjoy the quiet, compact living environment of a small town while sharing the employment, shopping, and healthcare resources of a larger city, making it considered a compromise choice between campus atmosphere and metropolitan convenience.</p><p>Located in central Washington, Ellensburg has developed around the 380-acre campus of Central Washington University. The average monthly rent is about $1,500, and the typical home value is around $460,975. Although its home values are the highest among the seven cities, they remain about 23.4% lower than the statewide average, making it quite attractive to residents who wish to leave the Seattle metro area's high housing prices without giving up cultural and athletic activities.</p><p><strong>Walla Walla</strong></p>",
+        "textZh": "<p>拥有约1350美元的平均月租，典型住房价值约426,825美元。东华盛顿大学（Eastern Washington University）占地300英亩的主校区坐落于此，距离斯波坎约16英里。居民既能享受小城安静、紧凑的生活环境，又可分享大城市的就业、购物及医疗资源，被认为是校园气息与都会便利之间的折中选择。</p><p>位于华州中部的埃伦斯堡（Ellensburg），围绕中央华盛顿大学（Central Washington University）380英亩的校园发展，平均月租约1500美元，典型住房价值约460,975美元。尽管其房屋价值在七座城市中最高，但仍比全州平均水平低约23.4%，对于希望离开西雅图都会区高房价、又不愿放弃文化和体育活动的居民，具有相当吸引力。</p><p><strong>瓦拉瓦拉（Walla Walla）</strong></p>"
+      },
+      {
+        "id": "b-mtjur0xr-pjuvv",
+        "type": "image",
+        "src": "/images/uploads/1788338820968-64019.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mtjurio8-ivgzf",
+        "type": "text",
+        "textEn": "<p>A more established living atmosphere. Whitman College is within walking distance of downtown restaurants and hotels, and the campus culture is closely intertwined with the city's commercial district. The average monthly rent is approximately $1,530, and the typical home value is around $420,895, which are about 28.7% and 30% lower than statewide levels, respectively. Residents do not need to be enrolled as students to have access to performances, exhibitions, lectures, and other public events.</p><p><strong>Centralia</strong></p>",
+        "textZh": "<p>更成熟的生活氛围。惠特曼学院（Whitman College）距离市中心餐馆和酒店仅需步行，校园文化与市区商业紧密相连。当地平均月租约1530美元，典型住房价值约420,895美元，分别比全州水平低约28.7%和30%。居民无需注册成为学生，也有机会接触演出、展览、讲座及其他公共活动。</p><p><strong>森特勒利亚（Centralia）</strong></p>"
+      },
+      {
+        "id": "b-mtjursxu-urvc7",
+        "type": "image",
+        "src": "/images/uploads/1788338845684-64020.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mtjus1h2-ye6pc",
+        "type": "text",
+        "textEn": "<p>One of the few western Washington cities on the list. Centralia College is located near downtown, and the city sits conveniently along Interstate 5 between Seattle and Portland, offering a highly practical transportation location. The average monthly rent is approximately $1,595 to $1,600—the highest among the seven cities but still about 25% below the statewide average. The typical home value is around $398,862, about one-third lower than the state average. Additionally, fixed-route public transit in Lewis County currently offers fare-free service, which can further reduce commuting costs for some residents.</p><p><strong>Spokane</strong></p>",
+        "textZh": "<p>名单中少有的华州西部城市。森特勒利亚学院（Centralia College）位于市中心附近，城市沿5号州际公路坐落在西雅图与波特兰之间，交通位置十分实用。平均月租约1595至1600美元，虽然是七城最高，却仍比全州低约25%；典型住房价值约398,862美元，比全州低约三分之一。此外，刘易斯县公共交通固定线路目前免收车费，可进一步降低部分居民的通勤成本。</p><p><strong>斯波坎（Spokane）</strong></p>"
+      },
+      {
+        "id": "b-mtjusanm-q4s10",
+        "type": "image",
+        "src": "/images/uploads/1788338870743-64022.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mtjusk7x-fx4wn",
+        "type": "text",
+        "textEn": "<p>Not a traditional small college town, it nonetheless offers more comprehensive employment, healthcare, shopping, and community resources. Gonzaga University brings basketball events, the Jundt Art Museum, and the Myrtle Woldson Performing Arts Center to the city. With an average monthly rent of approximately $1,430 and a typical home value of around $401,824—both about one-third lower than the statewide averages—it is well-suited for those who want access to university resources without living in a small town.</p><p><strong>Yakima</strong></p>",
+        "textZh": "<p>并非传统意义上的小型大学城，却拥有更完整的就业、医疗、购物和社区资源。贡萨加大学（Gonzaga University）为城市带来篮球赛事、军特艺术博物馆（Jundt Art Museum）和默特尔·沃尔德森表演艺术中心（Myrtle Woldson Performing Arts Center）。当地平均月租约1430美元，典型住房价值约401,824美元，均比全州低约三分之一，适合希望享受大学资源、又不想住在小城的人群。</p><p><strong>雅基马（Yakima）</strong></p>"
+      },
+      {
+        "id": "b-mtjusxhf-xxy1u",
+        "type": "image",
+        "src": "/images/uploads/1788338898980-64023.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mtjut6g6-kij4w",
+        "type": "text",
+        "textEn": "<p>It stands out with the lowest typical home value among the seven cities. With a local home value of approximately $367,203—about 39% below the Washington state average—it is the most attractive option for homebuyers among the seven cities. The average monthly rent is around $1,500, also about 30% lower than the statewide average. Yakima Valley College enriches the community with theater, music, sports, student clubs, and art exhibitions, adding a vibrant cultural dimension to this agricultural and commercial city.</p><p>Based on the common benchmark that housing costs should not exceed 30% of pre-tax income, a household would need an annual pre-tax income of approximately $54,000 to $64,000 to afford the average rent in these cities. However, \"affordability\" is a relative concept; utilities, transportation, insurance, debt, family size, and local wage levels all affect true affordability.</p><p>This list shows that college towns are no longer just temporary havens for young students. Campuses continuously bring new populations, fresh ideas, athletic traditions, and cultural activities. The compact urban layout also offers opportunities to reduce reliance on cars. For residents squeezed by the high housing costs of Seattle and its surrounding areas, these seven cities may represent a more realistic alternative—one that allows them to enjoy the vibrant, ever-renewing energy of a college town without having to return to the classroom.</p>",
+        "textZh": "<p>以最低典型住房价值脱颖而出。当地房屋价值约367,203美元，比华州平均水平低约39%，是七座城市中对购房者最有吸引力的一座；平均月租约1500美元，也比全州低约30%。雅基马谷学院（Yakima Valley College）为社区提供戏剧、音乐、体育、学生社团及艺术展览等活动，使这座农业和商业城市增加了浓厚的文化色彩。</p><p>若按照住房支出不超过税前收入30%的常用标准计算，承担这些城市的平均租金，家庭税前年收入约需54,000美元至64,000美元。不过，“平价”只是相对概念，水电费、交通、保险、债务、家庭人口和当地工资水平都会影响真正的负担能力。</p><p>这份名单显示，大学城早已不再只是年轻学生的临时居所。校园持续带来新人口、新观念、体育传统和文化活动，紧凑的市区结构还有机会减少对汽车的依赖。对被西雅图及周边高昂住房成本挤压的居民而言，这七座城市或许代表一种更现实的选择：不用重返课堂，也能享受大学城不断更新、充满活力的生活。</p>"
+      }
+    ],
+    "image": ""
+  },
+  {
     "id": "news-1785999412731",
     "slug": "news-1785999412731",
     "kind": "news",
