@@ -700,34 +700,6 @@
     "image": "/images/uploads/1786068956906-640.jpg"
   },
   {
-    "id": "redmond-office-2026",
-    "slug": "downtown-redmond-office-acquisition",
-    "kind": "news",
-    "date": "2026-03-01",
-    "dateLabelEn": "March 1, 2026",
-    "dateLabelZh": "2026年3月1日",
-    "titleEn": "Downtown Redmond office acquisition closes",
-    "titleZh": "雷德蒙德市中心办公收购完成",
-    "summaryEn": "Global Land expands the Eastside commercial portfolio with a newly acquired office asset adjacent to the Microsoft campus.",
-    "summaryZh": "Global Land 新增东区办公资产，毗邻微软园区，持续扩展商业地产组合。",
-    "bodyEn": "<p>In March 2026, Global Land acquired an office building in downtown Redmond for $23 million. The property sits next to light rail and near the Microsoft campus.</p><p>Long-term leases with premier tenants support cash-on-cash returns during the hold period, with potential for appreciation at exit.</p>",
-    "bodyZh": "<p>2026 年 3 月，Global Land 以 2300 万美元收购雷德蒙德市中心办公楼。项目毗邻轻轨与微软园区。</p><p>优质租户长期租约支撑持有期现金回报，并具备退出增值空间。</p>",
-    "archiveYear": 2026,
-    "archiveMonth": 3,
-    "eventDetailsEn": "",
-    "eventDetailsZh": "",
-    "image": "",
-    "blocks": [
-      {
-        "id": "b-msb9vnuy-m56jy",
-        "type": "text",
-        "textEn": "In March 2026, Global Land acquired an office building in downtown Redmond for $23 million. The property sits next to light rail and near the Microsoft campus.\nLong-term leases with premier tenants support cash-on-cash returns during the hold period, with potential for appreciation at exit.",
-        "textZh": "2026 年 3 月，Global Land 以 2300 万美元收购雷德蒙德市中心办公楼。项目毗邻轻轨与微软园区。\n优质租户长期租约支撑持有期现金回报，并具备退出增值空间。"
-      }
-    ],
-    "registerUrl": ""
-  },
-  {
     "id": "news-1786070020265",
     "slug": "news-1786070020265",
     "kind": "news",
