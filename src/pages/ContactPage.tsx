@@ -1,6 +1,6 @@
 import { useRef, useState, type FormEvent, type ReactNode } from 'react'
-import { company } from '../data/projects'
 import { OfficeMap } from '../components/OfficeMap'
+import { contactContent, contactText } from '../lib/loadContact'
 import { useI18n } from '../i18n'
 
 function IconPin() {
@@ -167,7 +167,9 @@ function MessageEditor({
 }
 
 export function ContactPage() {
-  const { t } = useI18n()
+  const { t, lang } = useI18n()
+  const c = contactContent
+  const tx = (field: Parameters<typeof contactText>[0], fallback = '') => contactText(field, lang, fallback)
   const [sent, setSent] = useState(false)
   const [sending, setSending] = useState(false)
   const [error, setError] = useState('')
@@ -213,30 +215,34 @@ export function ContactPage() {
   return (
     <div className="container" style={{ paddingBottom: '3.5rem' }}>
       <div className="page-hero reveal">
-        <p className="eyebrow">{t('contact.eyebrow')}</p>
-        <h1>{t('contact.infoTitle')}</h1>
+        <p className="eyebrow">{tx(c.eyebrow, t('contact.eyebrow'))}</p>
+        <h1>{tx(c.title, t('contact.infoTitle'))}</h1>
       </div>
 
       <div className="contact-layout">
         <div className="contact-info reveal">
-          <ContactItem icon={<IconPin />} label={t('contact.address')}>
-            <p>{company.addressLine1}</p>
-            <p>{company.addressLine2}</p>
+          <ContactItem icon={<IconPin />} label={tx(c.addressLabel, t('contact.address'))}>
+            <p>{tx(c.addressLine1)}</p>
+            <p>{tx(c.addressLine2)}</p>
           </ContactItem>
 
-          <ContactItem icon={<IconPhone />} label={t('contact.phone')}>
-            <a href={`tel:${company.phoneTel}`}>{company.phone}</a>
+          {c.phone ? (
+            <ContactItem icon={<IconPhone />} label={tx(c.phoneLabel, t('contact.phone'))}>
+              <a href={`tel:${c.phoneTel}`}>{c.phone}</a>
+            </ContactItem>
+          ) : null}
+
+          {c.email ? (
+            <ContactItem icon={<IconMail />} label={tx(c.emailLabel, t('contact.email'))}>
+              <a href={`mailto:${c.email}`}>{c.email}</a>
+            </ContactItem>
+          ) : null}
+
+          <ContactItem icon={<IconHours />} label={tx(c.hoursLabel, t('contact.hours'))}>
+            <p>{tx(c.hours, t('contact.hoursValue'))}</p>
           </ContactItem>
 
-          <ContactItem icon={<IconMail />} label={t('contact.email')}>
-            <a href={`mailto:${company.email}`}>{company.email}</a>
-          </ContactItem>
-
-          <ContactItem icon={<IconHours />} label={t('contact.hours')}>
-            <p>{t('contact.hoursValue')}</p>
-          </ContactItem>
-
-          <OfficeMap />
+          {c.showMap ? <OfficeMap /> : null}
         </div>
 
         <div className="contact-aside reveal">
@@ -263,8 +269,8 @@ export function ContactPage() {
               </p>
 
               <div className="contact-message-head">
-                <h2>{t('contact.formTitle')}</h2>
-                <p>{t('contact.formLead')}</p>
+                <h2>{tx(c.formTitle, t('contact.formTitle'))}</h2>
+                <p>{tx(c.formLead, t('contact.formLead'))}</p>
               </div>
 
               <label className="contact-field">

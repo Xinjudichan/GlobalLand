@@ -1,7 +1,8 @@
 import { useMemo } from 'react'
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 import L from 'leaflet'
-import { company } from '../data/projects'
+import { contactContent, contactText } from '../lib/loadContact'
+import { useI18n } from '../i18n'
 import 'leaflet/dist/leaflet.css'
 
 function officePinIcon() {
@@ -20,15 +21,18 @@ function officePinIcon() {
 }
 
 export function OfficeMap() {
-  const center = useMemo<[number, number]>(() => [company.lat, company.lng], [])
+  const { lang } = useI18n()
+  const c = contactContent
+  const center = useMemo<[number, number]>(() => [c.mapLat, c.mapLng], [c.mapLat, c.mapLng])
   const icon = useMemo(() => officePinIcon(), [])
-  const label = `${company.addressLine1}, ${company.addressLine2}`
+  const line1 = contactText(c.addressLine1, lang)
+  const line2 = contactText(c.addressLine2, lang)
 
   return (
     <div className="office-map">
       <MapContainer
         center={center}
-        zoom={15}
+        zoom={c.mapZoom}
         scrollWheelZoom={false}
         className="office-map-canvas"
         attributionControl={false}
@@ -40,17 +44,17 @@ export function OfficeMap() {
         <Marker position={center} icon={icon}>
           <Popup>
             <strong>
-              {company.addressLine1}
+              {line1}
               <br />
-              {company.addressLine2}
+              {line2}
             </strong>
           </Popup>
         </Marker>
       </MapContainer>
       <p className="office-map-label" aria-hidden="true">
-        {label.split(', ').slice(0, 1).join(', ')},
+        {line1},
         <br />
-        {company.addressLine2}
+        {line2}
       </p>
     </div>
   )

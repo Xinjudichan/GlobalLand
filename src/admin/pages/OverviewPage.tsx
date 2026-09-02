@@ -21,7 +21,7 @@ export function OverviewPage({ lang }: { lang: AdminLang }) {
           { title: '新闻', desc: '网站新闻与活动', edit: '/news', live: '/news' },
           { title: '关于', desc: '团队与社区拼贴图、说明文案', edit: '/about', live: '/about' },
           { title: '废纸篓', desc: '已删除内容，不出现在网站', edit: '/trash', live: '' },
-          { title: '联系', desc: '地址与留言表单', edit: '', live: '/contact' },
+          { title: '联系', desc: '地址、电话、邮箱、办公时间、地图与留言表单', edit: '/contact', live: '/contact' },
         ]
       : [
           { title: 'Home', desc: 'Hero slides, brand, stats, spotlight, featured strip copy', edit: '/home', live: '/' },
@@ -30,7 +30,7 @@ export function OverviewPage({ lang }: { lang: AdminLang }) {
           { title: 'News', desc: 'Live news and events', edit: '/news', live: '/news' },
           { title: 'About', desc: 'Story and team collage images', edit: '/about', live: '/about' },
           { title: 'Trash', desc: 'Deleted items — not on the website', edit: '/trash', live: '' },
-          { title: 'Contact', desc: 'Office and inquiry form', edit: '', live: '/contact' },
+          { title: 'Contact', desc: 'Address, phone, email, hours, map, inquiry form', edit: '/contact', live: '/contact' },
         ]
 
   return (
