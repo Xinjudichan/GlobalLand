@@ -1,127 +1,251 @@
 [
   {
-    "id": "news-1786178319493",
-    "slug": "news-1786178319493",
+    "id": "news-1788338680188",
+    "slug": "news-1788338680188",
     "kind": "news",
-    "date": "2026-08-08",
-    "dateLabelEn": "August 8, 2026",
-    "dateLabelZh": "2026年8月8日",
+    "date": "2026-08-26",
+    "dateLabelEn": "August 26, 2026",
+    "dateLabelZh": "2026年8月26日",
     "archiveYear": 2026,
     "archiveMonth": 8,
-    "titleEn": "",
-    "titleZh": "华州当地媒体报道河畔花园别墅社区开工典礼",
+    "titleEn": "Seven Washington College Towns Emerge as New Hotspots for Livability",
+    "titleZh": "华州七座大学城跻身宜居新热门",
     "summaryEn": "",
     "summaryZh": "",
     "blocks": [
       {
-        "id": "b-msk4gq2r-auv01",
+        "id": "b-mtjuoqrx-5x0q1",
         "type": "text",
-        "textEn": "<p>Posted Friday, June 27, 2025 4:59 pm</p><p>By Owen Sexton &nbsp;/</p>",
-        "textZh": "<p>发布于2025年6月27日（星期五）下午4:59</p><p>作者：Owen Sexton</p>"
+        "textEn": "<p>In Washington State, where rents and home prices have long been high, a number of college towns—vibrant with campus energy, rich in cultural resources, and offering relatively lower housing costs—are emerging as new options of interest not only to students but also to families, working professionals, retirees, and first-time homebuyers. The latest ranking lists seven cities: Pullman, Cheney, Ellensburg, Walla Walla, Centralia, Spokane, and Yakima. Their average monthly rents range from approximately $1,350 to $1,600, which are about 25% to 37% lower than the statewide average.</p><p>According to data from the real estate information platform Zillow as of August 23, the average monthly rent for all types of housing in Washington State has reached $2,145, about 7% higher than the national average. As of the end of July, the typical home value across the state was approximately $601,545.</p><p>By comparison, the typical home values in the seven college towns listed above range from $367,203 to $460,975, all below the state level. Zillow's rental data for Washington shows that the appeal of these cities stems not only from affordability but also from the sporting events, museums, theaters, cafés, lectures, and community activities that the universities bring.</p><p><strong>Pullman</strong></p>",
+        "textZh": "<p>在房租和房价长期高企的华盛顿州，一批充满校园活力、文化资源丰富且住房成本相对较低的大学城，正成为学生以外的家庭、上班族、退休人士和首次购房者关注的新选择。最新评选列出普尔曼、切尼、埃伦斯堡、瓦拉瓦拉、森特勒利亚、斯波坎和雅基马七座城市，其平均月租约为1350美元至1600美元，比全州平均水平低约25%至37%。</p><p>房地产信息平台齐洛（Zillow）截至8月23日的数据显示，华州各类住宅平均月租已达2145美元，较全国平均租金高出约7%；截至7月底，全州典型住房价值约为601,545美元。</p><p>相比之下，上述七座大学城的典型住房价值介于367,203美元至460,975美元之间，全部低于全州水平。Zillow华州租房数据显示，这些城市的吸引力不仅来自“便宜”，还包括大学带来的体育比赛、博物馆、剧院、咖啡馆、讲座和社区活动。</p><p><strong>普尔曼（Pullman）</strong></p>"
       },
       {
-        "id": "b-msk4h9bo-mqojw",
+        "id": "b-mtjup2t3-x36en",
         "type": "image",
-        "src": "/images/uploads/1786178441024-640__11_.jpg",
+        "src": "/images/uploads/1788338718864-64017.jpg",
         "altEn": "",
         "altZh": ""
       },
       {
-        "id": "b-msk4j2vv-m0ru5",
+        "id": "b-mtjupeb6-g4r68",
         "type": "text",
-        "textEn": "<p>Construction is set to begin soon on the new Riverside Garden housing development, as around 80 people, including the developers, architects and Centralia city councilors and staff, attended the groundbreaking ceremony for the development on Thursday, June 26.</p><p>Riverside Garden is a mixed housing development from the Sunrise Fortune Investment Group of Bellevue. It will be located at the end of East Roanoke Street not far from the banks of the Skookumchuck River on the Waunch Prairie in Centralia.</p>",
-        "textZh": "<p>河畔花园别墅社区开发项目即将开工，6 月 26 日星期四，包括开发商、建筑师、森特勒利亚市议员和工作人员在内的约 80 人参加了该项目的奠基仪式。</p><p><br>河畔花园别墅社区是由贝尔维尤日出财富投资集团 (Sunrise Fortune Investment Group)&nbsp;投资开发的混合住宅开发项目。该项目位于东罗阿诺克街 (East Roanoke Street) 尽头，距离森特勒利亚 (Centralia) 沃奇草原 (Waunch Prairie) 的斯库库姆查克河 (Skookumchuck River) 河岸不远。</p>"
+        "textEn": "<p>Considered the most traditionally charming college town. Washington State University is the heart of city life, with its campus hosting athletic events, art exhibitions, performance venues, and museums of art, anthropology, and zoology. The average monthly rent is approximately $1,350, tied with Cheney for the lowest among the seven cities and about 37% below the statewide average. The typical home value is around $435,863, about 27.5% lower than the state average. The strong \"Cougar\" culture also makes restaurants, shops, and streets particularly lively on game days.</p><p><strong>Cheney</strong></p>",
+        "textZh": "<p>被视为最具传统气息的大学城。华盛顿州立大学（Washington State University）是城市生活的核心，校园拥有体育赛事、艺术展览、表演场地以及艺术、人类学和动物学博物馆。当地平均月租约1350美元，与切尼并列七座城市最低，比全州平均水平低约37%；典型住房价值约435,863美元，比全州低约27.5%。浓厚的“美洲狮队”文化，也让每逢比赛日的餐馆、商店和街道格外热闹。</p><p><strong>切尼（Cheney）</strong></p>"
       },
       {
-        "id": "b-msk4jt9w-ni8u8",
+        "id": "b-mtjuqn0y-9ucea",
         "type": "image",
-        "src": "/images/uploads/1786178486986-640__12_.jpg",
+        "src": "/images/uploads/1788338791334-64018.jpg",
         "altEn": "",
         "altZh": ""
       },
       {
-        "id": "b-msk4k0bb-672qy",
-        "type": "image",
-        "src": "/images/uploads/1786178495879-640__13_.jpg",
-        "altEn": "",
-        "altZh": ""
-      },
-      {
-        "id": "b-msk4k7o6-v82ah",
-        "type": "image",
-        "src": "/images/uploads/1786178504749-640__14_.jpg",
-        "altEn": "",
-        "altZh": ""
-      },
-      {
-        "id": "b-msk4kfys-gkw9k",
+        "id": "b-mtjuqu4t-8nny7",
         "type": "text",
-        "textEn": "<p>“Today marks a new beginning. We are breaking ground. We are building a brighter future,” Sunrise Fortune CEO Lili Lu said. “This project is more than just new homes; it’s a gateway to brighter opportunities, jobs and a stronger, more united community.”</p><p>She added her team is dedicated to building something they can all be proud of.</p>",
-        "textZh": "<p>“今天标志着一个新的开始。我们正在破土动工，我们正在建设一个更加美好的未来，”日出财富首席执行官吕莉莉说道。“这个项目不仅仅是新建房屋；它更是通往更光明机遇、更多就业岗位以及更强大、更团结的社区的大门。”</p><p>译：她补充说，她的团队致力于打造让他们都感到自豪的东西。</p>"
+        "textEn": "<p>With an average monthly rent of approximately $1,350 and a typical home value of around $426,825. Eastern Washington University's 300-acre main campus is located here, about 16 miles from Spokane. Residents can enjoy the quiet, compact living environment of a small town while sharing the employment, shopping, and healthcare resources of a larger city, making it considered a compromise choice between campus atmosphere and metropolitan convenience.</p><p>Located in central Washington, Ellensburg has developed around the 380-acre campus of Central Washington University. The average monthly rent is about $1,500, and the typical home value is around $460,975. Although its home values are the highest among the seven cities, they remain about 23.4% lower than the statewide average, making it quite attractive to residents who wish to leave the Seattle metro area's high housing prices without giving up cultural and athletic activities.</p><p><strong>Walla Walla</strong></p>",
+        "textZh": "<p>拥有约1350美元的平均月租，典型住房价值约426,825美元。东华盛顿大学（Eastern Washington University）占地300英亩的主校区坐落于此，距离斯波坎约16英里。居民既能享受小城安静、紧凑的生活环境，又可分享大城市的就业、购物及医疗资源，被认为是校园气息与都会便利之间的折中选择。</p><p>位于华州中部的埃伦斯堡（Ellensburg），围绕中央华盛顿大学（Central Washington University）380英亩的校园发展，平均月租约1500美元，典型住房价值约460,975美元。尽管其房屋价值在七座城市中最高，但仍比全州平均水平低约23.4%，对于希望离开西雅图都会区高房价、又不愿放弃文化和体育活动的居民，具有相当吸引力。</p><p><strong>瓦拉瓦拉（Walla Walla）</strong></p>"
       },
       {
-        "id": "b-msk4kwsl-3zkis",
+        "id": "b-mtjur0xr-pjuvv",
         "type": "image",
-        "src": "/images/uploads/1786178538206-640__15_.jpg",
+        "src": "/images/uploads/1788338820968-64019.jpg",
         "altEn": "",
         "altZh": ""
       },
       {
-        "id": "b-msk4l42s-kr0aw",
+        "id": "b-mtjurio8-ivgzf",
         "type": "text",
-        "textEn": "<p>Centralia’s Community Development Director Emil Pearson also spoke.</p><p>“In the 30 years I’ve been doing planning, you usually don’t sit down with a developer and go through all the issues. It just doesn’t usually happen,” Pearson said. “In this case, meeting with George (Ren), and Lili and Xiaoguang (Zhang), they sat down (saying), ‘Let’s meet together to solve the problems.’ And we were able to do that, making an absolutely fantastic project that has only gotten better every time we sit down.”</p>",
-        "textZh": "<p>森特勒利亚社区发展总监埃米尔·皮尔森也发表了讲话。</p><p>“我从事规划工作30年，通常不会和开发商坐下来讨论所有问题。这种情况很少发生，”皮尔森说。“这次，我和乔治（任）、莉莉和张晓光见面时，他们坐下来（说），‘我们一起开会解决这些问题吧。’我们做到了，打造了一个绝对出色的项目，而且每次我们坐下来讨论，都会取得进步。”</p>"
+        "textEn": "<p>A more established living atmosphere. Whitman College is within walking distance of downtown restaurants and hotels, and the campus culture is closely intertwined with the city's commercial district. The average monthly rent is approximately $1,530, and the typical home value is around $420,895, which are about 28.7% and 30% lower than statewide levels, respectively. Residents do not need to be enrolled as students to have access to performances, exhibitions, lectures, and other public events.</p><p><strong>Centralia</strong></p>",
+        "textZh": "<p>更成熟的生活氛围。惠特曼学院（Whitman College）距离市中心餐馆和酒店仅需步行，校园文化与市区商业紧密相连。当地平均月租约1530美元，典型住房价值约420,895美元，分别比全州水平低约28.7%和30%。居民无需注册成为学生，也有机会接触演出、展览、讲座及其他公共活动。</p><p><strong>森特勒利亚（Centralia）</strong></p>"
       },
       {
-        "id": "b-msk4lsgi-3z70e",
+        "id": "b-mtjursxu-urvc7",
         "type": "image",
-        "src": "/images/uploads/1786178579797-640__16_.jpg",
+        "src": "/images/uploads/1788338845684-64020.jpg",
         "altEn": "",
         "altZh": ""
       },
       {
-        "id": "b-msk4m212-d1z05",
+        "id": "b-mtjus1h2-ye6pc",
         "type": "text",
-        "textEn": "<p>Zhang is the owner of ZO Architecture LLC of Bellevue, which partnered with Sunrise Fortune to help design Riverside Garden.</p><p>When completed, Riverside Garden will have a total of 89 units of both single-family homes and townhouses, along with amenities including access to local trails, a picnic area, kids playground, natural open space and pickleball courts.</p>",
-        "textZh": "<p>张先生是贝尔维尤 ZO Architecture LLC 的老板，该公司与 Sunrise Fortune 合作设计河畔花园别墅社区。<br><br>建成后，河畔花园别墅社区将共有 89 套独栋住宅和联排别墅，并提供当地步道、野餐区、儿童游乐场、自然开放空间和匹克球场等便利设施。<br><br></p>"
+        "textEn": "<p>One of the few western Washington cities on the list. Centralia College is located near downtown, and the city sits conveniently along Interstate 5 between Seattle and Portland, offering a highly practical transportation location. The average monthly rent is approximately $1,595 to $1,600—the highest among the seven cities but still about 25% below the statewide average. The typical home value is around $398,862, about one-third lower than the state average. Additionally, fixed-route public transit in Lewis County currently offers fare-free service, which can further reduce commuting costs for some residents.</p><p><strong>Spokane</strong></p>",
+        "textZh": "<p>名单中少有的华州西部城市。森特勒利亚学院（Centralia College）位于市中心附近，城市沿5号州际公路坐落在西雅图与波特兰之间，交通位置十分实用。平均月租约1595至1600美元，虽然是七城最高，却仍比全州低约25%；典型住房价值约398,862美元，比全州低约三分之一。此外，刘易斯县公共交通固定线路目前免收车费，可进一步降低部分居民的通勤成本。</p><p><strong>斯波坎（Spokane）</strong></p>"
       },
       {
-        "id": "b-msk4mtzn-boikb",
+        "id": "b-mtjusanm-q4s10",
         "type": "image",
-        "src": "/images/uploads/1786178629505-640__17_.jpg",
+        "src": "/images/uploads/1788338870743-64022.jpg",
         "altEn": "",
         "altZh": ""
       },
       {
-        "id": "b-msk4n1iz-x2ogb",
+        "id": "b-mtjusk7x-fx4wn",
+        "type": "text",
+        "textEn": "<p>Not a traditional small college town, it nonetheless offers more comprehensive employment, healthcare, shopping, and community resources. Gonzaga University brings basketball events, the Jundt Art Museum, and the Myrtle Woldson Performing Arts Center to the city. With an average monthly rent of approximately $1,430 and a typical home value of around $401,824—both about one-third lower than the statewide averages—it is well-suited for those who want access to university resources without living in a small town.</p><p><strong>Yakima</strong></p>",
+        "textZh": "<p>并非传统意义上的小型大学城，却拥有更完整的就业、医疗、购物和社区资源。贡萨加大学（Gonzaga University）为城市带来篮球赛事、军特艺术博物馆（Jundt Art Museum）和默特尔·沃尔德森表演艺术中心（Myrtle Woldson Performing Arts Center）。当地平均月租约1430美元，典型住房价值约401,824美元，均比全州低约三分之一，适合希望享受大学资源、又不想住在小城的人群。</p><p><strong>雅基马（Yakima）</strong></p>"
+      },
+      {
+        "id": "b-mtjusxhf-xxy1u",
         "type": "image",
-        "src": "/images/uploads/1786178636971-640__18_.jpg",
+        "src": "/images/uploads/1788338898980-64023.jpg",
         "altEn": "",
         "altZh": ""
       },
       {
-        "id": "b-msk4n6p0-i26s8",
-        "type": "image",
-        "src": "/images/uploads/1786178643364-640__19_.jpg",
-        "altEn": "",
-        "altZh": ""
-      },
-      {
-        "id": "b-msk4nbih-pcpmi",
-        "type": "image",
-        "src": "/images/uploads/1786178649464-640__20_.jpg",
-        "altEn": "",
-        "altZh": ""
-      },
-      {
-        "id": "b-msk4ngiw-alr5b",
-        "type": "image",
-        "src": "/images/uploads/1786178656549-640__21_.jpg",
-        "altEn": "",
-        "altZh": ""
+        "id": "b-mtjut6g6-kij4w",
+        "type": "text",
+        "textEn": "<p>It stands out with the lowest typical home value among the seven cities. With a local home value of approximately $367,203—about 39% below the Washington state average—it is the most attractive option for homebuyers among the seven cities. The average monthly rent is around $1,500, also about 30% lower than the statewide average. Yakima Valley College enriches the community with theater, music, sports, student clubs, and art exhibitions, adding a vibrant cultural dimension to this agricultural and commercial city.</p><p>Based on the common benchmark that housing costs should not exceed 30% of pre-tax income, a household would need an annual pre-tax income of approximately $54,000 to $64,000 to afford the average rent in these cities. However, \"affordability\" is a relative concept; utilities, transportation, insurance, debt, family size, and local wage levels all affect true affordability.</p><p>This list shows that college towns are no longer just temporary havens for young students. Campuses continuously bring new populations, fresh ideas, athletic traditions, and cultural activities. The compact urban layout also offers opportunities to reduce reliance on cars. For residents squeezed by the high housing costs of Seattle and its surrounding areas, these seven cities may represent a more realistic alternative—one that allows them to enjoy the vibrant, ever-renewing energy of a college town without having to return to the classroom.</p>",
+        "textZh": "<p>以最低典型住房价值脱颖而出。当地房屋价值约367,203美元，比华州平均水平低约39%，是七座城市中对购房者最有吸引力的一座；平均月租约1500美元，也比全州低约30%。雅基马谷学院（Yakima Valley College）为社区提供戏剧、音乐、体育、学生社团及艺术展览等活动，使这座农业和商业城市增加了浓厚的文化色彩。</p><p>若按照住房支出不超过税前收入30%的常用标准计算，承担这些城市的平均租金，家庭税前年收入约需54,000美元至64,000美元。不过，“平价”只是相对概念，水电费、交通、保险、债务、家庭人口和当地工资水平都会影响真正的负担能力。</p><p>这份名单显示，大学城早已不再只是年轻学生的临时居所。校园持续带来新人口、新观念、体育传统和文化活动，紧凑的市区结构还有机会减少对汽车的依赖。对被西雅图及周边高昂住房成本挤压的居民而言，这七座城市或许代表一种更现实的选择：不用重返课堂，也能享受大学城不断更新、充满活力的生活。</p>"
       }
     ],
-    "image": "/images/uploads/1786178332584-640__10_.jpg"
+    "image": ""
+  },
+  {
+    "id": "news-1788338546145",
+    "slug": "news-1788338546145",
+    "kind": "news",
+    "date": "2026-08-26",
+    "dateLabelEn": "August 26, 2026",
+    "dateLabelZh": "2026年8月26日",
+    "archiveYear": 2026,
+    "archiveMonth": 8,
+    "titleEn": "Breaking! U.S. Proposes $103,000 Sky-High Fee for H-1B Visas, Sending Shockwaves Through the International Student Community!",
+    "titleZh": "突发！美国拟对H-1B征收10.3万美元天价费用，留学圈炸锅了！",
+    "summaryEn": "",
+    "summaryZh": "",
+    "blocks": [
+      {
+        "id": "b-mtjumk6l-v4dpv",
+        "type": "text",
+        "textEn": "<p><strong>New Rule Dramatically Expands Scope, International Students and Tech Industry Face Severe Challenges</strong></p><p>On August 25 (U.S. time), the Trump administration dropped a bombshell—proposing a hefty additional fee of up to $103,265 on certain H-1B work visa applications. The news immediately sent shockwaves through both the international student community and the tech industry.</p><p>According to information released by the Department of Homeland Security (DHS), this $103,265 fee is not a replacement for existing application fees but an additional charge. It primarily targets new \"cap-subject\" petitions that count against the annual H-1B statutory cap.</p><p>The U.S. allocates approximately 85,000 H-1B visas each year, with 65,000 reserved for the regular cap and 20,000 for applicants holding a U.S. master's degree or higher. Under the new rule, nearly all international students and overseas job seekers filing an initial H-1B petition would require their employer to pay this exorbitant fee.</p><p>Many may recall that last year, the Trump administration introduced a $100,000 H-1B fee, which mainly applied to foreign employees located overseas seeking to enter the U.S. on an H-1B visa.</p><p>However, this new proposal significantly expands its scope: it would apply not only to new hires brought in from abroad but also to recent graduates already in the U.S. who need to apply for an H-1B. In short, as long as it's a first-time H-1B petition subject to the annual cap competition, the employer would be required to pay this additional fee.</p><p>Earlier this year, a federal judge in Boston struck down the previous Trump administration policy that had raised H-1B application fees to $100,000, ruling that the charge constituted an unauthorized tax by Congress.</p><p>This time, however, the DHS has reintroduced the measure through administrative rulemaking, aiming to \"recover a portion of the federal government's costs of administering the legal immigration system\" and thereby circumvent legal hurdles. The DHS estimates that this fee would generate approximately $8.8 billion in annual revenue.</p><p>Not all H-1B petitions would be affected by this rule. Under the proposed regulation, the additional fee would not apply to cap-exempt H-1B petitions—such as those filed by certain nonprofit research organizations, government research institutions, and institutions of higher education—nor would it apply to extensions, transfers, or cap-exempt H-1B petitions after the beneficiary has already been counted against the cap.</p><p>The Wall Street Journal noted that if this proposal is ultimately enacted, it would place a significant burden on the technology and finance sectors, as these industries have long relied on the H-1B visa program to recruit top international graduates from U.S. universities.</p><p>Critics within the industry argue that this fee would weaken America's competitive edge in R&amp;D and technology, and could further deter international students from choosing to study in the U.S. Some even suggest that it could drive American companies to move jobs overseas.</p><p>At present, the proposal remains in the \"proposed rule\" stage. On August 25 local time, the rule was officially published in the Federal Register, triggering a 30-day public comment period before it can take effect.</p><p>Given its significant controversy and potential legal challenges, the rule still has a long way to go before final implementation. Students need not be overly anxious.</p><p>Over the past year, U.S. work visa policies have been in constant flux—from OPT adjustments to changes in the H-1B lottery rules to this latest hefty fee proposal. The path to staying in the U.S. has indeed become more complicated than before.</p><p>But policy changes do not mean opportunities have disappeared. By staying informed and planning strategically, one can still find a viable path to remaining in the U.S.</p><p>If you are currently studying in the U.S. and planning to pursue your career here, feel free to follow us for the latest policy updates and practical career resources. Let's explore coping strategies together!</p>",
+        "textZh": "<p>新规覆盖范围大幅扩大，留学生和科技行业面临严峻挑战<br></p><p>美国时间25日，特朗普政府投下了一枚重磅炸弹——提议对部分H-1B工作签证申请征收高达103,265美元的额外费用。消息一出，留学圈和科技行业瞬间炸开了锅。</p><p>根据DHS公布的信息，这项103,265美元的费用并非原有申请费的替代，而是额外征收。它主要针对需要占用每年H-1B法定名额（即所谓“cap-subject”）的新申请。</p><p>美国每年约有85,000个H-1B名额，其中65,000个为普通名额，20,000个留给拥有美国硕士及以上学历的申请人。根据新规，几乎所有首次申请H-1B的留学生、海外求职者，都需要由雇主缴纳这笔天价费用。</p><p>许多人还记得，去年特朗普政府曾推出过10万美元的H-1B费用，当时主要针对人在境外、准备通过H-1B身份进入美国的外国员工。</p><p>但这次的提案覆盖范围大幅扩展：不仅适用于从境外引进的新雇员，还将适用于已在美国境内、需要申请H-1B的应届毕业生等群体。简单来说，只要是第一次申请H-1B工作签证、需要进入年度名额池竞争，雇主都需要缴纳这笔额外费用。</p><p>此前特朗普政府将H-1B签证申请费用提高至10万美元的政策，已于今年6月被波士顿一名联邦法官裁定违法，认定该款项属于未经国会授权的税收。</p><p>然而，此次DHS以行政法规的形式重新提出，旨在“弥补联邦政府管理合法移民系统的部分成本”，以规避法律障碍。DHS估计，这项收费每年将带来约88亿美元的收入。</p><p>并非所有H-1B申请都受影响。根据拟议规则，这笔额外费用不适用于不受配额限制的H-1B申请，例如某些非营利研究机构、政府研究机构和高等教育机构提交的申请以及已经获得H-1B名额后的延期，transfer、免抽签H-1B等。</p><p>《华尔街日报》指出，如果该提案最终通过，将对科技和金融行业造成重大负担，因为这些行业长期依赖H-1B签证从美国大学招聘顶尖国际毕业生。</p><p>业内批评人士认为，这项收费将削弱美国在研发和科技等领域的竞争优势，并可能进一步打击国际学生赴美留学的意愿。甚至有观点认为，这可能导致美国公司将工作岗位转移到海外。</p><p>目前该提案仍处于“拟议规则”阶段。当地时间8月25日，该规则将在《联邦公报》上正式公布，公众将有30天时间提交意见，之后才能生效。</p><p>考虑到其巨大的争议性和潜在的法律挑战，该规则距离最终落地仍有很长的路要走，同学们无需过度焦虑。</p><p>近一年来，美国工签政策变化不断，从OPT调整，到H-1B抽签规则变化，再到此次高额收费提案，留美之路确实比过去更加复杂。</p><p>但政策变化不代表机会消失。及时获取信息，进行有针对性的规划，依然可以找到属于自己的留美路径。</p><p>如果你正在美国读书、计划留美发展，欢迎关注我们的最新动态，获取第一手政策解读和求职干货，一起探讨应对策略！</p>"
+      }
+    ],
+    "image": "/images/uploads/1788338588235-64021.jpg"
+  },
+  {
+    "id": "news-1788339298245",
+    "slug": "news-1788339298245",
+    "kind": "news",
+    "date": "2026-08-21",
+    "dateLabelEn": "August 21, 2026",
+    "dateLabelZh": "2026年8月21日",
+    "archiveYear": 2026,
+    "archiveMonth": 8,
+    "titleEn": "2026 Seattle and Eastside Luxury Home Market: Renewed Activity After Price Resets",
+    "titleZh": "2026 西雅图及东区豪宅市场：价格重置后的重新活跃",
+    "summaryEn": "",
+    "summaryZh": "",
+    "blocks": [
+      {
+        "id": "b-mtjv25v1-chcz7",
+        "type": "text",
+        "textEn": "<p>In 2026, the luxury home market in Seattle and the Eastside displays a defining characteristic: prices on high-end residences have generally undergone significant resets, yet buyer demand is rebounding rapidly. Multiple high-value transactions and relistings indicate that the luxury market is emerging from the two-year wait-and-see period and re-entering an active phase.</p><p><strong>Hunts Point: The Bellwether of Washington's Luxury Home Market</strong></p>",
+        "textZh": "<p>2026&nbsp;年的西雅图及东区（Eastside）豪宅市场呈现出一个鲜明特征：高端住宅价格普遍经历大幅重置，但买方需求正在迅速回升。多宗高价交易与重新挂牌案例显示，豪宅市场正在从过去两年的观望期中走出，重新进入活跃阶段。</p><p><strong>Hunts Point：华州豪宅市场的风向标&nbsp;</strong></p>"
+      },
+      {
+        "id": "b-mtjv2y0g-6ovrp",
+        "type": "image",
+        "src": "/images/uploads/1788339366421-64026.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mtjv377a-rp94v",
+        "type": "text",
+        "textEn": "<p><strong>Hunts Point continues to hold its position as the core of Washington State's luxury real estate market.</strong> The latest transaction shows that a waterfront estate sold for $21.2 million in August 2026, making it the fourth-highest-priced residential transaction in the state this year. The property features over an acre of street-to-water land, 160 feet of lake frontage, and commanding views of the Seattle skyline and the Olympic Mountains. Brokers have described it as \"the kind of opportunity buyers might wait decades to see.\"</p><p>The highest-priced residential transaction in Washington State this year also came from Hunts Point:</p><ul><li><p>A $38 million waterfront estate sale (originally priced at $85 million)</p></li><li><p>Followed by a $28 million Mercer Island mansion</p></li><li><p>And a $23.5 million waterfront property on Orcas Island</p></li></ul><p>Together, these transactions reflect that repriced trophy assets are once again attracting buyers back to the market.</p><p><strong>Denny-Blaine: A Sharp Price Correction for Seattle's Urban Luxury Market</strong></p><p>Seattle's most expensive listing has also seen a significant price reduction. A 12,000-square-foot waterfront mansion in Denny-Blaine (associated with developer Bruce Blume) was relisted in 2026, with its price cut from $75 million in 2025 to $45 million—a 40% decrease.</p><p>This adjustment reflects that sellers of urban luxury properties are recalibrating their expectations to align with a high-end market that is regaining momentum.</p><p><strong>Historic Estates and Trophy Assets Generally Undergo Price Resets</strong></p>",
+        "textZh": "<p>Hunts Point 继续稳居华州豪宅市场的核心地带。 最新成交案例显示，一处临水庄园于&nbsp;2026&nbsp;年&nbsp;8&nbsp;月以&nbsp;2,120&nbsp;万美元售出，成为今年华州第四高价住宅交易。该物业拥有超过一英亩的街到水地块、160&nbsp;英尺湖岸线，并可俯瞰西雅图天际线与奥林匹克山脉，被经纪人形容为“买家等几十年才会出现的机会”。</p><p></p><p><strong>今年华州最高价的住宅交易同样来自&nbsp;Hunts Point：</strong></p><p></p><p>3,800&nbsp;万美元的临水庄园成交（原价8,500&nbsp;万美元）</p><p>其次是2,800&nbsp;万美元的 Mercer Island 豪宅</p><p>以及2,350&nbsp;万美元的 Orcas Island 临水物业</p><p></p><p>这些交易共同反映出：价格重置后的&nbsp;trophy&nbsp;级资产正在重新吸引买家入场。<br></p><p><strong>Denny-Blaine：西雅图市区豪宅的剧烈价格调整&nbsp;</strong></p><p></p><p>西雅图最昂贵的挂牌也出现了显著降价。位于 Denny-Blaine 的&nbsp;12,000&nbsp;平方英尺临水豪宅（与开发商&nbsp;Bruce Blume&nbsp;相关）在&nbsp;2026&nbsp;年重新挂牌，价格从&nbsp;2025&nbsp;年的&nbsp;7,500&nbsp;万美元下调至4,500&nbsp;万美元，降幅达40%。</p><p>这一调整反映出市区豪宅卖家正在重新校准预期，以适应一个正在恢复动能的高端市场。</p><p>&nbsp;历史庄园与&nbsp;trophy&nbsp;资产普遍经历价格重置&nbsp;</p>"
+      },
+      {
+        "id": "b-mtjv3zgm-ggggw",
+        "type": "image",
+        "src": "/images/uploads/1788339413802-64027.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mtjv47zw-fl84v",
+        "type": "text",
+        "textEn": "<p>The historic estate located at 128 E. Lake Washington Blvd. once again ranks as the second most expensive listing in Washington State, though its price has been significantly reduced from previous levels. It is second only to the Olson Kundig-designed Triptych estate in Bellevue, which has also been reduced from $79 million to $65 million.</p><p>Other typical examples include:</p><ul><li><p>The Ackerley family's San Juan Island estate: relisted at $38 million, down from $75 million.</p></li><li><p>The McCaw family's Hunts Point estate: sold for $38 million after successive price reductions from $85 million.</p></li></ul><p>Luxury real estate broker Dean Jones noted that sellers often test the market with \"aspirational prices,\" but ultimately re-price based on buyer feedback:</p><p>\"Sometimes the aspirational price works, and sometimes it just makes headlines. Then comes the process of repricing and relisting.\"</p><p><strong>After price resets, the luxury market is rapidly rebounding</strong></p><p>Despite widespread price reductions on high-end properties, demand in the luxury market is strengthening significantly.</p><p>According to the latest report from Realogics Sotheby's:</p><ul><li><p>Inventory of homes priced at $5 million and above in King County increased 24% year-over-year (Q2 2026).</p></li><li><p>Pending sales in June 2026 surged 333% year-over-year.</p></li><li><p>Waterfront property sales volume increased 600% year-over-year.</p></li></ul><p>These figures indicate that repriced trophy assets are once again attracting high-net-worth buyers, and the luxury market is entering a new cycle of activity.</p><p><strong>Market Trend Summary: A \"price reset – demand recovery\" cycle is forming in the luxury market</strong></p><p>Based on all recent transactions and listings, the luxury real estate market in Seattle and the Eastside displays the following trends:</p><ol><li><p><strong>Trophy assets have generally seen price reductions of 30%–50%.</strong><br>Sellers are pulling back from post-pandemic peaks and realigning with real market demand.</p></li><li><p><strong>Buyers are re-entering the market, with significantly higher transaction volumes.</strong><br>High-net-worth buyers are showing strong interest in repriced luxury properties, particularly waterfront assets.</p></li><li><p><strong>The Eastside (Hunts Point, Medina, Mercer Island) continues to lead the luxury market.</strong><br>Waterfront land remains exceptionally scarce and continues to be Washington State's most valuable residential asset class.</p></li><li><p><strong>Urban luxury properties (Denny-Blaine, Broadmoor) have experienced more drastic price adjustments,</strong><br>but they continue to attract attention upon relisting, suggesting that a market bottom is forming.</p></li></ol><p><br></p>",
+        "textZh": "<p>位于128 E. Lake Washington Blvd.&nbsp;的历史庄园再次成为华州第二昂贵挂牌，但价格也从此前的水平明显下调。它仅次于贝尔维尤由&nbsp;Olson Kundig&nbsp;设计的&nbsp;Triptych&nbsp;庄园，后者也从7,900&nbsp;万美元降至6,500&nbsp;万美元。</p><p>其他典型案例包括：</p><ul><li><p>Ackerley&nbsp;家族的&nbsp;San Juan Island 庄园：从7,500&nbsp;万美元降至3,800&nbsp;万美元重新上市</p></li><li><p>McCaw&nbsp;家族的&nbsp;Hunts Point&nbsp;庄园：从8,500&nbsp;万美元连续降价后以3,800&nbsp;万美元成交<br></p></li></ul><p>豪宅经纪人&nbsp;Dean Jones&nbsp;指出，卖家常以“理想化价格”试探市场，但最终会根据买方反馈重新定价：</p><p>“有时理想价格能成交，有时只能制造头条。随后就进入重新定价与重新上市的过程。”</p><p>&nbsp;价格重置后，豪宅市场正在快速回暖&nbsp;</p><p>尽管高端物业普遍经历降价，豪宅市场的需求正在显著增强。</p><p></p><p>根据&nbsp;Realogics Sotheby’s&nbsp;的最新报告：</p><ul><li><p>金县&nbsp;500&nbsp;万美元以上房源库存同比增长&nbsp;24%（2026 Q2）</p></li><li><p>2026&nbsp;年&nbsp;6&nbsp;月&nbsp;pending sales&nbsp;同比激增&nbsp;333%</p></li><li><p>临水物业成交量同比增长&nbsp;600%<br></p></li></ul><p>这些数据表明：重新定价后的&nbsp;trophy&nbsp;资产正在重新吸引高净值买家，豪宅市场正进入新一轮活跃周期。</p><p>&nbsp;市场趋势总结：豪宅市场的“价格重置—需求回升”循环正在形成&nbsp;</p><p>综合所有近期交易与挂牌情况，西雅图及东区豪宅市场呈现以下趋势：</p><p>1. Trophy&nbsp;级资产普遍降价&nbsp;30%–50%</p><p>卖家从疫情后期的高点回调，重新贴近市场真实需求。</p><p>2.&nbsp;买家重新入场，成交量显著上升</p><p>高净值买家对重新定价后的豪宅兴趣强烈，尤其是临水资产。</p><p>3.&nbsp;东区（Hunts Point、Medina、Mercer Island）继续领跑豪宅市场</p><p>临水地块稀缺性极高，仍是华州最具价值的住宅资产类别。</p><p>4.&nbsp;市区豪宅（Denny-Blaine、Broadmoor）价格调整更剧烈</p><p>但重新挂牌后仍能吸引关注，显示市场底部正在形成。</p>"
+      }
+    ],
+    "image": "/images/uploads/1788339319686-64025.jpg"
+  },
+  {
+    "id": "news-1788340925185",
+    "slug": "news-1788340925185",
+    "kind": "news",
+    "date": "2026-08-20",
+    "dateLabelEn": "August 20, 2026",
+    "dateLabelZh": "2026年8月20日",
+    "archiveYear": 2026,
+    "archiveMonth": 8,
+    "titleEn": "Centralia City Column | An Investment Choice That Combines Cash Flow and Long-Term Appreciation",
+    "titleZh": "Centralia城市专栏| 现金流与长期增值兼备的投资选择",
+    "summaryEn": "",
+    "summaryZh": "",
+    "blocks": [
+      {
+        "id": "b-mtjw11y5-avtcp",
+        "type": "text",
+        "textEn": "<p>As home prices in Seattle and Bellevue continue to soar and entry barriers grow higher, many overseas investors are turning their attention to a value destination in Washington State—Centralia. Setting aside the allure of trendy, high-profile cities, it's time to return to the fundamental logic of real estate investment: price thresholds, rental yields, location potential, and long-term stability.</p><p>Centralia is strategically located along the I-5 interstate corridor—just a half-hour drive north to Olympia and approximately 80 miles from both Seattle and Portland. It offers convenient transportation access while avoiding the exorbitant cost of living found in big metropolitan areas. With well-developed highway and rail infrastructure, and a diversified local economy anchored by logistics, manufacturing, healthcare, and retail, Centralia provides a steady employment base that underpins a strong rental market.</p><p>In Washington State, home prices—especially in Seattle and the Eastside—can often be prohibitive. The median price for newly built single-family homes in Seattle ranges from approximately $900,000 to $1.5 million; on the Eastside, new single-family homes frequently start at $1.4 million, and in core areas like Bellevue, they start at $1.8 million or more. By contrast, brand-new single-family homes in Centralia are priced at just $500,000 to $700,000. This price gap makes Centralia one of the few value bargains along the Seattle-Portland corridor.</p><p>For those who value quality of life but don't want to be crushed by high mortgage burdens, the cost-performance ratio here is nearly unbeatable. As one local investor put it: \"With less money, you're not just buying a house—you're buying freedom from the anxiety of money.\"</p>",
+        "textZh": "<p>当西雅图、贝尔维尤房价高企，入场门槛越来越高，不少海外投资者把目光转向华盛顿州性价比洼地 ——Centralia。抛开网红热门城市光环，回归房产投资底层逻辑：房价门槛、租金收益、区位潜力、长期稳定性。</p><p>Centralia 地处 I‑5 洲际主干道沿线，北往奥林匹亚仅半小时车程，距离西雅图、波特兰均约 80 英里，兼具交通便利，又避开大都市的高昂生活成本。公路、铁路配套完善，物流、制造业、医疗、零售构成多元本地产业，提供持续就业人口，为租房市场打下坚实基础。</p><p>在华盛顿州，尤其西雅图和东区的房价常常让人望而却步，西雅图的新建独栋住宅价格成交中位价约为90万-150万美元，东区的新建独栋住宅价格经常从140万美元起步，Bellevue这种核心区域更是180万美金起步，而Centralia的房价全新独栋住宅仅50万-70万美金。这样的价差，让Centralia成为西雅图-波特兰走廊上为数不多的价格洼地。</p><p>对于那些既看重生活品质，又不愿被高昂房贷压垮的人来说，这里的性价比几乎无可挑剔。正如当地投资者所言：用更少的钱，买入的不仅是房子，更是一份不被金钱焦虑裹挟的自由。</p>"
+      },
+      {
+        "id": "b-mtjw1vsu-if9dz",
+        "type": "image",
+        "src": "/images/uploads/1788340996292-64036.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mtjw275d-mpq9j",
+        "type": "text",
+        "textEn": "<p>When it comes to real estate investment, appreciation potential is always the top concern. Centralia's market data provides reassuring answers: home prices have risen 1.7% to 5.6% over the past year, and as of early 2026, the cumulative increase has reached 20%. While this performance may not be as dramatic as that of Silicon Valley or Seattle, it stands out for its stability and predictability.</p><p>Some investment analyses indicate that Centralia falls into the category of an \"appreciation-driven return\" market—home prices rise moderately without overheating, and the low vacancy rate of 3.4% further demonstrates the resilience of local housing demand. In short: Centralia is not a casino for quick money, but a solid, long-term hold quality asset.</p>",
+        "textZh": "<p>投资房产，最关心的莫过于增值潜力。Centralia的市场数据给出了令人安心的答案：过去一年房价上涨1.7%至5.6%，截止2026年初涨幅达20%。这样的表现虽然不像硅谷或西雅图那样迅猛，却胜在稳健可期。</p><p>有投资分析指出，Centralia属于“以增值驱动回报”的市场类型——房价温和上涨但不过热，3.4%的低空置率也证明了当地住房需求的韧性。一句话总结：不是赚快钱的赌场，而是长期持有的优质资产。</p>"
+      },
+      {
+        "id": "b-mtjw2gtp-zyc3r",
+        "type": "image",
+        "src": "/images/uploads/1788341022816-64037.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mtjw2oqc-b64wx",
+        "type": "text",
+        "textEn": "<p>Local average rents: The mainstream range for two-bedroom units is $1,200–$1,630, while three-bedroom single-family homes range from $1,700–$3,200. Approximately 40% of the city's households are renters, indicating strong rental demand. Vacancy rates remain low, and properties lease up efficiently with minimal risk of extended vacancy periods. Rental rates in the area have been steadily increasing, generating favorable gross rental yields. For long-term buy-and-hold investors, this translates to stable cash flow returns without relying solely on dramatic property value appreciation.</p><p>Newly delivered homes for rent in Centralia have clear advantages: brand-new construction, modern amenities, and better appeal to tenants. They command more competitive rents, require less maintenance, and offer a more comfortable living experience, making tenants more likely to renew leases long-term. This worry-free, income-generating rental experience is further elevated at Riverside Gardens with its duplex units, where asset value and quality of living are enhanced together—truly delivering \"hassle-free leasing and satisfying returns.\"</p>",
+        "textZh": "<p>当地平均租金两居室主流区间：$1,200–$1,630，三居室独栋住宅：$1,700–$3,200，城市约 40% 住户为租房群体，租房需求旺盛，空置率维持低位，房源出租效率高，不容易出现长期空窗的情况。当地租金水平稳步上涨，形成不错的毛租金收益率，对于长期持有收租的投资人，可以获得稳定现金流回报，不用完全依赖房价暴涨兑现收益。</p><p>Centralia市刚交付的新房出租，优势很明显：房子新、配套好，不仅更好招租、租金更有竞争力，日常维修也少省心不少，租客住得舒服，自然更愿意长期续租。这份安心与收益兼得的出租体验，在河畔花园别墅社区（Riverside Gardens）的双单元别墅得到进一步升华，让资产价值与居住品质同步提升，真正实现“出租省心、收益称心”。</p>"
+      },
+      {
+        "id": "b-mtjw2yud-zuucv",
+        "type": "image",
+        "src": "/images/uploads/1788341045987-64038.jpg",
+        "altEn": "Riverside Garden Villa Community Master Plan",
+        "altZh": "河畔花园别墅社区总平图"
+      },
+      {
+        "id": "b-mtjw38h3-lqt3r",
+        "type": "text",
+        "textEn": "<p>Riverside Garden is a residential project located in downtown Centralia, built along the Skookumchuck River. Spanning 16 acres, the development features a low-density plan comprising 49 single-family and duplex units and 39 townhomes, with occupancy scheduled in phases starting from the end of 2026.</p>",
+        "textZh": "<p>河畔花园项目位于Centralia市中心，临Skookumchuck河而建，占地16英亩，将建造独栋/双单元别墅49户，联排别墅39户，低密度规划。2026年年底起分批入住。</p>"
+      },
+      {
+        "id": "b-mtjw3m7c-stet0",
+        "type": "image",
+        "src": "/images/uploads/1788341076825-64039.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mtjw3ukx-56r8m",
+        "type": "text",
+        "textEn": "<p>Centralia features a mature downtown historic district, an outlet shopping center, local hospitals, and schools, with complete daily amenities. It offers both vintage old-town neighborhoods and well-established residential areas. Most homes come with ample land and floor plans well-suited for family renters, appealing to a broad demographic. Whether for rental income or future resale, the properties have solid market liquidity.</p><p>Residents of Centralia have shared on social media: \"Life here can be simple—so simple that just a good cup of coffee, a slow meal, and a walk at sunset are enough to soothe the soul.\" When investment returns meet a relaxed lifestyle, Centralia offers a rare dual value.</p><p>As the barriers to entry in Seattle and Bellevue continue to rise, Centralia provides overseas investors with an alternative: enter at a lower cost, acquire properties with genuine rental demand and solid transportation advantages, and benefit from both rental cash flow and long-term asset preservation.</p><p>Centralia's market maintains a healthy transaction cycle and steady inventory turnover—a pragmatic market where you can buy, rent out, and resell with confidence. This is not speculative short-term profit-seeking, but a rational approach grounded in market data and a renewed understanding of what life can offer.</p>",
+        "textZh": "<p>Centralia拥有成熟的老城商圈、奥特莱斯购物中心、本地医院、学校，生活配套齐全，既有复古老城街区，也有成熟居民区，住宅大多土地空间充足，户型适合家庭租客，受众群体广，不管是出租还是未来转手，都具备不错的流通基础。</p><p>Centralia的居民曾在社交媒体上分享：“这里的生活可以很简单，简单到只需要一杯好咖啡、一顿慢食、一次落日下的散步，就足以抚平内心的褶皱。”当投资回报与生活松弛感兼得，Centralia提供的，是一种稀缺的双重价值。</p><p>当西雅图、贝尔维尤门槛越来越高，Centralia 给海外投资者提供了另一种选择：用更低的入场成本，拿下有真实租赁需求、区位交通扎实的不动产，兼顾租金现金流与长期资产保值。</p><p>Centralia 市场成交周期健康，房源去化平稳，属于买得到、租得出、卖得掉的务实市场。不是追逐短期暴利的投机，而是基于对市场数据的理性判断，以及对生活本质的重新理解。</p>"
+      }
+    ],
+    "image": "/images/uploads/1788340968724-64030.jpg"
   },
   {
     "id": "news-1785999412731",
@@ -543,7 +667,7 @@
       {
         "id": "b-msibddlw-y0jyy",
         "type": "text",
-        "textEn": "<p>Ms. Lili Lyu, President of Global Land, stated: \"This acquisition represents an important step in Global Land's continued strategic expansion in the Eastside. We chose to enter Redmond at this time not only because of its prime central location, but also because of our strong confidence in the long-term fundamentals of the Eastside office market.\"</p>",
+        "textEn": "<p>Ms. Lili Lu, President of Global Land, stated: \"This acquisition represents an important step in Global Land's continued strategic expansion in the Eastside. We chose to enter Redmond at this time not only because of its prime central location, but also because of our strong confidence in the long-term fundamentals of the Eastside office market.\"</p>",
         "textZh": "<p>Global Land总裁吕莉莉女士说：“<strong>此次收购是&nbsp;Global Land&nbsp;在东区持续深耕布局的重要一步。我们选择在这个时间点进入&nbsp;Redmond，不仅因为其核心区位优势，更因为我们对&nbsp;Eastside 办公市场的长期基本面充满信心</strong>。</p>"
       },
       {
@@ -574,34 +698,6 @@
       }
     ],
     "image": "/images/uploads/1786068956906-640.jpg"
-  },
-  {
-    "id": "redmond-office-2026",
-    "slug": "downtown-redmond-office-acquisition",
-    "kind": "news",
-    "date": "2026-03-01",
-    "dateLabelEn": "March 1, 2026",
-    "dateLabelZh": "2026年3月1日",
-    "titleEn": "Downtown Redmond office acquisition closes",
-    "titleZh": "雷德蒙德市中心办公收购完成",
-    "summaryEn": "Global Land expands the Eastside commercial portfolio with a newly acquired office asset adjacent to the Microsoft campus.",
-    "summaryZh": "Global Land 新增东区办公资产，毗邻微软园区，持续扩展商业地产组合。",
-    "bodyEn": "<p>In March 2026, Global Land acquired an office building in downtown Redmond for $23 million. The property sits next to light rail and near the Microsoft campus.</p><p>Long-term leases with premier tenants support cash-on-cash returns during the hold period, with potential for appreciation at exit.</p>",
-    "bodyZh": "<p>2026 年 3 月，Global Land 以 2300 万美元收购雷德蒙德市中心办公楼。项目毗邻轻轨与微软园区。</p><p>优质租户长期租约支撑持有期现金回报，并具备退出增值空间。</p>",
-    "archiveYear": 2026,
-    "archiveMonth": 3,
-    "eventDetailsEn": "",
-    "eventDetailsZh": "",
-    "image": "",
-    "blocks": [
-      {
-        "id": "b-msb9vnuy-m56jy",
-        "type": "text",
-        "textEn": "In March 2026, Global Land acquired an office building in downtown Redmond for $23 million. The property sits next to light rail and near the Microsoft campus.\nLong-term leases with premier tenants support cash-on-cash returns during the hold period, with potential for appreciation at exit.",
-        "textZh": "2026 年 3 月，Global Land 以 2300 万美元收购雷德蒙德市中心办公楼。项目毗邻轻轨与微软园区。\n优质租户长期租约支撑持有期现金回报，并具备退出增值空间。"
-      }
-    ],
-    "registerUrl": ""
   },
   {
     "id": "news-1786070020265",
@@ -687,6 +783,130 @@
       }
     ],
     "image": "/images/uploads/1786070680492-640__8_.jpg"
+  },
+  {
+    "id": "news-1786178319493",
+    "slug": "news-1786178319493",
+    "kind": "news",
+    "date": "2025-07-04",
+    "dateLabelEn": "July 4, 2025",
+    "dateLabelZh": "2025年7月4日",
+    "archiveYear": 2025,
+    "archiveMonth": 7,
+    "titleEn": "",
+    "titleZh": "华州当地媒体报道河畔花园别墅社区开工典礼",
+    "summaryEn": "",
+    "summaryZh": "",
+    "blocks": [
+      {
+        "id": "b-msk4gq2r-auv01",
+        "type": "text",
+        "textEn": "<p>Posted Friday, June 27, 2025 4:59 pm</p><p>By Owen Sexton &nbsp;/</p>",
+        "textZh": "<p>发布于2025年6月27日（星期五）下午4:59</p><p>作者：Owen Sexton</p>"
+      },
+      {
+        "id": "b-msk4h9bo-mqojw",
+        "type": "image",
+        "src": "/images/uploads/1786178441024-640__11_.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-msk4j2vv-m0ru5",
+        "type": "text",
+        "textEn": "<p>Construction is set to begin soon on the new Riverside Garden housing development, as around 80 people, including the developers, architects and Centralia city councilors and staff, attended the groundbreaking ceremony for the development on Thursday, June 26.</p><p>Riverside Garden is a mixed housing development from the Sunrise Fortune Investment Group of Bellevue. It will be located at the end of East Roanoke Street not far from the banks of the Skookumchuck River on the Waunch Prairie in Centralia.</p>",
+        "textZh": "<p>河畔花园别墅社区开发项目即将开工，6 月 26 日星期四，包括开发商、建筑师、森特勒利亚市议员和工作人员在内的约 80 人参加了该项目的奠基仪式。</p><p><br>河畔花园别墅社区是由贝尔维尤日出财富投资集团 (Sunrise Fortune Investment Group)&nbsp;投资开发的混合住宅开发项目。该项目位于东罗阿诺克街 (East Roanoke Street) 尽头，距离森特勒利亚 (Centralia) 沃奇草原 (Waunch Prairie) 的斯库库姆查克河 (Skookumchuck River) 河岸不远。</p>"
+      },
+      {
+        "id": "b-msk4jt9w-ni8u8",
+        "type": "image",
+        "src": "/images/uploads/1786178486986-640__12_.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-msk4k0bb-672qy",
+        "type": "image",
+        "src": "/images/uploads/1786178495879-640__13_.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-msk4k7o6-v82ah",
+        "type": "image",
+        "src": "/images/uploads/1786178504749-640__14_.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-msk4kfys-gkw9k",
+        "type": "text",
+        "textEn": "<p>“Today marks a new beginning. We are breaking ground. We are building a brighter future,” Sunrise Fortune CEO Lili Lu said. “This project is more than just new homes; it’s a gateway to brighter opportunities, jobs and a stronger, more united community.”</p><p>She added her team is dedicated to building something they can all be proud of.</p>",
+        "textZh": "<p>“今天标志着一个新的开始。我们正在破土动工，我们正在建设一个更加美好的未来，”日出财富首席执行官吕莉莉说道。“这个项目不仅仅是新建房屋；它更是通往更光明机遇、更多就业岗位以及更强大、更团结的社区的大门。”</p><p>译：她补充说，她的团队致力于打造让他们都感到自豪的东西。</p>"
+      },
+      {
+        "id": "b-msk4kwsl-3zkis",
+        "type": "image",
+        "src": "/images/uploads/1786178538206-640__15_.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-msk4l42s-kr0aw",
+        "type": "text",
+        "textEn": "<p>Centralia’s Community Development Director Emil Pearson also spoke.</p><p>“In the 30 years I’ve been doing planning, you usually don’t sit down with a developer and go through all the issues. It just doesn’t usually happen,” Pearson said. “In this case, meeting with George (Ren), and Lili Lu and Xiaoguang (Zhang), they sat down (saying), ‘Let’s meet together to solve the problems.’ And we were able to do that, making an absolutely fantastic project that has only gotten better every time we sit down.”</p>",
+        "textZh": "<p>森特勒利亚社区发展总监埃米尔·皮尔森也发表了讲话。</p><p>“我从事规划工作30年，通常不会和开发商坐下来讨论所有问题。这种情况很少发生，”皮尔森说。“这次，我和乔治（任）、吕莉莉和张晓光见面时，他们坐下来（说），‘我们一起开会解决这些问题吧。’我们做到了，打造了一个绝对出色的项目，而且每次我们坐下来讨论，都会取得进步。”</p>"
+      },
+      {
+        "id": "b-msk4lsgi-3z70e",
+        "type": "image",
+        "src": "/images/uploads/1786178579797-640__16_.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-msk4m212-d1z05",
+        "type": "text",
+        "textEn": "<p>Zhang is the owner of ZO Architecture LLC of Bellevue, which partnered with Sunrise Fortune to help design Riverside Garden.</p><p>When completed, Riverside Garden will have a total of 89 units of both single-family homes and townhouses, along with amenities including access to local trails, a picnic area, kids playground, natural open space and pickleball courts.</p>",
+        "textZh": "<p>张先生是贝尔维尤 ZO Architecture LLC 的老板，该公司与 Sunrise Fortune 合作设计河畔花园别墅社区。<br><br>建成后，河畔花园别墅社区将共有 89 套独栋住宅和联排别墅，并提供当地步道、野餐区、儿童游乐场、自然开放空间和匹克球场等便利设施。<br><br></p>"
+      },
+      {
+        "id": "b-msk4mtzn-boikb",
+        "type": "image",
+        "src": "/images/uploads/1786178629505-640__17_.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-msk4n1iz-x2ogb",
+        "type": "image",
+        "src": "/images/uploads/1786178636971-640__18_.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-msk4n6p0-i26s8",
+        "type": "image",
+        "src": "/images/uploads/1786178643364-640__19_.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-msk4nbih-pcpmi",
+        "type": "image",
+        "src": "/images/uploads/1786178649464-640__20_.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-msk4ngiw-alr5b",
+        "type": "image",
+        "src": "/images/uploads/1786178656549-640__21_.jpg",
+        "altEn": "",
+        "altZh": ""
+      }
+    ],
+    "image": "/images/uploads/1786178332584-640__10_.jpg"
   },
   {
     "id": "news-1786177716543",
@@ -790,7 +1010,7 @@
       {
         "id": "b-msk48cl3-ryrns",
         "type": "text",
-        "textEn": "<p>▲ Ms. Lili Lü</p><p>In her address, Ms. Lili Lü, the Project General Manager, stated: \"We are not merely breaking ground; we are laying the foundation for a better future. The Riverside Garden Villa Community is not only the starting point for building new homes, but also a solid platform for creating new opportunities, generating jobs, and uniting the community. Our goal is to build a safe, sustainable, and welcoming ideal community that everyone can be proud of.\" She concluded by emphasizing that the project team, together with all partners, will go all out to turn this vision into reality.</p><p>Following the speeches, Mr. Emil Pierson, along with three city council members—Mr. Norm Chapman, Mr. Max Vogt, and Mr. Mark Westley—jointly performed the groundbreaking ceremony for the project. Together with Ms. Lili Lü, they turned the first shovels of soil, officially marking the commencement of the Riverside Garden Villa Community project.</p>",
+        "textEn": "<p>▲ Ms. Lili Lu</p><p>In her address, Ms. Lili Lu, the Project General Manager, stated: \"We are not merely breaking ground; we are laying the foundation for a better future. The Riverside Garden Villa Community is not only the starting point for building new homes, but also a solid platform for creating new opportunities, generating jobs, and uniting the community. Our goal is to build a safe, sustainable, and welcoming ideal community that everyone can be proud of.\" She concluded by emphasizing that the project team, together with all partners, will go all out to turn this vision into reality.</p><p>Following the speeches, Mr. Emil Pierson, along with three city council members—Mr. Norm Chapman, Mr. Max Vogt, and Mr. Mark Westley—jointly performed the groundbreaking ceremony for the project. Together with Ms. Lili Lü, they turned the first shovels of soil, officially marking the commencement of the Riverside Garden Villa Community project.</p>",
         "textZh": "<p>▲吕莉莉女士</p><p>项目总经理吕莉莉女士在致辞中表示：“<strong>我们不仅仅是在破土动工，更是在为构建更加美好的未来奠基。河畔花园别墅社区不仅是打造新家的起点，更是开启新机遇、创造就业、凝聚社区的坚实平台。我们的目标——是建设一个安全、环保、宜人的理想社区，让所有人都引以为傲。</strong>”她最后强调，项目团队将携手所有合作伙伴，全力以赴，将这一愿景转化为现实。</p><p>在致辞环节结束后，Emil Pierson先生与三位市议员Norm Chapman先生、Max Vogt&nbsp;先生以及&nbsp;Mark Westley&nbsp;先生共同为项目奠基，并与吕莉莉女士一同挥锹培土，标志着河畔花园别墅社区项目正式启动。</p>"
       },
       {
@@ -803,7 +1023,7 @@
       {
         "id": "b-msk48sch-avd1s",
         "type": "text",
-        "textEn": "<p>▲ From left to right: Councilmember Norm Chapman, Director Emil Pierson, Ms. Lili Lü, Councilmember Max Vogt, Councilmember Mark Westley</p><p>Subsequently, the New Home Realty team took a group photo with the attending staff from various city government departments, jointly commemorating this milestone moment.</p>",
+        "textEn": "<p>▲ From left to right: Councilmember Norm Chapman, Director Emil Pierson, Ms. Lili Lu, Councilmember Max Vogt, Councilmember Mark Westley</p><p>Subsequently, the New Home Realty team took a group photo with the attending staff from various city government departments, jointly commemorating this milestone moment.</p>",
         "textZh": "<p>▲左起：Norm Chapman&nbsp;议员、Emil Pierson主管、吕莉莉女士、Max Vogt&nbsp;议员、&nbsp;Mark Westley&nbsp;议员</p><p>随后，新居地产团队成员与到场的市政府各部门工作人员合影留念，共同记录这一具有里程碑意义的时刻。</p>"
       },
       {
@@ -1031,7 +1251,7 @@
       {
         "id": "b-msicy8t3-pd1gl",
         "type": "text",
-        "textEn": "<p>Ms. Lili Lyu, President of Global Land Investment Management, believes that although the office market is still in a downturn due to high interest rates and remote work, the Eastside office market continues to thrive with growing demand from new and expanding tenants, demonstrating the strength and appeal of the location. \"We saw that in 2024, leasing activity in the Greater Seattle area was primarily concentrated in Bellevue, which is the preferred location for tech companies. The rapid development of the Spring District also reflects Bellevue's importance as a technology hub,\" she said. \"At the same time, we are seeing a bifurcation in the office market. Older office buildings are experiencing rent reductions and widespread vacancies, while new office spaces that integrate smart technologies and modern lifestyle elements are achieving record-high rents. We are very pleased to have the opportunity to acquire this boutique building and are confident that this project will deliver satisfactory returns for our investors in the future.\"</p><p>Global Land Investment Management has invested in multiple real estate projects across Washington State, five of which are villa community projects co-managed in partnership with Xinju Real Estate Development Management.</p>",
+        "textEn": "<p>Ms. Lili Lu, President of Global Land Investment Management, believes that although the office market is still in a downturn due to high interest rates and remote work, the Eastside office market continues to thrive with growing demand from new and expanding tenants, demonstrating the strength and appeal of the location. \"We saw that in 2024, leasing activity in the Greater Seattle area was primarily concentrated in Bellevue, which is the preferred location for tech companies. The rapid development of the Spring District also reflects Bellevue's importance as a technology hub,\" she said. \"At the same time, we are seeing a bifurcation in the office market. Older office buildings are experiencing rent reductions and widespread vacancies, while new office spaces that integrate smart technologies and modern lifestyle elements are achieving record-high rents. We are very pleased to have the opportunity to acquire this boutique building and are confident that this project will deliver satisfactory returns for our investors in the future.\"</p><p>Global Land Investment Management has invested in multiple real estate projects across Washington State, five of which are villa community projects co-managed in partnership with Xinju Real Estate Development Management.</p>",
         "textZh": "<p>Global Land 投资管理公司总裁吕莉莉女士认为，虽然由于高利率和远程办公等原因导致目前办公楼市场仍处于低谷期，但东部办公市场在持续蓬勃发展，新租户和扩张租户的需求不断增长，证明了该地理位置的实力和吸引力。我们看到2024年大西雅图地区的租赁量主要集中在贝尔维尤，这是技术公司的首选地点。Spring District 的快速发展也反映了Bellevue作为技术中心的重要性。同时，我们看到办公楼市场已开始出现分化，老旧的办公楼出现租金降价和大规模的空置，但智能化的、与现代生活元素结合的新办公场所租金价格却再创新高。我们非常高兴有机会收购这样一栋精品建筑，相信该项目未来会为投资人创造满意的回报。</p><p>Global Land 投资管理公司在华盛顿州投资多个房地产项目，其中有五个别墅社区项目是与新居地产开发管理公司合作管理的。</p>"
       }
     ],
