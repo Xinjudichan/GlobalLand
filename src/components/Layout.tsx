@@ -123,7 +123,6 @@ export function Footer() {
           <h4>{t('footer.company')}</h4>
           <ul>
             <li>{t('footer.founded', { year: company.founded })}</li>
-            <li>{t('footer.founder', { name: company.founder })}</li>
             <li>
               <Link to="/contact">{t('footer.contact')}</Link>
             </li>
