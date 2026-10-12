@@ -49,6 +49,29 @@
     "image": "/images/uploads/1791782307883-640.jpg"
   },
   {
+    "id": "news-1791782632116",
+    "slug": "news-1791782632116",
+    "kind": "news",
+    "date": "2026-09-09",
+    "dateLabelEn": "September 9, 2026",
+    "dateLabelZh": "2026年9月9日",
+    "archiveYear": 2026,
+    "archiveMonth": 9,
+    "titleEn": "EvergreenHealth acquires Totem Lake medical office building for $69.9 million — a long-term strategy to expand medical services",
+    "titleZh": "EvergreenHealth 6990万美元收购 Totem Lake 医疗办公楼——扩张医疗服务的长期战略",
+    "summaryEn": "",
+    "summaryZh": "",
+    "blocks": [
+      {
+        "id": "b-mv4t4wr2-76rlj",
+        "type": "text",
+        "textEn": "<p>EvergreenHealth recently acquired a medical office building near its Kirkland Totem Lake main campus for $69.9 million, as part of its long-term plan to expand access to medical services.</p><p>According to King County transaction records dated September 1, the building at 11800 NE 128th St. sold for nearly 36% more than its sale price a decade ago, and far above its assessed value of $27 million.</p><p>The building, known as EvergreenHealth Plaza, was purchased in 2016 by Chicago-based Harrison Street Asset Management for $51.4 million. EvergreenHealth itself was also one of the building's tenants. The hospital system has not yet responded to media inquiries about the acquisition.</p><p>EvergreenHealth's background and hospital district structure</p><p>EvergreenHealth opened its hospital in Kirkland in 1972. In 2014, Valley General Hospital in Snohomish County merged with EvergreenHealth, and its Monroe hospital was renamed EvergreenHealth Monroe.</p><p>The two hospitals belong to different public hospital districts:</p><p>EvergreenHealth (King County Public Hospital District No. 2)<br>Its service area includes Bothell, Kenmore, Kirkland, Redmond, Woodinville, parts of Sammamish, unincorporated areas of northeast King County, and Duvall.</p><p>EvergreenHealth Monroe (Snohomish County Public Hospital District No. 1)<br>Its service area includes Snohomish, Sky Valley, and Snohomish Valley.</p><p>Both are governed by elected commissioners and supported by taxpayer funds.</p><p>Tax measures and expansion plans</p><p>In the August 2025 primary election, voters in the King County hospital district approved a measure that significantly increases the share of property tax revenue received by EvergreenHealth.</p><p>EvergreenHealth CEO Ettore Palazzo told the Business Journal at the time that the funding would help the hospital system respond to population growth and expand access to primary care, emergency care, and behavioral health services:</p><p>\"This allows us to stop standing still and enables us to meet future demand.\" — Ettore Palazzo</p><p>EvergreenHealth Monroe's expansion efforts</p><p>EvergreenHealth Monroe is also advancing its own expansion plans:</p><p>In July 2025, it acquired Sky River Medical Center in Monroe for $24.6 million. A hospital spokesperson said the acquisition provides space and flexibility for expanding facilities and improving access to critical medical services.</p><p>In August 2025, Snohomish County voters narrowly rejected the public hospital district's proposed $382 million bond for building a new hospital.</p>",
+        "textZh": "<p>EvergreenHealth 近日以 6,990 万美元 收购了位于 Kirkland Totem Lake 主院区附近的一栋医疗办公楼，作为其扩大医疗服务可及性的长期规划的一部分。</p><p>根据金县9月1日的交易记录，这栋位于 11800 NE 128th St. 的建筑售价比十年前的成交价高出近 36%，也远高于其 2,700 万美元 的评估价值。</p><p>这栋名为 EvergreenHealth Plaza 的建筑在 2016 年由总部位于芝加哥的 Harrison Street Asset Management 以 5,140 万美元购入。EvergreenHealth 本身也是该楼的租户之一。医院系统尚未回应媒体关于此次收购的询问。</p><p>&nbsp;EvergreenHealth 的背景与医院区结构&nbsp;</p><p>EvergreenHealth 于 1972 年在 Kirkland 开设医院。2014 年，Snohomish County 的 Valley General Hospital 与 EvergreenHealth 合并，其 Monroe 医院更名为 EvergreenHealth Monroe。</p><p>两家医院分别属于不同的公共医院区：</p><ul><li><p>EvergreenHealth（King County Public Hospital District No. 2） &nbsp;</p></li></ul><p>     服务区域包括 Bothell、Kenmore、Kirkland、Redmond、Woodinville、部分 Sammamish、东北 King     </p><p>      County 未建制地区，以及 Duvall。</p><ul><li><p>EvergreenHealth Monroe（Snohomish County Public Hospital District No. 1） &nbsp;</p></li></ul><p>      服务区域包括 Snohomish、Sky Valley 与 Snohomish Valley。<br></p><p>两者均由选举产生的委员治理，并获得纳税人资金支持。</p><p>&nbsp;税收措施与扩张计划&nbsp;</p><p>在 2025 年 8 月的初选 中，King County 医院区的选民批准了一项措施，大幅提高 EvergreenHealth 所获得的地产税收入比例。</p><p>EvergreenHealth CEO Ettore Palazzo 当时向《Business Journal》表示，这笔资金将帮助医院系统应对人口增长，并扩大初级医疗、急诊护理与行为健康服务的可及性：</p><p>“这让我们不再停滞不前，使我们能够应对未来的需求。”——Ettore Palazzo</p><p>EvergreenHealth Monroe 的扩张行动</p><p>EvergreenHealth Monroe 也在推进自身的扩张计划：</p><p>2025 年 7 月以 2,460 万美元 收购了位于 Monroe 的 Sky River Medical Center。医院发言人表示，这项收购为扩建设施与提升关键医疗服务的可及性提供了空间与灵活性。</p><p>2025 年 8 月Snohomish County 选民以微弱差距否决了该公共医院区提出的 3.82 亿美元新医院建设债券。</p>"
+      }
+    ],
+    "image": "/images/uploads/1791782919715-6402.jpg"
+  },
+  {
     "id": "news-1791777697944",
     "slug": "news-1791777697944",
     "kind": "news",
