@@ -36,6 +36,30 @@
     "image": "/images/uploads/1791777841180-ScreenShot_2026-10-12_120245_936.jpg"
   },
   {
+    "id": "news-1791778533734",
+    "slug": "news-1791778533734",
+    "kind": "news",
+    "date": "2026-09-06",
+    "dateLabelEn": "September 6, 2026",
+    "dateLabelZh": "2026年9月6日",
+    "archiveYear": 2026,
+    "archiveMonth": 9,
+    "titleEn": "Seattle-Portland Twin-City Corridor Value Opportunity | Riverside Gardens Villas Low-Density Community",
+    "titleZh": "西雅图・波特兰双城走廊价值洼地｜河畔花园别墅低密度社区",
+    "summaryEn": "",
+    "summaryZh": "",
+    "blocks": [
+      {
+        "id": "b-mv4qpdm3-lrpwi",
+        "type": "image",
+        "src": "/images/uploads/1791778663652-________.jpg",
+        "altEn": "",
+        "altZh": ""
+      }
+    ],
+    "image": "/images/uploads/1791778576858-ScreenShot_2026-10-12_121605_358.jpg"
+  },
+  {
     "id": "news-1788338680188",
     "slug": "news-1788338680188",
     "kind": "news",
