@@ -1,5 +1,133 @@
 [
   {
+    "id": "news-1791786334182",
+    "slug": "news-1791786334182",
+    "kind": "news",
+    "date": "2026-09-18",
+    "dateLabelEn": "September 18, 2026",
+    "dateLabelZh": "2026年9月18日",
+    "archiveYear": 2026,
+    "archiveMonth": 9,
+    "titleEn": "Centralia City Column | 2026 Update Roundup of Commerce, Healthcare, Education, and Amenities",
+    "titleZh": "Centralia城市专栏｜2026商业、医疗、教育、配套更新盘点",
+    "summaryEn": "",
+    "summaryZh": "",
+    "blocks": [
+      {
+        "id": "b-mv4vf7ff-sn5md",
+        "type": "image",
+        "src": "/images/uploads/1791786508824-6407.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4vjsf1-citqr",
+        "type": "text",
+        "textEn": "<p>Centralia is located along the I-5 corridor, midway between Seattle and Portland, and has long been a low-key livable hidden gem in the Pacific Northwest. In 2025–2026, a large number of new commercial developments have landed, educational amenities have been upgraded, and community spaces have been renovated, bringing the city's appearance into a concentrated round of renewal.</p><p>Commerce and retail</p><p>New brands continue to move in</p><p>Chick-fil-A has been approved for construction (Centralia Station Hub) at S. Yew Street, covering approximately 3.22 acres with a single-story building of about 5,000 square feet. The project has entered the construction drawing and bidding stage, with the opening date yet to be determined. It is the most closely watched new dining project locally in recent years.</p>",
+        "textZh": "<p>Centralia地处 I-5 走廊，西雅图与波特兰中点，一直是太平洋西北低调的宜居洼地。2025–2026 年，大量新建商业落地、教育配套升级、社区空间翻新，城市面貌迎来一轮集中更新。</p><p></p><h3>商业与零售 &nbsp;</h3><h3>新品牌持续入驻 &nbsp;<br></h3><p>Chick-fil-A 获批建设（Centralia Station Hub）位于 S. Yew Street，占地约 3.22 英亩，单层约 5000 平方英尺，项目进入施工图与招投标阶段，开业时间待定，是本地近年关注度最高的新增餐饮项目。</p>"
+      },
+      {
+        "id": "b-mv4vmwkg-91lmm",
+        "type": "image",
+        "src": "/images/uploads/1791786868051-6408.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4vn740-xvjeo",
+        "type": "text",
+        "textEn": "<p>In the same Centralia Station area, a WinCo large supermarket project has also been approved, continuously improving retail amenities.</p>",
+        "textZh": "<p>同一片 Centralia Station 片区还有 &nbsp;&nbsp;WinCo 大型超市项目获批，持续完善零售配套。</p>"
+      },
+      {
+        "id": "b-mv4vnl4n-u3gjd",
+        "type": "image",
+        "src": "/images/uploads/1791786900126-6409.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4vnsho-c9gkj",
+        "type": "text",
+        "textEn": "<p>Old hotel renovation project Varsity North &amp; Varsity South</p><p>The former OYO Hotel and King Oscar Hotel have completed full renovations and been renamed the Varsity series communities. The properties have been converted into a split-level model: the upper floors serve as long-term rental apartments (rent slightly below $1,000), while the lower floors retain commercial space, accommodating both long-term residents and short-term visitors. A ribbon-cutting ceremony was held in April 2026, revitalizing idle properties along Harrison Avenue and increasing the local supply of affordable housing and street-level commercial space.</p>",
+        "textZh": "<h3>旧酒店改造项目 Varsity North &amp; Varsity South<br></h3><p>原 OYO 酒店、King Oscar 酒店完成整体翻新，更名为 Varsity 系列社区。物业改造为上下分层模式：上层作为长租公寓（租金略低于1000美金），下层保留商业空间，兼顾长居居民与短期访客，2026 年 4 月举办剪彩仪式，盘活哈里森大道闲置物业，增加本地可负担住房与临街商业供给。</p>"
+      },
+      {
+        "id": "b-mv4vp95u-1b8wb",
+        "type": "image",
+        "src": "/images/uploads/1791786978766-64010.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4vpxp1-uwpwc",
+        "type": "text",
+        "textEn": "<p>Continued financial support for the historic old town</p><p>The city uses lodging tax allocations to continuously fund maintenance of the historic Fox Theatre, the Downtown Centralia welcome project, and annual city festivals (car shows, antique festivals, Christmas markets, etc.), sustaining the vitality of the historic commercial district and attracting tourists and local spending.</p><p>New dining establishments</p><p>Chipotle has confirmed it will open a new store at 1161 Harrison Ave. (the former Starbucks location, near Safeway).</p><p>Retail and specialty stores</p><p>DXL Men's Outlet has expanded and relocated to 1303 Lum Road; Cascade Rare Coins &amp; Precious Metals has opened a store at 408 N. Tower.</p>",
+        "textZh": "<h3>历史老城持续资金扶持<br></h3><p>城市使用住宿税拨款，持续资助 Fox Theatre 老城剧院维护、Downtown Centralia 欢迎项目、年度城市节庆（车展、古董节、圣诞市集等），维持历史商业区活力，吸引游客和本地消费。</p><p></p><p>餐饮新店</p><p>Chipotle 已确认将在 1161 Harrison Ave.（原星巴克位置，Safeway附近）开设新店。</p><p></p><p>零售与专卖店</p><p>DXL Men's Outlet 已扩建迁至 1303 Lum Road；Cascade Rare Coins &amp; Precious Metals 在 408 N. Tower 开设了门店。</p>"
+      },
+      {
+        "id": "b-mv4vqeta-89tws",
+        "type": "image",
+        "src": "/images/uploads/1791787050783-ScreenShot_2026-10-12_143717_525.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4vtyfi-exosa",
+        "type": "text",
+        "textEn": "<p>Healthcare and senior care</p><p>Major expansion, hospital deepens talent development</p><p>Major hospital upgrade</p><p>The healthcare system that includes Providence Centralia Hospital is carrying out a facility renovation plan exceeding $20 million, including building a new surgical building, renovating the entrance, and upgrading imaging and oncology departments, with the aim of moving the surgical department from the basement to the ground floor and adjacent to the recovery area.</p>",
+        "textZh": "<h3>医疗与养老&nbsp;</h3><h3>重大扩建，医院深耕人才培养<br></h3><h3>医院重大升级<br></h3><p>Providence Centralia Hospital&nbsp;所在的医疗系统正在进行一项超过2000万美元的设施改造计划，包括新建手术楼、翻新入口、升级影像和肿瘤科室等，旨在将手术部门从地下室迁至地面并毗邻恢复区。</p>"
+      },
+      {
+        "id": "b-mv4vueb8-r53wt",
+        "type": "image",
+        "src": "/images/uploads/1791787223917-ScreenShot_2026-10-12_144010_029.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4vur67-ovj32",
+        "type": "text",
+        "textEn": "<p>A new PGY1 pharmacy residency program will be launched in 2026 to enhance the hospital's clinical pharmacy service capabilities, improve the integrated medical service system spanning emergency, outpatient, and inpatient care, and provide stable basic medical care for the region.</p><p>Centralia College community college</p><p>Comprehensive expansion of healthcare programs (new classes starting in Fall 2026). The college's SWFT Southwest Washington Training Center has completed renovations, adding two major healthcare-related programs while upgrading the existing medical assistant program.</p><p>Educational amenities</p><p>Multi-point updates implemented from early education and K-12 to community college</p><p>United Learning Center (ULC) opening soon</p><p>This comprehensive community learning center is scheduled to open to the public in early 2026. The center will house Bezos Academy (a free Bezos Montessori preschool), with 4 classrooms accommodating up to 80 preschool children; the Discover! Children's Museum; and the Boys &amp; Girls Club of Lewis County. Early education, children's science learning, and youth activities are concentrated in the same community space, greatly enhancing family-friendliness.</p>",
+        "textZh": "<p>2026 年新开设 PGY1 药房住院医师项目，提升院内临床药学服务能力，完善急诊、门诊、住院一体化医疗服务体系，为本地区提供稳定基础医疗保障。<br></p><h3>Centralia College 社区学院<br></h3><p>医疗专业全面扩容（2026 秋季新开班）学院 SWFT 西南华盛顿实训中心完成改造，新增两大医疗相关专业，同时升级原有医疗助理项目。</p><p></p><h3><strong>教育配套&nbsp;</strong></h3><h3><strong>从早教、K12 到社区学院，多点落地更新</strong></h3><p></p><p>United Learning Center (ULC) 即将开放<br></p><p>这个综合性社区学习中心计划于2026年初向公众开放，中心将容纳 Bezos Academy（贝索斯蒙氏免费幼儿园），4 间教室，最多容纳 80 名学龄前儿童；Discover! Children's Museum 以及 Lewis County 男孩女孩俱乐部。 早教、儿童科普、青少年活动集中在同一个社区空间，家庭友好度大幅提升。</p>"
+      },
+      {
+        "id": "b-mv4vxpqb-b3egz",
+        "type": "image",
+        "src": "/images/uploads/1791787374749-ScreenShot_2026-10-12_144235_694.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4vxzpz-rys5v",
+        "type": "image",
+        "src": "/images/uploads/1791787385277-ScreenShot_2026-10-12_144243_821.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4vz3xo-gu1qo",
+        "type": "text",
+        "textEn": "<p>Public high school plans to add a health and athletic center</p><p>The Centralia public school district is soliciting architectural engineering teams to conduct a feasibility study for a health and athletic recreation center at Centralia High School. Once completed, the facility will serve school teams and physical education classes while also opening to the community, accommodating both student training and residents' fitness needs. It is currently in the preliminary program evaluation stage.</p>",
+        "textZh": "<h3>公立高中规划新增健康与运动馆</h3><p></p><p>Centralia 公立学区正在征集建筑工程团队，为 Centralia High School 做健康与运动康乐中心可行性研究。场馆建成后服务校队、体育课，同时向社区开放，兼顾学生训练与居民健身需求，目前处于前期方案评估阶段。</p>"
+      },
+      {
+        "id": "b-mv4w0exo-sirb3",
+        "type": "image",
+        "src": "/images/uploads/1791787501569-ScreenShot_2026-10-12_144450_490.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4w0pyo-1dyyv",
+        "type": "text",
+        "textEn": "<p>Urban infrastructure and community amenities renovation</p><p>Municipal engineering, roads and utility networks, and public spaces are being advanced in parallel:</p><p>In terms of public services, the city's wastewater treatment plant opens compost sales every year, allowing residents to purchase gardening compost at low prices, while also setting up self-service free compost sites, making it a popular livelihood amenity among local residents.</p><p>The city council has voted to conditionally lift the ban on warehouses and distribution centers exceeding 250,000 square feet, clearing the way for large-scale logistics projects.</p><p>Energy transition: TransAlta is advancing its project to convert Centralia Unit 2 from coal to natural gas, currently in the permitting and regulatory review stage, with construction expected to take place in 2027-2028. Meanwhile, a feasibility study on producing electrolytic hydrogen in Centralia and Lewis County has been completed, aimed at supporting the transition from coal to green energy.</p><p>Overall, Centralia's current development is not scattered updates in a single field, but systematic investment covering industry, healthcare, education, housing, and public spaces. The advancement of the port industrial park and logistics projects serves as the economic engine, the expansion of hospitals and senior care facilities solidifies the foundation for people's livelihood, while the new learning center and park renovations directly enhance the community's quality of life, continuously optimizing its livability.</p>",
+        "textZh": "<h3><strong>城市基建与生活配套翻新&nbsp;</strong><br></h3><p>市政工程、道路管网、公共空间同步推进：<br></p><p>公共服务方面，城市污水处理厂每年开放堆肥售卖，居民可低价采购园艺堆肥，同时设置自助免费堆肥点，是本地居民喜爱的民生配套。<br></p><p>市议会已投票决定有条件地解除对超过25万平方英尺的仓库和配送中心的禁令，为大型物流项目扫清了障碍。<br></p><p>能源转型：TransAlta 正推进其 Centralia Unit 2 从煤炭向天然气的转换项目，目前处于许可和监管审查阶段，建设期预计为2027-2028年。同时，一项关于在Centralia和Lewis County生产电解氢的可行性研究已完成，旨在支持从煤炭向绿色能源的转型。<br></p><p>总的来说，Centralia 目前的发展并非单一领域的零星更新，而是覆盖产业、医疗、教育、住房和公共空间的系统性投资。港口工业园和物流项目的推进是经济引擎，医院和养老设施的扩建夯实了民生基础，而新学习中心和公园翻新则直接提升了社区的生活品质，持续优化宜居属性。&nbsp;</p>"
+      }
+    ],
+    "image": ""
+  },
+  {
     "id": "news-1791785940528",
     "slug": "news-1791785940528",
     "kind": "news",
