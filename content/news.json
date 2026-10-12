@@ -1,5 +1,29 @@
 [
   {
+    "id": "news-1791788623646",
+    "slug": "news-1791788623646",
+    "kind": "news",
+    "date": "2026-09-25",
+    "dateLabelEn": "September 25, 2026",
+    "dateLabelZh": "2026年9月25日",
+    "archiveYear": 2026,
+    "archiveMonth": 9,
+    "titleEn": "Riverside Garden Villas wishes you a happy and healthy Mid-Autumn reunion.",
+    "titleZh": "河畔花园别墅祝您中秋团圆安康",
+    "summaryEn": "",
+    "summaryZh": "",
+    "blocks": [
+      {
+        "id": "b-mv4wow84-9bcpz",
+        "type": "image",
+        "src": "/images/uploads/1791788653892-64011.jpg",
+        "altEn": "",
+        "altZh": ""
+      }
+    ],
+    "image": ""
+  },
+  {
     "id": "news-1791786334182",
     "slug": "news-1791786334182",
     "kind": "news",
