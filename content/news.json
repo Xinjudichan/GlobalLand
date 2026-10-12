@@ -1,5 +1,54 @@
 [
   {
+    "id": "news-1791789013375",
+    "slug": "news-1791789013375",
+    "kind": "news",
+    "date": "2026-10-09",
+    "dateLabelEn": "October 9, 2026",
+    "dateLabelZh": "2026年10月9日",
+    "archiveYear": 2026,
+    "archiveMonth": 10,
+    "titleEn": "U.S. Visa Policy Tightens Dramatically! Green Card Channels Suspended for Microsoft and Other Tech Companies, Harvard, Stanford, and 9 Other Prestigious Universities Under Investigation",
+    "titleZh": "美国签证政策大收紧！微软等多家科技企业绿卡通道暂停，哈佛、斯坦福等 9 所名校遭调查",
+    "summaryEn": "",
+    "summaryZh": "",
+    "blocks": [
+      {
+        "id": "b-mv4wz0uu-kbbew",
+        "type": "text",
+        "textEn": "<p>U.S. Vice President JD Vance (JD Vance) announced at a White House press conference that the Department of Labor will indefinitely suspend Microsoft, Adobe, and several IT outsourcing companies from participating in the PERM permanent labor certification program. The list also includes: Cognizant, Infosys, Tata Consultancy Services, Wipro, HCL Technologies, and Capgemini.</p><p>PERM is the first threshold for foreign employees relying on an employer to apply for an employment-based green card. Employers must prove to the Department of Labor that hiring this foreign employee will not harm the wage levels of American workers and will not take jobs away from Americans. Only after PERM is approved can the green card application proceed.</p><p>Labor Secretary Sandlin made it clear: the Department of Labor will no longer accept new PERM applications submitted by the above companies, and all applications already submitted and being processed will also stop being adjudicated. This measure will continue until the \"necessary period\" ends.</p>",
+        "textZh": "<p>美国副总统万斯（JD Vance）在白宫新闻发布会宣布：劳工部将无限期暂停微软、Adobe 以及多家 IT 外包企业参与 PERM 永久劳工认证计划。名单还包含：Cognizant（高知特）、Infosys（印孚瑟斯）、Tata Consultancy Services（塔塔咨询）、Wipro（维普罗）、HCL Technologies、Capgemini（凯捷）。</p><p>PERM 是外籍员工依托雇主申请职业移民绿卡的第一道门槛。雇主必须向劳工部证明：招聘这名外籍员工，不会损害美国本土工人的薪资水平、不会抢占美国人工作岗位。只有 PERM 获批，才能继续推进绿卡申请。</p><p>劳工部长桑德林明确表态：劳工部不再接收上述企业新提交的 PERM 申请，已经提交、正在处理中的申请也全部停止审理。这项措施将持续到 “必要期限” 为止。</p>"
+      },
+      {
+        "id": "b-mv4x0wrw-zk7ei",
+        "type": "image",
+        "src": "/images/uploads/1791789204792-ScreenShot_2026-10-12_151313_624.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4x168c-iee9c",
+        "type": "text",
+        "textEn": "<p>Vance accused Microsoft of abusing the H-1B visa and green card channels: Microsoft laid off about 6,000 American workers, while during the same period obtaining about 6,300 H-1B visas and nearly 3,000 green cards, allegedly using lower-paid foreign workers to replace American workers.</p><p><br></p>",
+        "textZh": "<p>万斯指控微软滥用 H-1B 签证与绿卡通道：微软解雇约 6000 名美国本土员工，同期拿到约 6300 份 H-1B 签证、近 3000 张绿卡，是在用薪资更低的外籍劳工替代美国工人。</p>"
+      },
+      {
+        "id": "b-mv4x1h26-feek9",
+        "type": "image",
+        "src": "/images/uploads/1791789229175-ScreenShot_2026-10-12_151340_307.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4x2tm9-n6scp",
+        "type": "text",
+        "textEn": "<p>Vance also singled out nine U.S. universities that day for abusing the J-1 visa, which allows foreign students and scholars to come to the United States for work and study exchange programs. He said the nine universities — MIT, Harvard University, Yale University, Stanford University, Brown University, the University of Pittsburgh, the University of California, Davis, Caltech, and Arizona State University — are \"suspected of J-1 visa fraud\" and will face further investigation. U.S. Labor Department Inspector General Anthony D'Esposito said subpoenas for the investigation into the nine universities have already been served.</p><p>The fact that tech companies and top universities are being named at the same time points to a common theme: the U.S. government is simultaneously tightening multiple channels for foreign talent to enter the U.S. labor market — work visas, green cards, and academic exchange. Rather than targeting a single company, it is a systemic policy shift covering \"employment-based immigration + study and exchange.\"</p><p>Looking at the timeline over a longer stretch, this suspension is only one link in a recent series of tightening actions.</p><p>On August 24, the U.S. Department of Homeland Security (DHS) published a proposed rule proposing a fee of about $103,000 ($103,265) for cap-subject H-1B visa applications, on the grounds of \"offsetting part of the federal government's costs of administering the legal immigration system.\" Previously, the agency had tried to raise this fee to $100,000, but was rejected by a federal court.</p><p>On October 7, DHS published another proposed rule: U.S. universities would need to pay $70,000 for each international student's first application for Optional Practical Training (OPT), and an additional $30,000 for an extension; for STEM students, the two combined could reach as high as $100,000. The current OPT fee is about $500, an increase of nearly 140 times at the highest. The rule is currently in the public comment period, and public opinion generally believes it will face legal challenges.</p><p>The core logic of this round of policy is \"American workers first,\" cracking down on abuse of the visa system and curbing companies' use of foreign labor to replace domestic employees. The policy is still in the investigation stage, and the PERM suspension measure is indefinite.</p>",
+        "textZh": "<p>万斯当天还点名批评美国9所大学滥用允许外国学生和学者来美参加工作和学习交流项目的J-1签证。他称，麻省理工学院、哈佛大学、耶鲁大学、斯坦福大学、布朗大学、匹兹堡大学、加州大学戴维斯分校、加州理工学院和亚利桑那州立大学9所大学“涉嫌J-1签证欺诈”，将面临进一步调查。美国劳工部督察长安东尼·德埃斯波西托表示，针对这9所大学的调查传票已经送达。</p><p>科技公司与顶尖高校同时被点名，指向一个共同主题：美国政府正在对外籍人才进入美国劳动力市场的多条通道——工作签证、绿卡、学术交流——同步收紧。与其说是针对某一家公司，不如说是一场覆盖“职业移民＋留学交流”的系统性政策转向。</p><p>把时间轴拉长，这次暂停只是最近一系列收紧动作中的一环。</p><p>8月24日，美国国土安全部（DHS）公布一项拟议规则，提议对受配额限制的H-1B签证申请收取约10.3万美元（10.3265万美元）的费用，理由是“弥补联邦政府管理合法移民系统的部分成本”。此前，该机构曾试图把这一费用提高到10万美元，但被联邦法院驳回。</p><p>10月7日，DHS再公布一项拟议规则：美国大学为每名国际学生首次申请“选择性实习训练”（OPT）时需支付7万美元，申请延期还需再付3万美元；对STEM专业学生而言，两项叠加最高可达10万美元。而现行OPT费用约为500美元，涨幅最高接近140倍。目前该规则处于公众意见征询期，舆论普遍认为其将面临法律挑战。</p><p>本轮政策，核心逻辑是“美国工人优先”，打击签证制度滥用、遏制企业用外籍劳工替代本土员工。政策目前仍处于调查阶段，PERM 暂停措施为无限期。</p>"
+      }
+    ],
+    "image": "/images/uploads/1791789093514-ScreenShot_2026-10-12_151053_805.jpg"
+  },
+  {
     "id": "news-1791788701778",
     "slug": "news-1791788701778",
     "kind": "news",
