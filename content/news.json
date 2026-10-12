@@ -1,5 +1,456 @@
 [
   {
+    "id": "news-1791789013375",
+    "slug": "news-1791789013375",
+    "kind": "news",
+    "date": "2026-10-09",
+    "dateLabelEn": "October 9, 2026",
+    "dateLabelZh": "2026年10月9日",
+    "archiveYear": 2026,
+    "archiveMonth": 10,
+    "titleEn": "U.S. Visa Policy Tightens Dramatically! Green Card Channels Suspended for Microsoft and Other Tech Companies, Harvard, Stanford, and 9 Other Prestigious Universities Under Investigation",
+    "titleZh": "美国签证政策大收紧！微软等多家科技企业绿卡通道暂停，哈佛、斯坦福等 9 所名校遭调查",
+    "summaryEn": "",
+    "summaryZh": "",
+    "blocks": [
+      {
+        "id": "b-mv4wz0uu-kbbew",
+        "type": "text",
+        "textEn": "<p>U.S. Vice President JD Vance (JD Vance) announced at a White House press conference that the Department of Labor will indefinitely suspend Microsoft, Adobe, and several IT outsourcing companies from participating in the PERM permanent labor certification program. The list also includes: Cognizant, Infosys, Tata Consultancy Services, Wipro, HCL Technologies, and Capgemini.</p><p>PERM is the first threshold for foreign employees relying on an employer to apply for an employment-based green card. Employers must prove to the Department of Labor that hiring this foreign employee will not harm the wage levels of American workers and will not take jobs away from Americans. Only after PERM is approved can the green card application proceed.</p><p>Labor Secretary Sandlin made it clear: the Department of Labor will no longer accept new PERM applications submitted by the above companies, and all applications already submitted and being processed will also stop being adjudicated. This measure will continue until the \"necessary period\" ends.</p>",
+        "textZh": "<p>美国副总统万斯（JD Vance）在白宫新闻发布会宣布：劳工部将无限期暂停微软、Adobe 以及多家 IT 外包企业参与 PERM 永久劳工认证计划。名单还包含：Cognizant（高知特）、Infosys（印孚瑟斯）、Tata Consultancy Services（塔塔咨询）、Wipro（维普罗）、HCL Technologies、Capgemini（凯捷）。</p><p>PERM 是外籍员工依托雇主申请职业移民绿卡的第一道门槛。雇主必须向劳工部证明：招聘这名外籍员工，不会损害美国本土工人的薪资水平、不会抢占美国人工作岗位。只有 PERM 获批，才能继续推进绿卡申请。</p><p>劳工部长桑德林明确表态：劳工部不再接收上述企业新提交的 PERM 申请，已经提交、正在处理中的申请也全部停止审理。这项措施将持续到 “必要期限” 为止。</p>"
+      },
+      {
+        "id": "b-mv4x0wrw-zk7ei",
+        "type": "image",
+        "src": "/images/uploads/1791789204792-ScreenShot_2026-10-12_151313_624.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4x168c-iee9c",
+        "type": "text",
+        "textEn": "<p>Vance accused Microsoft of abusing the H-1B visa and green card channels: Microsoft laid off about 6,000 American workers, while during the same period obtaining about 6,300 H-1B visas and nearly 3,000 green cards, allegedly using lower-paid foreign workers to replace American workers.</p><p><br></p>",
+        "textZh": "<p>万斯指控微软滥用 H-1B 签证与绿卡通道：微软解雇约 6000 名美国本土员工，同期拿到约 6300 份 H-1B 签证、近 3000 张绿卡，是在用薪资更低的外籍劳工替代美国工人。</p>"
+      },
+      {
+        "id": "b-mv4x1h26-feek9",
+        "type": "image",
+        "src": "/images/uploads/1791789229175-ScreenShot_2026-10-12_151340_307.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4x2tm9-n6scp",
+        "type": "text",
+        "textEn": "<p>Vance also singled out nine U.S. universities that day for abusing the J-1 visa, which allows foreign students and scholars to come to the United States for work and study exchange programs. He said the nine universities — MIT, Harvard University, Yale University, Stanford University, Brown University, the University of Pittsburgh, the University of California, Davis, Caltech, and Arizona State University — are \"suspected of J-1 visa fraud\" and will face further investigation. U.S. Labor Department Inspector General Anthony D'Esposito said subpoenas for the investigation into the nine universities have already been served.</p><p>The fact that tech companies and top universities are being named at the same time points to a common theme: the U.S. government is simultaneously tightening multiple channels for foreign talent to enter the U.S. labor market — work visas, green cards, and academic exchange. Rather than targeting a single company, it is a systemic policy shift covering \"employment-based immigration + study and exchange.\"</p><p>Looking at the timeline over a longer stretch, this suspension is only one link in a recent series of tightening actions.</p><p>On August 24, the U.S. Department of Homeland Security (DHS) published a proposed rule proposing a fee of about $103,000 ($103,265) for cap-subject H-1B visa applications, on the grounds of \"offsetting part of the federal government's costs of administering the legal immigration system.\" Previously, the agency had tried to raise this fee to $100,000, but was rejected by a federal court.</p><p>On October 7, DHS published another proposed rule: U.S. universities would need to pay $70,000 for each international student's first application for Optional Practical Training (OPT), and an additional $30,000 for an extension; for STEM students, the two combined could reach as high as $100,000. The current OPT fee is about $500, an increase of nearly 140 times at the highest. The rule is currently in the public comment period, and public opinion generally believes it will face legal challenges.</p><p>The core logic of this round of policy is \"American workers first,\" cracking down on abuse of the visa system and curbing companies' use of foreign labor to replace domestic employees. The policy is still in the investigation stage, and the PERM suspension measure is indefinite.</p>",
+        "textZh": "<p>万斯当天还点名批评美国9所大学滥用允许外国学生和学者来美参加工作和学习交流项目的J-1签证。他称，麻省理工学院、哈佛大学、耶鲁大学、斯坦福大学、布朗大学、匹兹堡大学、加州大学戴维斯分校、加州理工学院和亚利桑那州立大学9所大学“涉嫌J-1签证欺诈”，将面临进一步调查。美国劳工部督察长安东尼·德埃斯波西托表示，针对这9所大学的调查传票已经送达。</p><p>科技公司与顶尖高校同时被点名，指向一个共同主题：美国政府正在对外籍人才进入美国劳动力市场的多条通道——工作签证、绿卡、学术交流——同步收紧。与其说是针对某一家公司，不如说是一场覆盖“职业移民＋留学交流”的系统性政策转向。</p><p>把时间轴拉长，这次暂停只是最近一系列收紧动作中的一环。</p><p>8月24日，美国国土安全部（DHS）公布一项拟议规则，提议对受配额限制的H-1B签证申请收取约10.3万美元（10.3265万美元）的费用，理由是“弥补联邦政府管理合法移民系统的部分成本”。此前，该机构曾试图把这一费用提高到10万美元，但被联邦法院驳回。</p><p>10月7日，DHS再公布一项拟议规则：美国大学为每名国际学生首次申请“选择性实习训练”（OPT）时需支付7万美元，申请延期还需再付3万美元；对STEM专业学生而言，两项叠加最高可达10万美元。而现行OPT费用约为500美元，涨幅最高接近140倍。目前该规则处于公众意见征询期，舆论普遍认为其将面临法律挑战。</p><p>本轮政策，核心逻辑是“美国工人优先”，打击签证制度滥用、遏制企业用外籍劳工替代本土员工。政策目前仍处于调查阶段，PERM 暂停措施为无限期。</p>"
+      }
+    ],
+    "image": "/images/uploads/1791789093514-ScreenShot_2026-10-12_151053_805.jpg"
+  },
+  {
+    "id": "news-1791788701778",
+    "slug": "news-1791788701778",
+    "kind": "news",
+    "date": "2026-09-30",
+    "dateLabelEn": "September 30, 2026",
+    "dateLabelZh": "2026年9月30日",
+    "archiveYear": 2026,
+    "archiveMonth": 9,
+    "titleEn": "Centralia City Column | Continuously Deepening Urban Ecology and Livable Development",
+    "titleZh": "Centralia城市专栏｜持续深耕城市生态与宜居建设",
+    "summaryEn": "",
+    "summaryZh": "",
+    "blocks": [
+      {
+        "id": "b-mv4wrcs0-rh0h6",
+        "type": "text",
+        "textEn": "<p>In southwestern Washington, the scenic and beautiful Centralia has for many years consistently made environmental beautification, ecological protection, and resident livability important directions for its urban development.</p><p>Entering 2026, the city continues to roll out multiple major environmental initiatives, covering dimensions such as energy structure transition, drinking water safety management, urban tree canopy protection, and watershed flood control and restoration. With a series of practical measures, it continues to polish the city's ecological foundation and steadily drive the city's transformation toward a green and livable city.</p><p>In July 2026, the Washington State Department of Ecology officially announced that Centralia will complete a full natural gas conversion by 2028. The operator, TransAlta, will invest $7 million to $21 million annually in clean energy projects in Lewis County and Thurston County, with the funding amount dynamically adjusted according to the power plant's emissions.</p><p>Urban greening is the most intuitive manifestation of Centralia's years of environmental beautification work. As a certified \"Tree City USA,\" Centralia officially adopted a new urban tree policy in July 2026, with the goal of preserving and continuously expanding urban tree canopy coverage.</p><p>The new regulations standardize the process for municipal tree removal and replanting: after a tree is removed, a new tree must be replanted, and later watering, pruning, and maintenance must be properly carried out. The government has also specifically compiled a list of recommended low-risk tree species suited to the local climate, making it convenient for residents to refer to and choose. The introduction of this policy stems from the real demands of residents — residents were concerned that trees were being cut down without replanting, damaging the city's green appearance.</p><p>Environmental beautification is not limited to urban landscaping; it is also embedded in drinking water safety projects that concern residents' health. In 2026, the governor signed the capital budget, formally arranging funding to launch an evaluation of the livestock farm relocation, requiring a clear timetable for the relocation plan and completion of the overall relocation within 36 months.</p>",
+        "textZh": "<p>在华盛顿州西南部，风景迷人秀丽的 Centralia，多年来始终将环境美化、生态保护、居民宜居作为城市发展的重要方向。<br></p><p>迈入2026 年，这座城市持续推出多项重磅环境行动，覆盖能源结构转型、饮用水安全治理、城市树冠保护、流域防洪修复等多个维度，用一系列务实举措，持续打磨城市生态底色，推动城市向绿色宜居城市稳步蜕变。<br></p><p>2026年7月华盛顿州生态部官宣，Centralia将在 2028 年前完成全面天然气改造，运营方 TransAlta 每年将投入 700 万至 2100 万美元，用于刘易斯县与瑟斯顿县的清洁能源项目，资金额度随电厂排放量动态调整。</p><p>城市绿化是 Centralia 多年环境美化工作最直观的体现。作为认证的 “Tree City USA（美国树木之城）”，Centralia 在 2026 年 7 月正式通过全新城市树木政策，目标是守住并持续扩大城市树冠覆盖率。</p><p>新规规范了市政树木砍伐与补种流程：树木移除后必须补植新树，并做好后期浇水、修剪养护。政府还专门整理适配本地气候、低风险的推荐树种清单，方便市民参考选用。这项政策的出台，源自市民的真实诉求 —— 居民担忧树木砍伐后没有补种，破坏城市绿化面貌。</p><p>环境美化不止于市容绿化，更藏在关乎居民健康的饮水安全工程中。2026 州长签署资本预算，正式安排资金启动养殖场搬迁评估工作，要求明确搬迁计划时间表，要求36个月内完成整体搬迁。</p>"
+      }
+    ],
+    "image": "/images/uploads/1791788747940-ScreenShot_2026-10-12_150534_120.jpg"
+  },
+  {
+    "id": "news-1791788819945",
+    "slug": "news-1791788819945",
+    "kind": "news",
+    "date": "2026-09-30",
+    "dateLabelEn": "September 30, 2026",
+    "dateLabelZh": "2026年9月30日",
+    "archiveYear": 2026,
+    "archiveMonth": 9,
+    "titleEn": "September 2026 Housing Data for Greater Seattle and Centralia, WA | Market Divergence, Seattle Shifts to a Buyer's Market",
+    "titleZh": "2026年9月大西雅图区及Centralia WA住房数据|房市分化，西雅图转入买方市场",
+    "summaryEn": "",
+    "summaryZh": "",
+    "blocks": [
+      {
+        "id": "b-mv4wtkjo-2s32e",
+        "type": "text",
+        "textEn": "<p>In September 2026, the U.S. housing market showed a pattern of firm home prices and sluggish transactions, with high mortgage rates continuing to suppress purchasing power. The Greater Seattle market cooled noticeably, with the median sale price falling 7.34% year over year, formally entering a buyer's market; while in Centralia, a small city in central Washington, home prices fluctuated within a narrow range.</p><p>Redfin data shows that in the four-week period ending mid-September, the national median home sale price was $398,637, up 2.2% year over year, setting a record high for the same period; the NAR reported that the median price of existing homes in August rose 1.6% year over year, marking 38 consecutive months of year-over-year increases.</p><p>Sales of pending homes fell 3.5% month over month, dropping to a near three-year low; mortgage purchase applications fell 19% year over year. The 30-year mortgage rate stood at 7.24%, remaining at a high level for more than a year, and high costs forced a large number of entry-level buyers to stay on the sidelines and exit the market.</p><p>In the fall of 2026, the housing market in the Greater Seattle metropolitan area has ushered in a notable adjustment, with transaction prices declining significantly year over year, inventory rising, and market bargaining power shifting to the buyer's side.</p>",
+        "textZh": "<p>2026 年 9 月美国房市呈现房价坚挺、成交低迷格局，高按揭利率持续压制购买力。大西雅图市场明显降温，成交中位价同比大跌 7.34%，正式进入买方市场；而华盛顿州中部小城 Centralia房价窄幅震荡。</p><p></p><p>Redfin 数据显示，截至 9 月中旬四周期，全美房屋销售中位价$398,637，同比 + 2.2%，创下同期历史新高；NAR 8 月二手房中位价同比上涨 1.6%，连续 38 个月同比上行。</p><p></p><p>待售房屋销量环比下滑 3.5%，跌至近三年低点；按揭购房申请量同比下降 19%。30年期贷款利率7.24%，维持一年以上高位，高成本迫使大量刚需买家观望离场。</p><p></p><p>2026年秋季大西雅图都会区住房市场迎来明显调整，成交价格同比显著下行，库存走高，市场话语权转移到买家一侧。</p>"
+      },
+      {
+        "id": "b-mv4wufmg-nvd0i",
+        "type": "image",
+        "src": "/images/uploads/1791788901473-ScreenShot_2026-10-12_150807_916.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4wumba-j4drp",
+        "type": "text",
+        "textEn": "<p>Data shows that in August, the median sale price in King County fell 7% year over year, and Snohomish County fell 3%; Kitsap and Pierce Counties rose 2% against the trend. Across the entire Northwest region, the median sale price in August fell about 2% year over year to $654,000.</p><p>Centralia belongs to a micro-market in Lewis County, Washington, with a small scale. As of June 30, the average home value was $399,240, up 1.2% year over year; the median sale price in Orchard over the past 30 days was $370,000, up 1% year over year. But when broken down, listings in the 98531 ZIP code saw home prices fall 12.2% year over year, with a median price of only $324,900. This difference indicates that in Centralia, sales of high-priced homes are pushing up the overall median, while the experience for ordinary entry-level homes is relatively weak.</p><p>The U.S. housing market still has some resilience, but high interest rates are suppressing purchasing power, and the fall of 2026 is entering a buyer's window.</p>",
+        "textZh": "<p>数据显示，8月金县成交中位价同比下跌7%，斯诺霍米什县下跌 3%；Kitsap 与 Pierce 县逆势上涨 2%。整个西北范围，8 月成交中位价同比下滑约 2% 至 $654,000。</p><p>Centralia 属于华盛顿州 Lewis 县微型市场，体量小，截至 6 月 30 日房屋平均价值 $399,240，同比涨幅1.2%；Orchard 近 30 天成交中位价 $370,000，同比涨幅1%。但拆分看98531邮编房源，房价同比下跌12.2%，中位价仅 $324,900。这一差异说明：Centralia高价房源成交拉高整体中位数，普通刚需房源体感偏弱。</p><p>全美房市韧性尚存，但高利率压制购买力，2026 年秋季进入买方窗口期。</p>"
+      }
+    ],
+    "image": "/images/uploads/1791788850261-ScreenShot_2026-10-12_150712_985.jpg"
+  },
+  {
+    "id": "news-1791788623646",
+    "slug": "news-1791788623646",
+    "kind": "news",
+    "date": "2026-09-25",
+    "dateLabelEn": "September 25, 2026",
+    "dateLabelZh": "2026年9月25日",
+    "archiveYear": 2026,
+    "archiveMonth": 9,
+    "titleEn": "Riverside Garden Villas wishes you a happy and healthy Mid-Autumn reunion.",
+    "titleZh": "河畔花园别墅祝您中秋团圆安康",
+    "summaryEn": "",
+    "summaryZh": "",
+    "blocks": [
+      {
+        "id": "b-mv4wow84-9bcpz",
+        "type": "image",
+        "src": "/images/uploads/1791788653892-64011.jpg",
+        "altEn": "",
+        "altZh": ""
+      }
+    ],
+    "image": ""
+  },
+  {
+    "id": "news-1791786334182",
+    "slug": "news-1791786334182",
+    "kind": "news",
+    "date": "2026-09-18",
+    "dateLabelEn": "September 18, 2026",
+    "dateLabelZh": "2026年9月18日",
+    "archiveYear": 2026,
+    "archiveMonth": 9,
+    "titleEn": "Centralia City Column | 2026 Update Roundup of Commerce, Healthcare, Education, and Amenities",
+    "titleZh": "Centralia城市专栏｜2026商业、医疗、教育、配套更新盘点",
+    "summaryEn": "",
+    "summaryZh": "",
+    "blocks": [
+      {
+        "id": "b-mv4vf7ff-sn5md",
+        "type": "image",
+        "src": "/images/uploads/1791786508824-6407.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4vjsf1-citqr",
+        "type": "text",
+        "textEn": "<p>Centralia is located along the I-5 corridor, midway between Seattle and Portland, and has long been a low-key livable hidden gem in the Pacific Northwest. In 2025–2026, a large number of new commercial developments have landed, educational amenities have been upgraded, and community spaces have been renovated, bringing the city's appearance into a concentrated round of renewal.</p><p>Commerce and retail</p><p>New brands continue to move in</p><p>Chick-fil-A has been approved for construction (Centralia Station Hub) at S. Yew Street, covering approximately 3.22 acres with a single-story building of about 5,000 square feet. The project has entered the construction drawing and bidding stage, with the opening date yet to be determined. It is the most closely watched new dining project locally in recent years.</p>",
+        "textZh": "<p>Centralia地处 I-5 走廊，西雅图与波特兰中点，一直是太平洋西北低调的宜居洼地。2025–2026 年，大量新建商业落地、教育配套升级、社区空间翻新，城市面貌迎来一轮集中更新。</p><p></p><h3>商业与零售 &nbsp;</h3><h3>新品牌持续入驻 &nbsp;<br></h3><p>Chick-fil-A 获批建设（Centralia Station Hub）位于 S. Yew Street，占地约 3.22 英亩，单层约 5000 平方英尺，项目进入施工图与招投标阶段，开业时间待定，是本地近年关注度最高的新增餐饮项目。</p>"
+      },
+      {
+        "id": "b-mv4vmwkg-91lmm",
+        "type": "image",
+        "src": "/images/uploads/1791786868051-6408.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4vn740-xvjeo",
+        "type": "text",
+        "textEn": "<p>In the same Centralia Station area, a WinCo large supermarket project has also been approved, continuously improving retail amenities.</p>",
+        "textZh": "<p>同一片 Centralia Station 片区还有 &nbsp;&nbsp;WinCo 大型超市项目获批，持续完善零售配套。</p>"
+      },
+      {
+        "id": "b-mv4vnl4n-u3gjd",
+        "type": "image",
+        "src": "/images/uploads/1791786900126-6409.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4vnsho-c9gkj",
+        "type": "text",
+        "textEn": "<p>Old hotel renovation project Varsity North &amp; Varsity South</p><p>The former OYO Hotel and King Oscar Hotel have completed full renovations and been renamed the Varsity series communities. The properties have been converted into a split-level model: the upper floors serve as long-term rental apartments (rent slightly below $1,000), while the lower floors retain commercial space, accommodating both long-term residents and short-term visitors. A ribbon-cutting ceremony was held in April 2026, revitalizing idle properties along Harrison Avenue and increasing the local supply of affordable housing and street-level commercial space.</p>",
+        "textZh": "<h3>旧酒店改造项目 Varsity North &amp; Varsity South<br></h3><p>原 OYO 酒店、King Oscar 酒店完成整体翻新，更名为 Varsity 系列社区。物业改造为上下分层模式：上层作为长租公寓（租金略低于1000美金），下层保留商业空间，兼顾长居居民与短期访客，2026 年 4 月举办剪彩仪式，盘活哈里森大道闲置物业，增加本地可负担住房与临街商业供给。</p>"
+      },
+      {
+        "id": "b-mv4vp95u-1b8wb",
+        "type": "image",
+        "src": "/images/uploads/1791786978766-64010.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4vpxp1-uwpwc",
+        "type": "text",
+        "textEn": "<p>Continued financial support for the historic old town</p><p>The city uses lodging tax allocations to continuously fund maintenance of the historic Fox Theatre, the Downtown Centralia welcome project, and annual city festivals (car shows, antique festivals, Christmas markets, etc.), sustaining the vitality of the historic commercial district and attracting tourists and local spending.</p><p>New dining establishments</p><p>Chipotle has confirmed it will open a new store at 1161 Harrison Ave. (the former Starbucks location, near Safeway).</p><p>Retail and specialty stores</p><p>DXL Men's Outlet has expanded and relocated to 1303 Lum Road; Cascade Rare Coins &amp; Precious Metals has opened a store at 408 N. Tower.</p>",
+        "textZh": "<h3>历史老城持续资金扶持<br></h3><p>城市使用住宿税拨款，持续资助 Fox Theatre 老城剧院维护、Downtown Centralia 欢迎项目、年度城市节庆（车展、古董节、圣诞市集等），维持历史商业区活力，吸引游客和本地消费。</p><p></p><p>餐饮新店</p><p>Chipotle 已确认将在 1161 Harrison Ave.（原星巴克位置，Safeway附近）开设新店。</p><p></p><p>零售与专卖店</p><p>DXL Men's Outlet 已扩建迁至 1303 Lum Road；Cascade Rare Coins &amp; Precious Metals 在 408 N. Tower 开设了门店。</p>"
+      },
+      {
+        "id": "b-mv4vqeta-89tws",
+        "type": "image",
+        "src": "/images/uploads/1791787050783-ScreenShot_2026-10-12_143717_525.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4vtyfi-exosa",
+        "type": "text",
+        "textEn": "<p>Healthcare and senior care</p><p>Major expansion, hospital deepens talent development</p><p>Major hospital upgrade</p><p>The healthcare system that includes Providence Centralia Hospital is carrying out a facility renovation plan exceeding $20 million, including building a new surgical building, renovating the entrance, and upgrading imaging and oncology departments, with the aim of moving the surgical department from the basement to the ground floor and adjacent to the recovery area.</p>",
+        "textZh": "<h3>医疗与养老&nbsp;</h3><h3>重大扩建，医院深耕人才培养<br></h3><h3>医院重大升级<br></h3><p>Providence Centralia Hospital&nbsp;所在的医疗系统正在进行一项超过2000万美元的设施改造计划，包括新建手术楼、翻新入口、升级影像和肿瘤科室等，旨在将手术部门从地下室迁至地面并毗邻恢复区。</p>"
+      },
+      {
+        "id": "b-mv4vueb8-r53wt",
+        "type": "image",
+        "src": "/images/uploads/1791787223917-ScreenShot_2026-10-12_144010_029.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4vur67-ovj32",
+        "type": "text",
+        "textEn": "<p>A new PGY1 pharmacy residency program will be launched in 2026 to enhance the hospital's clinical pharmacy service capabilities, improve the integrated medical service system spanning emergency, outpatient, and inpatient care, and provide stable basic medical care for the region.</p><p>Centralia College community college</p><p>Comprehensive expansion of healthcare programs (new classes starting in Fall 2026). The college's SWFT Southwest Washington Training Center has completed renovations, adding two major healthcare-related programs while upgrading the existing medical assistant program.</p><p>Educational amenities</p><p>Multi-point updates implemented from early education and K-12 to community college</p><p>United Learning Center (ULC) opening soon</p><p>This comprehensive community learning center is scheduled to open to the public in early 2026. The center will house Bezos Academy (a free Bezos Montessori preschool), with 4 classrooms accommodating up to 80 preschool children; the Discover! Children's Museum; and the Boys &amp; Girls Club of Lewis County. Early education, children's science learning, and youth activities are concentrated in the same community space, greatly enhancing family-friendliness.</p>",
+        "textZh": "<p>2026 年新开设 PGY1 药房住院医师项目，提升院内临床药学服务能力，完善急诊、门诊、住院一体化医疗服务体系，为本地区提供稳定基础医疗保障。<br></p><h3>Centralia College 社区学院<br></h3><p>医疗专业全面扩容（2026 秋季新开班）学院 SWFT 西南华盛顿实训中心完成改造，新增两大医疗相关专业，同时升级原有医疗助理项目。</p><p></p><h3><strong>教育配套&nbsp;</strong></h3><h3><strong>从早教、K12 到社区学院，多点落地更新</strong></h3><p></p><p>United Learning Center (ULC) 即将开放<br></p><p>这个综合性社区学习中心计划于2026年初向公众开放，中心将容纳 Bezos Academy（贝索斯蒙氏免费幼儿园），4 间教室，最多容纳 80 名学龄前儿童；Discover! Children's Museum 以及 Lewis County 男孩女孩俱乐部。 早教、儿童科普、青少年活动集中在同一个社区空间，家庭友好度大幅提升。</p>"
+      },
+      {
+        "id": "b-mv4vxpqb-b3egz",
+        "type": "image",
+        "src": "/images/uploads/1791787374749-ScreenShot_2026-10-12_144235_694.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4vxzpz-rys5v",
+        "type": "image",
+        "src": "/images/uploads/1791787385277-ScreenShot_2026-10-12_144243_821.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4vz3xo-gu1qo",
+        "type": "text",
+        "textEn": "<p>Public high school plans to add a health and athletic center</p><p>The Centralia public school district is soliciting architectural engineering teams to conduct a feasibility study for a health and athletic recreation center at Centralia High School. Once completed, the facility will serve school teams and physical education classes while also opening to the community, accommodating both student training and residents' fitness needs. It is currently in the preliminary program evaluation stage.</p>",
+        "textZh": "<h3>公立高中规划新增健康与运动馆</h3><p></p><p>Centralia 公立学区正在征集建筑工程团队，为 Centralia High School 做健康与运动康乐中心可行性研究。场馆建成后服务校队、体育课，同时向社区开放，兼顾学生训练与居民健身需求，目前处于前期方案评估阶段。</p>"
+      },
+      {
+        "id": "b-mv4w0exo-sirb3",
+        "type": "image",
+        "src": "/images/uploads/1791787501569-ScreenShot_2026-10-12_144450_490.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4w0pyo-1dyyv",
+        "type": "text",
+        "textEn": "<p>Urban infrastructure and community amenities renovation</p><p>Municipal engineering, roads and utility networks, and public spaces are being advanced in parallel:</p><p>In terms of public services, the city's wastewater treatment plant opens compost sales every year, allowing residents to purchase gardening compost at low prices, while also setting up self-service free compost sites, making it a popular livelihood amenity among local residents.</p><p>The city council has voted to conditionally lift the ban on warehouses and distribution centers exceeding 250,000 square feet, clearing the way for large-scale logistics projects.</p><p>Energy transition: TransAlta is advancing its project to convert Centralia Unit 2 from coal to natural gas, currently in the permitting and regulatory review stage, with construction expected to take place in 2027-2028. Meanwhile, a feasibility study on producing electrolytic hydrogen in Centralia and Lewis County has been completed, aimed at supporting the transition from coal to green energy.</p><p>Overall, Centralia's current development is not scattered updates in a single field, but systematic investment covering industry, healthcare, education, housing, and public spaces. The advancement of the port industrial park and logistics projects serves as the economic engine, the expansion of hospitals and senior care facilities solidifies the foundation for people's livelihood, while the new learning center and park renovations directly enhance the community's quality of life, continuously optimizing its livability.</p>",
+        "textZh": "<h3><strong>城市基建与生活配套翻新&nbsp;</strong><br></h3><p>市政工程、道路管网、公共空间同步推进：<br></p><p>公共服务方面，城市污水处理厂每年开放堆肥售卖，居民可低价采购园艺堆肥，同时设置自助免费堆肥点，是本地居民喜爱的民生配套。<br></p><p>市议会已投票决定有条件地解除对超过25万平方英尺的仓库和配送中心的禁令，为大型物流项目扫清了障碍。<br></p><p>能源转型：TransAlta 正推进其 Centralia Unit 2 从煤炭向天然气的转换项目，目前处于许可和监管审查阶段，建设期预计为2027-2028年。同时，一项关于在Centralia和Lewis County生产电解氢的可行性研究已完成，旨在支持从煤炭向绿色能源的转型。<br></p><p>总的来说，Centralia 目前的发展并非单一领域的零星更新，而是覆盖产业、医疗、教育、住房和公共空间的系统性投资。港口工业园和物流项目的推进是经济引擎，医院和养老设施的扩建夯实了民生基础，而新学习中心和公园翻新则直接提升了社区的生活品质，持续优化宜居属性。&nbsp;</p>"
+      }
+    ],
+    "image": "/images/uploads/1791788137671-6407.jpg"
+  },
+  {
+    "id": "news-1791788171959",
+    "slug": "news-1791788171959",
+    "kind": "news",
+    "date": "2026-09-18",
+    "dateLabelEn": "September 18, 2026",
+    "dateLabelZh": "2026年9月18日",
+    "archiveYear": 2026,
+    "archiveMonth": 9,
+    "titleEn": "The Great Upheaval of the U.S. Economy in 2026: Is Inflation Just Beginning?",
+    "titleZh": "2026美国经济大变局，通胀才刚刚开始？",
+    "summaryEn": "",
+    "summaryZh": "",
+    "blocks": [
+      {
+        "id": "b-mv4wfhe8-25a52",
+        "type": "text",
+        "textEn": "<p>The United States is experiencing three things at the same time: interest rate hikes, oil prices breaking $100, and consumer confidence collapsing.</p><p>If you feel that gas is getting more and more expensive and that you hesitate more and more when buying things in the U.S. recently, you are not alone.</p><p>In September 2026, the U.S. economy is undergoing a rare \"triple squeeze\" — the Federal Reserve restarting rate hikes after three years, oil prices returning to $100, and consumer confidence falling to historic lows. These three things are not isolated; they are forming a clear transmission chain that ultimately points to the same question: how much longer can ordinary people's wallets hold out?</p><h3>The Federal Reserve \"stands firm\" against the White House, raising rates for the first time in three years</h3><p>At dawn Beijing time on September 17, the Federal Reserve announced it would raise the target range for the federal funds rate by 25 basis points to 3.75%–4.00%. This was the Fed's first rate hike since July 2023, and also the first rate action after Kevin Warsh took over as chair.</p><p>The most noteworthy signal was not the rate hike itself, but the vote result: 12 to 0, unanimous approval. Just two months earlier, at the July meeting, 3 committee members still voted against. Now even the most dovish members have turned to support tightening, indicating that within the Fed there is already a high degree of consensus in its judgment on inflation.</p><p>Warsh said something intriguing at the post-meeting press conference: \"It is hard to say that overall financial conditions are restrictive.\" In other words, the Fed believes the current interest rate is not high enough, and the economy can \"withstand\" further tightening.</p><p>The dot plot shows that 12 of 19 committee members expect one more rate hike within the year. The Fed's forecast for core PCE inflation is 3.4% this year, and it will not return to the 2% target until 2029 — a full year later than previously estimated.</p><h3>Oil prices break $100, diesel prices hit a record high</h3><p>Just one week before the Fed's policy meeting, international oil prices completed a key breakthrough — both Brent and WTI crude rose above $100 per barrel, the second time since the outbreak of the Iran conflict.</p><p>Even more noteworthy than crude oil is diesel. The U.S. national average diesel price reached $6 per gallon for the first time, setting a record high. Patrick De Haan, head of petroleum analysis at GasBuddy, warned: \"Diesel prices affect the transport of every shipment of goods, and may reignite inflation across the entire supply chain.\"</p><p>Diesel rises → freight costs rise → goods on supermarket shelves rise → the prices you see at checkout rise. The lag effect of this chain means that in the coming months U.S. prices may face a new round of upward pressure.</p><p>And this time, the global \"safety cushion\" used to buffer energy shocks has basically been exhausted. The U.S. Strategic Petroleum Reserve has fallen to its lowest level since the early 1980s. Goldman Sachs chief economist Jan Hatzius said that when the conflict first began in March, the probability of recession was about 30%, and it has now fallen to 15%, \"but if we suffer another energy shock, the recession probability will be revised upward again.\"</p><p>Consumer confidence declines for two consecutive months, even Republicans are wavering</p><p>The preliminary University of Michigan consumer sentiment index for September came in at 47.8, not only significantly below August's 51.7, but also marking a second consecutive monthly decline. The consumer expectations index plunged from 51.5 to 45.8, a drop of nearly 6 points.</p><p>Even more noteworthy is the structure: confidence among both Democrats and Republicans has fallen sharply. The survey shows that households' confidence in the Trump administration's economic management capability deteriorated by about 10% from the previous month, and even the confidence of Republican supporters has shown signs of weakening.</p><p>What does this show? The erosion of ordinary people's lives by inflation and oil prices is transcending partisan positions. When the numbers on the gas station sign are constantly resetting your psychological bottom line every day, political labels become less important.</p><p>In the Beige Book report released by the Federal Reserve in early September, there was one sentence that many media outlets overlooked, but it may be the most critical key to understanding the current U.S. economy: \"Economic growth is increasingly dependent on a small number of projects such as artificial intelligence data centers.\"</p><p>In other words, if you strip out AI and the consumption of high-income groups, the actual growth rate of the U.S. economy may be close to zero. This is not an economy of \"steady expansion,\" but a fragile structure highly dependent on a single engine.</p><p>Tariffs: a \"hidden tax increase\" that is fermenting</p><p>On September 9, the Trump administration announced the expansion of the scope of its 50% tariff on Canadian goods, adding more than 70 tariff lines, covering categories such as cheese, building materials, furniture, automobiles, and lighting, which officially took effect on September 15.</p><p>UBS estimates that the U.S. effective tariff rate has jumped from 2.5% at the beginning of the year to more than 13%, equivalent in scale to a hidden tax increase of about 1.1% of GDP. Moreover, this is not a one-time shock — tariff costs will continue to push up core inflation over the coming years.</p><p>For ordinary consumers, this means that the imported cheese, furniture, and building materials you buy in supermarkets have already been quietly rising in price, and will not fall back in the short term.</p>",
+        "textZh": "<p>美国正在同时经历三件事：加息、油价破百、消费者信心崩塌。</p><p>如果在美国你觉得最近加油越来越贵、买东西越来越犹豫，你不是一个人。</p><p>2026年9月，美国经济正在经历一场罕见的“三重挤压”——美联储时隔三年重启加息，油价重返100美元，消费者信心跌至历史低位。这三件事不是孤立的，它们正在形成一条清晰的传导链，最终指向同一个问题：普通人的钱包，还能撑多久？</p><p></p><h3>&nbsp;美联储“硬刚”白宫，三年来首次加息&nbsp;<br></h3><p>北京时间9月17日凌晨，美联储宣布将联邦基金利率目标区间上调25个基点至3.75%–4.00%。这是自2023年7月以来美联储的首次加息，也是凯文·沃什接任主席后的第一次利率行动。</p><p>最值得注意的信号不是加息本身，而是投票结果：12比0，全票通过。就在两个月前的7月会议上，还有3位委员投了反对票。如今连最鸽派的委员也转向支持紧缩，说明美联储内部对通胀的判断已经高度一致。</p><p>沃什在会后发布会上说了一句耐人寻味的话：“很难说整体金融条件具备限制性。&nbsp;”换句话说，美联储认为当前的利率还不够高，经济“扛得住”进一步收紧。</p><p>点阵图显示，19位委员中有12人预计年内还会再加息一次。美联储对核心PCE通胀的预测是今年3.4%，并且要到2029年才能回到2%目标——比此前预估晚了整整一年。</p><p></p><h3>&nbsp;油价破百，柴油价格创历史新高&nbsp;</h3><p></p><p>就在美联储议息会议前一周，国际油价完成了一次关键突破——布伦特和WTI原油双双站上每桶100美元，这是自伊朗冲突爆发以来的第二次。</p><p>比原油更值得关注的是柴油。美国柴油全国均价首次触及每加仑6美元，创下历史新高。石油分析机构GasBuddy的主管帕特里克·德哈恩警告：“柴油价格会影响每一批货物运输，或将在整条供应链重新点燃通胀。”</p><p>柴油涨→货运成本涨→超市货架上的商品涨→你结账时看到的价格涨。这条链条的滞后效应，意味着未来几个月美国物价可能面临新一轮上行压力。</p><p>而这一次，全球用来缓冲能源冲击的“安全垫”已经基本耗尽。美国的战略原油储备已降至上世纪80年代初以来的最低水平。高盛首席经济学家哈祖斯表示，3月冲突刚起时衰退概率约为30%，当前降至15%，“但如果再次遭遇能源冲击，衰退概率将会再度上调”。</p><p></p><h3>消费者信心连续两月下滑，共和党人也在动摇&nbsp;<br></h3><p>密歇根大学9月消费者信心指数初值录得47.8，不仅显著低于8月的51.7，更是连续第二个月下滑。消费者预期指数从51.5骤降至45.8，跌幅接近6个点。</p><p>更值得注意的是结构：民主党人和共和党人的信心都在大幅下降。调查显示，家庭对特朗普政府经济管理能力的信心较上月恶化约10%，即便是共和党支持者的信心也出现了松动。</p><p>这说明什么？通胀和油价对普通人生活的侵蚀，正在超越党派立场。&nbsp;当加油站的数字牌每天都在刷新你的心理底线时，政治标签变得不那么重要了。</p><p>美联储9月初发布的褐皮书报告中，有一句话被很多媒体忽略了，但它可能是理解当前美国经济最关键的一把钥匙：“经济增长越来越依赖人工智能数据中心等少数项目。&nbsp;”</p><p>换句话说，如果剥离AI和高收入人群的消费，美国经济的实际增速可能接近于零。这不是一个“稳健扩张”的经济体，而是一个高度依赖单一引擎的脆弱结构。</p><p></p><h3><strong>&nbsp;关税：一场正在发酵的“隐性加税”&nbsp;<br></strong></h3><p>9月9日，特朗普政府宣布扩大对加拿大商品50%关税的适用范围，新增超过70个税目，涵盖奶酪、建材、家具、汽车、灯具等品类，9月15日正式生效。</p><p>瑞银测算，美国有效关税税率已从年初的2.5%跃升至13%以上，规模相当于一次约占GDP 1.1%的隐性增税。而且这并非一次性冲击——关税成本会在未来数年持续推高核心通胀。</p><p>对于普通消费者而言，这意味着你在超市里买到的进口奶酪、家具、建材，价格已经在悄悄上涨，而且短期内不会回落。</p>"
+      }
+    ],
+    "image": "/images/uploads/1791788189420-ScreenShot_2026-10-12_145606_219.jpg"
+  },
+  {
+    "id": "news-1791785940528",
+    "slug": "news-1791785940528",
+    "kind": "news",
+    "date": "2026-09-12",
+    "dateLabelEn": "September 12, 2026",
+    "dateLabelZh": "2026年9月12日",
+    "archiveYear": 2026,
+    "archiveMonth": 9,
+    "titleEn": "In the name of \"cost recovery,\" the Vice President endorses the \"sky-high threshold\" for H-1B.",
+    "titleZh": "以“成本回收”为名，副总统站台H-1B的“天价门槛”",
+    "summaryEn": "",
+    "summaryZh": "",
+    "blocks": [
+      {
+        "id": "b-mv4v4ut9-ji7og",
+        "type": "text",
+        "textEn": "<p>On September 19, 2025, employers seeking to submit new visa applications for H-1B applicants outside the United States were required to pay an additional mandatory fee of $100,000. Yet just over two months after that decision, in August 2026, a fee of $103,000 was proposed for cap-subject H-1B visa applications, an amount even higher than the executive order that had been struck down.</p><p>The Department of Homeland Security characterized the new fee as a \"cost recovery mechanism,\" claiming that the charges are used to offset the operating costs of various agencies within the immigration system.</p>",
+        "textZh": "<p>2025 年9月19日，雇主若要为身处美国境外的 H-1B 申请人提交新签证申请，必须额外缴纳 10 万美元强制费用。而就在该项决仅仅两个多月后，2026年8月，提议对受配额限制的 H-1B 签证申请收取10.3万美元费用，金额比之前被废掉的行政令还要更高。<br></p><p>国土安全部将新费用定性为“成本回收机制”（cost recovery mechanism），声称收费用于弥补移民系统各机构的运营成本。</p>"
+      },
+      {
+        "id": "b-mv4v5ag8-h3kbw",
+        "type": "image",
+        "src": "/images/uploads/1791786084987-6045.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4v71ms-5nflb",
+        "type": "text",
+        "textEn": "<p>Vice President JD Vance publicly defended the proposal on social media in blunt terms: \"If an American company needs workers, it should hire and train Americans.\" This statement clarified the core policy intent of the proposal: it is not merely about increasing fiscal revenue, but about restricting the actual use of H-1B through economic thresholds.</p><p>Against the backdrop of continuously tightening U.S. immigration policy, the H-1B visa, which supports the U.S. technology, healthcare, and financial industries in bringing in overseas high-skilled talent, is undergoing the most dramatic institutional upheaval in decades.</p><p>An executive order: a sky-high $100,000 threshold takes effect</p><p>On September 19, 2025, then-President Trump signed an executive proclamation, which officially took effect at midnight on September 21: employers seeking to submit new visa applications for H-1B applicants outside the United States would face a mandatory $100,000 fee policy. Once an employer failed to complete the payment, the applicant would be barred from entering the United States.</p><p>On June 8, 2026, Judge Sorokin of the U.S. District Court for the District of Massachusetts ruled that this mandatory $100,000 fee violated the constitutional principle of separation of powers and the Administrative Procedure Act, and constituted a tax imposed without congressional authorization, formally halting the policy.</p><p>Only 85 employers willing to pay, overseas applications plummet 87%</p><p>The officially disclosed data is very telling: during the period the policy was in effect, only 70 employers nationwide actually paid this hefty $100,000 fee for 85 H-1B visa applications, with only a handful of companies willing to bear the cost.</p><p>The H-1B lottery itself involves enormous uncertainty, and this six-figure expenditure is a sunk cost — even if an employer pays, once the lottery is not won or the application is rejected, the $100,000 is simply lost.</p><p>For small and medium-sized enterprises, this expense can consume nearly half a year's hiring budget for one position; even for well-funded big tech companies, they are forced to reassess the cost-effectiveness of overseas recruitment.</p><p>Even more shocking than employers' reluctance to pay is the cliff-like drop in new H-1B applications from abroad. Data shows that after the policy was implemented, brand-new H-1B applications from outside the United States fell by as much as 87%.</p><p>Another storm: a new $103,265 proposal returns</p><p>On August 24, 2026, the U.S. Department of Homeland Security (DHS) published a proposed rule, proposing a fee of $103,265 for cap-subject H-1B visa applications.</p><p>Compared with the previous executive order, this new proposal significantly expands its scope: it no longer targets only new applicants abroad, but also includes people already in the United States applying for a cap-subject H-1B for the first time, including recent graduates on OPT preparing for the lottery.</p><p>DHS estimates that, based on 85,000 cap-subject H-1B applications per year, this fee could generate approximately $8.8 billion in annual revenue to cover the administrative costs of the immigration system. The rule is still in the public comment period and has not yet formally taken effect.</p><p>Latest development: leave upon unemployment, 60-day grace period may be eliminated</p><p>On September 10, 2026, the Trump administration struck again. DHS published a proposal in the Federal Register planning to eliminate the 60-day grace period during which H-1B and other specified temporary work visa holders may remain in the United States after losing their jobs. In the future, once employment terminates, they must leave the country immediately.</p><p>This 60-day grace period, implemented since 2017, originally allowed foreign employees time after unemployment to find another job in the United States, or to handle matters such as selling a house or withdrawing children from school before leaving the country. Eliminating this mechanism means that once H-1B holders are laid off, they will have almost no buffer.</p><p>Industry and business groups: collective resistance, harsh wording</p><p>Neil Bradley, chief policy officer of the U.S. Chamber of Commerce, issued a statement saying the fee would prevent \"more American employers — especially the thousands of startups and small and medium-sized businesses that rely on H-1B — from using the program.\" The Chamber had previously challenged the $100,000 fee in court, and this position continues, explicitly stating that the new rule would \"hinder small businesses from obtaining visas.\"</p><p>The Presidents' Alliance on Higher Education and Immigration pointed out that the rule would make the cost for employers to hire international graduates \"prohibitively expensive.\" Its deputy director of federal policy, Zuzana C. Wootson, said that when international students choose a study destination, they consider not only the classroom experience but \"also whether there are meaningful opportunities to apply their education after graduation,\" and the new rule would \"severely weaken the pipeline from education to the workforce.\"</p><p>India's IT industry is expected to be hit most directly. Industry lobbying group NASSCOM urged the United States to reassess the proposal, stressing that the H-1B program \"has long played an important role in addressing short-term skills gaps in the United States.\" NASSCOM also noted that over the past five years, the number of H-1B employees of Indian IT companies in the United States has dropped significantly, that companies have continued to expand local hiring, and that they have invested more than $1.1 billion in U.S. STEM talent development, partnering with more than 130 universities and benefiting 2.9 million students.</p><p>Summary</p><p>For Chinese students currently studying in the United States or planning to study there, a harsh reality is emerging: the path to staying and working in the United States through H-1B is tightening as never before.</p><p>Betting all hopes of staying in the United States on the H-1B lottery is no longer an adventure, but a gamble. From the $100,000 executive order to the proposed $103,265 rule, from the 87% plunge in applications to the possible elimination of the 60-day grace period, the multiple tightening measures landing one after another at the policy level are squeezing the old path of \"graduate first, then find a job, then enter the lottery\" into an ever narrower space.</p>",
+        "textZh": "<p>副总统JD Vance在社交媒体上公开为提案辩护，措辞直白：“如果一家美国公司需要工人，它就应该雇用和培训美国人。”这一表态明确了提案的核心政策意图：不仅仅是增加财政收入，而是通过经济门槛限制H-1B的实际使用。</p><p>在美国移民政策持续收紧的大背景下，支撑美国科技、医疗、金融行业引进海外高技能人才的 H-1B 签证，正遭遇数十年来最剧烈的制度震荡。</p><p><strong>&nbsp;一纸行政令：10 万美元天价门槛落地&nbsp;</strong><br></p><p>2025 年9月19日，时任总统特朗普签署行政公告，自9月21日凌晨正式生效：雇主若要为身处美国境外的 H-1B 申请人提交新签证申请，10 万美元强制费用政策。一旦雇主没有完成缴费，申请人将被禁止入境美国。</p><p>2026 年 6 月 8 日，马萨诸塞州联邦地区法院法官索罗金作出裁决：这项 10 万美元强制收费违反宪法三权分立原则与《行政程序法》，属于未经国会授权的征税行为，正式叫停该政策。</p><p>&nbsp;仅 85 家雇主愿意买单，境外申请暴跌 87%&nbsp;</p><p>官方披露的数据十分直观：政策生效期间，全美只有70家雇主85份H-1B签证实际缴纳了这笔10万美元高额费用，愿意承担成本的企业屈指可数。</p><p>H-1B 抽签本身就存在巨大不确定性，这笔六位数支出属于沉没成本—— 就算雇主交钱，一旦抽签不中、申请被拒，10万美元直接打水漂。</p><p>对于中小企业来说，这笔开销几乎能吃掉一个岗位大半年用人预算；哪怕资金雄厚的科技大厂，也不得不重新评估海外招聘的性价比。</p><p>比雇主不愿缴费更震撼的，是境外H-1B新申请量断崖式下滑。数据显示，政策实施后，来自美国境外的全新H-1B申请降幅高达87%。</p><p></p><p><strong>&nbsp;风波再起：103265 美元新提案卷土重来&nbsp;</strong><br></p><p>2026年8月24日，美国国土安全部（DHS）公布拟议规则，提议对受配额限制的 H-1B 签证申请收取103265 美元费用。</p><p>和上一份行政令相比，这份新提案的覆盖范围大幅扩大：不再只针对境外新申请人，还包含已经在美国境内、首次申请配额 H-1B 的人群，其中就包括 OPT 到期准备抽签的应届留学生。</p><p>国土安全部估算，按照每年 8.5 万份配额 H-1B 申请来计算，这项收费每年可带来约 88 亿美元收入，用于覆盖移民系统行政管理成本。目前该规则仍处于公众意见征询阶段，尚未正式落地。</p><p>&nbsp;最新动向：失业即离境，60天宽限期或被取消&nbsp;</p><p>2026年9月10日，特朗普政府再出重拳。国土安全部在《联邦公报》公布提案，计划取消H-1B及其他特定临时工作签证持有人失业后可在美停留60天的宽限期，未来工作一旦终止，就必须立即离境。</p><p>这项自2017年起实施的60天宽限期，原本允许外籍员工在失业后有时间另觅美国工作，或在离境前处理出售房屋、子女退学等事务。取消这一机制意味着，H-1B持有者一旦被裁，将几乎没有缓冲空间。</p><p></p><p><strong>&nbsp;行业与商业团体：集体抵制，措辞严厉&nbsp;</strong><br></p><p>美国商会首席政策官尼尔·布拉德利发表声明，称该费用将使“更多的美国雇主——尤其是成千上万依赖H-1B的初创企业以及中小型企业——无法使用该项目”。商会此前已在法庭上对10万美元费用提出过质疑，此次立场延续，明确表示新规将“阻碍小企业获得签证”。</p><p>高等教育与移民校长联盟（Presidents‘ Alliance）指出，该规则将使雇主雇用国际毕业生的成本“高得令人望而却步”。其联邦政策副主任Zuzana C. Wootson表示，国际学生选择留学目的地时不仅考虑课堂体验，“也会考虑毕业后是否有有意义的机会来运用他们的教育”，而新规将“严重削弱从教育到劳动力的输送管道”。</p><p>印度IT行业受冲击预期最为直接。行业游说组织NASSCOM敦促美国重新评估提案，强调H-1B项目“长期以来在解决美国短期技能缺口方面发挥了重要作用”。NASSCOM同时指出，过去五年印度IT公司在美H-1B员工数量已大幅下降，公司持续扩大本地招聘，且已在美STEM人才培养上投入超过11亿美元，与超过130所大学合作，惠及290万学生。</p><p>&nbsp;总结&nbsp;</p><p>对于正在赴美留学、或是计划赴美读书的中国学生而言，残酷的现实正在显现：依靠 H-1B 留美工作的路径，正在前所未有的收紧。</p><p>把留美希望全部押在H-1B抽签上，已经不是冒险，而是赌博。从10万美元行政令到10.3万美元拟议规则，从87%的申请量暴跌到60天宽限期可能被取消，政策层面接连落地的多重收紧，正在把“先毕业、再找工作、再抽签”这条旧路径挤压得越来越窄。</p>"
+      }
+    ],
+    "image": "/images/uploads/1791786007603-6404.jpg"
+  },
+  {
+    "id": "news-1791782217629",
+    "slug": "news-1791782217629",
+    "kind": "news",
+    "date": "2026-09-09",
+    "dateLabelEn": "September 9, 2026",
+    "dateLabelZh": "2026年9月9日",
+    "archiveYear": 2026,
+    "archiveMonth": 9,
+    "titleEn": "The $9.6 billion sale of the Seattle Seahawks has officially closed, with the Khosla family formally becoming the new owners.",
+    "titleZh": "西雅图海鹰队 96 亿美元出售案完成交割，Khosla 家族正式成为新东家",
+    "summaryEn": "",
+    "summaryZh": "",
+    "blocks": [
+      {
+        "id": "b-mv4sxcq5-vdvk6",
+        "type": "text",
+        "textEn": "<p>After the National Football League (NFL) approved the transaction on August 26, the Vinod Khosla family officially completed the acquisition of the Seattle Seahawks from the Paul G. Allen estate for a record $9.6 billion. With the deal officially closing on Thursday, the team also disclosed its full list of investors for the first time.</p>",
+        "textZh": "<p>美国国家橄榄球联盟（NFL）在 8 月 26 日批准交易后，Vinod Khosla 家族以创纪录的 96 亿美元从 Paul G. Allen 遗产基金手中正式完成对“西雅图海鹰队（Seattle Seahawks） ”的收购。随着交易在周四正式交割，球队也首次公布完整的投资人名单。<br><br></p>"
+      },
+      {
+        "id": "b-mv4sxm4v-sqh0k",
+        "type": "image",
+        "src": "/images/uploads/1791782329578-640.jpg",
+        "altEn": "",
+        "altZh": "图片说明：风险投资人 Vinod Khosla 与其妻子 Neeru Khosla 将领导海鹰队的新所有权团队"
+      },
+      {
+        "id": "b-mv4sxun0-ph2ci",
+        "type": "text",
+        "textEn": "<p>New ownership structure: Neeru Khosla as controlling owner, Vinod Khosla serving as team chair</p><p>Neeru Khosla: controlling owner</p><p>Vinod Khosla: team chair</p><p>Neal Khosla (son): vice chair</p><p>Under National Football League (NFL) rules, the controlling owner must hold at least 30% equity, which based on this transaction amount is approximately $2.9 billion.</p><p>Bloomberg reported that Vinod Khosla has assured investors in his venture capital firm Khosla Ventures that he will not personally operate the team.</p><p>Investor group: technology, private equity, and international capital gathered together</p><p>The Seahawks' new investor group may include up to 25 members. The list announced this time includes:</p><p>Sunny Gupta: co-founder and former CEO of Apptio; now co-founder of AI startup Thira</p><p>Nader Naini: managing partner at Frazier Healthcare Partners</p><p>Carlyle Group: New York private equity giant</p><p>Dynasty Equity: New York investment firm</p><p>Sixth Street: San Francisco private equity firm, has invested in the New England Patriots</p><p>Mark Stevens: managing partner at S-Cubed Capital</p><p>Val Blavatnik: advisor at Access Industries, son of billionaire Len Blavatnik</p><p>Gonzalo Hevia Baillères: member of a prominent Mexican business family</p><p>Samir Kaul: partner at Khosla Ventures</p><p>Aramburuzabala family: the family behind Mexico's Modelo beer</p><p>Sheryl Sokoloff: spouse of a managing partner at Leonard Green &amp; Partners</p><p>Jesse van der Werf: CEO of Heavy Metal Equipment</p><p>Penny Pritzker: former U.S. Secretary of Commerce</p><p>Private equity funds may not hold more than 10% of an NFL team, a single institution must hold at least 3%, and may invest in a maximum of six teams.</p><p>The Seahawks enter a new era: whether the stadium will be updated becomes a focus of attention</p><p>As the new season is about to begin, one focus of outside attention is whether the new owners will push for the construction of a new stadium.</p>",
+        "textZh": "<ul><li><p>新东家结构：Neeru Khosla 为控股所有者，Vinod Khosla 出任球队主席</p></li><li><p>Neeru Khosla：控股所有者（controlling owner） &nbsp;</p></li><li><p>Vinod Khosla：球队主席（chair） &nbsp;</p></li><li><p>Neal Khosla（儿子）：副主席（vice chair）</p></li></ul><p><br></p><p>根据美国国家橄榄球联盟（NFL）规定，控股所有者必须持有至少 30% 股权，以本次交易金额计算约为29 亿美元。</p><p>彭博社报道指出，Vinod Khosla 已向其风投公司 Khosla Ventures 的投资人保证，他不会亲自运营球队。</p><p>&nbsp;投资人阵容：科技、私募、国际资本齐聚&nbsp;</p><p>海鹰队的新投资人群体最多可包含 25 名成员，本次公布的名单包括：</p><ul><li><p>Sunny Gupta：Apptio 联合创始人、前 CEO；现为 AI 创业公司 Thira 联合创始人 &nbsp;</p></li><li><p>Nader Naini：Frazier Healthcare Partners 管理合伙人 &nbsp;</p></li><li><p>Carlyle Group（凯雷集团）：纽约私募巨头 &nbsp;</p></li><li><p>Dynasty Equity：纽约投资公司 &nbsp;</p></li><li><p>Sixth Street：旧金山私募公司，已投资新英格兰爱国者队 &nbsp;</p></li><li><p>Mark Stevens：S‑Cubed Capital 管理合伙人 &nbsp;</p></li><li><p>Val Blavatnik：Access Industries 顾问，亿万富翁 Len Blavatnik 之子 &nbsp;</p></li><li><p>Gonzalo Hevia Baillères：墨西哥知名商业家族成员 &nbsp;</p></li><li><p>Samir Kaul：Khosla Ventures 合伙人 &nbsp;</p></li><li><p>Aramburuzabala 家族：墨西哥 Modelo 啤酒背后家族 &nbsp;</p></li><li><p>Sheryl Sokoloff：Leonard Green &amp; Partners 管理合伙人配偶 &nbsp;</p></li><li><p>Jesse van der Werf：Heavy Metal Equipment CEO &nbsp;</p></li><li><p>Penny Pritzker：美国前商务部长 &nbsp;</p></li></ul><p><br></p><p>私募基金在美国国家橄榄球联盟（NFL）球队中的持股比例不得超过10%，单一机构至少需持有3%，且最多可投资六支球队。</p><p>&nbsp;海鹰队进入新纪元：球场是否更新成关注焦点&nbsp;</p><p>随着新赛季即将开幕，外界关注焦点之一是新东家是否会推动新球场建设。</p>"
+      },
+      {
+        "id": "b-mv4sypbv-xqpfr",
+        "type": "image",
+        "src": "/images/uploads/1791782379682-6401.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4syzn7-pu7df",
+        "type": "text",
+        "textEn": "<p>Lumen Field: 24 years since completion, lease runs through 2031. There are also three 10-year extension options.</p><p>Vinod Khosla stated: Lumen Field is iconic and a key part of the Seahawks brand. We will work with management and the community to strive to preserve this unique brand.</p><p>Khosla family background: Silicon Valley legend and venture capital titan</p><p>Vinod Khosla</p><p>Co-founder of Sun Microsystems (1982)</p><p>Former Kleiner Perkins partner, invested in companies such as Cerent and Siara that were acquired at high prices</p><p>Net worth approximately $13.2 billion</p><p>Named the world's best venture capital investor in 2026 by Forbes (No. 1 on the Midas List)</p><p>Founded Khosla Ventures in 2004, with a portfolio including:</p><p>OpenAI</p><p>DoorDash</p><p>Instacart</p><p>Stripe</p><p>Neeru Khosla</p><p>Master's degree in Molecular Biology (San Jose State University)</p><p>Master's degree in Education (Stanford University)</p><p>Co-founder and Executive Director of CK-12 Foundation (a nonprofit organization for personalized learning education)</p><p>Neal Khosla</p><p>Previously interned with the 49ers (2011)</p><p>Master's degree in Computer Science from Stanford</p><p>Transaction background: Paul Allen estate fund completion of liquidation requirements</p><p>Paul Allen acquired the Seahawks for $194 million in 1997. During his lifetime, Allen requested that most of his assets (including the Seahawks and Trail Blazers) be sold after his death and used for charity. His sister, Jody Allen, is responsible for managing the estate.</p><p>Starting in 2024, Allen &amp; Co. and Latham &amp; Watkins assisted with handling the sale.</p><p>The most recent NFL team to change ownership through a sale was the Washington Commanders (2023), with a transaction amount of $6.05 billion.</p>",
+        "textZh": "<p>Lumen Field：建成 24 年，租约至2031 年。另有三个 10 年延长期选项。</p><p>Vinod Khosla 表示：Lumen Field 是标志性的，也是海鹰队品牌的重要组成部分。我们会与管理层和社区合作，努力维护这一独特的品牌。</p><p>&nbsp;Khosla 家族背景：硅谷传奇与风投巨头&nbsp;</p><ul><li><p>Vinod Khosla</p></li><li><p>Sun Microsystems 联合创始人（1982 年） &nbsp;</p></li><li><p>曾任 Kleiner Perkins 合伙人，投资 Cerent、Siara 等被高价收购的公司</p></li><li><p>净资产约 132 亿美元</p></li><li><p>2026 年被《福布斯》评为全球最佳风投投资人（Midas List 第 1 名）</p></li></ul><p><br></p><p>2004 年创立Khosla Ventures，投资组合包括： &nbsp;</p><ul><li><p>OpenAI &nbsp;</p></li><li><p>DoorDash &nbsp;</p></li><li><p>Instacart &nbsp;</p></li><li><p>Stripe &nbsp;</p></li></ul><p></p><p>Neeru Khosla</p><ul><li><p>分子生物学硕士（San Jose State University） &nbsp;</p></li><li><p>教育学硕士（Stanford University） &nbsp;</p></li><li><p>CK‑12 Foundation 联合创始人兼执行董事（个性化学习教育非营利组织）<br></p></li></ul><p>Neal Khosla</p><ul><li><p>曾在 49 人队实习（2011 年） &nbsp;</p></li><li><p>Stanford 计算机科学硕士 &nbsp;<br></p></li></ul><p>交易背景：Paul Allen 遗产基金完成清算要求&nbsp;</p><p>Paul Allen 于 1997 年以1.94 亿美元收购海鹰队，Allen 生前要求其大部分资产（包括海鹰队与开拓者队）在其去世后出售并用于慈善，其妹妹Jody Allen负责遗产管理。</p><p>2024 年起，Allen &amp; Co. 与 Latham &amp; Watkins 协助处理出售事宜。</p><p>上一支通过出售更换所有权的美国国家橄榄球联盟（NFL）球队是“华盛顿指挥官队（2023 年）”，交易金额60.5 亿美元。</p>"
+      }
+    ],
+    "image": "/images/uploads/1791782307883-640.jpg"
+  },
+  {
+    "id": "news-1791782632116",
+    "slug": "news-1791782632116",
+    "kind": "news",
+    "date": "2026-09-09",
+    "dateLabelEn": "September 9, 2026",
+    "dateLabelZh": "2026年9月9日",
+    "archiveYear": 2026,
+    "archiveMonth": 9,
+    "titleEn": "EvergreenHealth acquires Totem Lake medical office building for $69.9 million — a long-term strategy to expand medical services",
+    "titleZh": "EvergreenHealth 6990万美元收购 Totem Lake 医疗办公楼——扩张医疗服务的长期战略",
+    "summaryEn": "",
+    "summaryZh": "",
+    "blocks": [
+      {
+        "id": "b-mv4t4wr2-76rlj",
+        "type": "text",
+        "textEn": "<p>EvergreenHealth recently acquired a medical office building near its Kirkland Totem Lake main campus for $69.9 million, as part of its long-term plan to expand access to medical services.</p><p>According to King County transaction records dated September 1, the building at 11800 NE 128th St. sold for nearly 36% more than its sale price a decade ago, and far above its assessed value of $27 million.</p><p>The building, known as EvergreenHealth Plaza, was purchased in 2016 by Chicago-based Harrison Street Asset Management for $51.4 million. EvergreenHealth itself was also one of the building's tenants. The hospital system has not yet responded to media inquiries about the acquisition.</p><p>EvergreenHealth's background and hospital district structure</p><p>EvergreenHealth opened its hospital in Kirkland in 1972. In 2014, Valley General Hospital in Snohomish County merged with EvergreenHealth, and its Monroe hospital was renamed EvergreenHealth Monroe.</p><p>The two hospitals belong to different public hospital districts:</p><p>EvergreenHealth (King County Public Hospital District No. 2)<br>Its service area includes Bothell, Kenmore, Kirkland, Redmond, Woodinville, parts of Sammamish, unincorporated areas of northeast King County, and Duvall.</p><p>EvergreenHealth Monroe (Snohomish County Public Hospital District No. 1)<br>Its service area includes Snohomish, Sky Valley, and Snohomish Valley.</p><p>Both are governed by elected commissioners and supported by taxpayer funds.</p><p>Tax measures and expansion plans</p><p>In the August 2025 primary election, voters in the King County hospital district approved a measure that significantly increases the share of property tax revenue received by EvergreenHealth.</p><p>EvergreenHealth CEO Ettore Palazzo told the Business Journal at the time that the funding would help the hospital system respond to population growth and expand access to primary care, emergency care, and behavioral health services:</p><p>\"This allows us to stop standing still and enables us to meet future demand.\" — Ettore Palazzo</p><p>EvergreenHealth Monroe's expansion efforts</p><p>EvergreenHealth Monroe is also advancing its own expansion plans:</p><p>In July 2025, it acquired Sky River Medical Center in Monroe for $24.6 million. A hospital spokesperson said the acquisition provides space and flexibility for expanding facilities and improving access to critical medical services.</p><p>In August 2025, Snohomish County voters narrowly rejected the public hospital district's proposed $382 million bond for building a new hospital.</p>",
+        "textZh": "<p>EvergreenHealth 近日以 6,990 万美元 收购了位于 Kirkland Totem Lake 主院区附近的一栋医疗办公楼，作为其扩大医疗服务可及性的长期规划的一部分。</p><p>根据金县9月1日的交易记录，这栋位于 11800 NE 128th St. 的建筑售价比十年前的成交价高出近 36%，也远高于其 2,700 万美元 的评估价值。</p><p>这栋名为 EvergreenHealth Plaza 的建筑在 2016 年由总部位于芝加哥的 Harrison Street Asset Management 以 5,140 万美元购入。EvergreenHealth 本身也是该楼的租户之一。医院系统尚未回应媒体关于此次收购的询问。</p><p>&nbsp;EvergreenHealth 的背景与医院区结构&nbsp;</p><p>EvergreenHealth 于 1972 年在 Kirkland 开设医院。2014 年，Snohomish County 的 Valley General Hospital 与 EvergreenHealth 合并，其 Monroe 医院更名为 EvergreenHealth Monroe。</p><p>两家医院分别属于不同的公共医院区：</p><ul><li><p>EvergreenHealth（King County Public Hospital District No. 2） &nbsp;</p></li></ul><p>     服务区域包括 Bothell、Kenmore、Kirkland、Redmond、Woodinville、部分 Sammamish、东北 King     </p><p>      County 未建制地区，以及 Duvall。</p><ul><li><p>EvergreenHealth Monroe（Snohomish County Public Hospital District No. 1） &nbsp;</p></li></ul><p>      服务区域包括 Snohomish、Sky Valley 与 Snohomish Valley。<br></p><p>两者均由选举产生的委员治理，并获得纳税人资金支持。</p><p>&nbsp;税收措施与扩张计划&nbsp;</p><p>在 2025 年 8 月的初选 中，King County 医院区的选民批准了一项措施，大幅提高 EvergreenHealth 所获得的地产税收入比例。</p><p>EvergreenHealth CEO Ettore Palazzo 当时向《Business Journal》表示，这笔资金将帮助医院系统应对人口增长，并扩大初级医疗、急诊护理与行为健康服务的可及性：</p><p>“这让我们不再停滞不前，使我们能够应对未来的需求。”——Ettore Palazzo</p><p>EvergreenHealth Monroe 的扩张行动</p><p>EvergreenHealth Monroe 也在推进自身的扩张计划：</p><p>2025 年 7 月以 2,460 万美元 收购了位于 Monroe 的 Sky River Medical Center。医院发言人表示，这项收购为扩建设施与提升关键医疗服务的可及性提供了空间与灵活性。</p><p>2025 年 8 月Snohomish County 选民以微弱差距否决了该公共医院区提出的 3.82 亿美元新医院建设债券。</p>"
+      }
+    ],
+    "image": "/images/uploads/1791782919715-6402.jpg"
+  },
+  {
+    "id": "news-1791777697944",
+    "slug": "news-1791777697944",
+    "kind": "news",
+    "date": "2026-09-06",
+    "dateLabelEn": "September 6, 2026",
+    "dateLabelZh": "2026年9月6日",
+    "archiveYear": 2026,
+    "archiveMonth": 9,
+    "titleEn": "U.S. mortgage rates surge to 6.71%!",
+    "titleZh": "美国房贷利率飙升至6.71%！",
+    "summaryEn": "",
+    "summaryZh": "",
+    "blocks": [
+      {
+        "id": "b-mv4q87od-qupd6",
+        "type": "text",
+        "textEn": "<p>Middle East conflicts rekindle inflation concerns, 30-year mortgage rates hit a more than one-year high, and the probability of a Fed rate hike in September rises to 50%.</p><p>This week, U.S. mortgage rates climbed to their highest level in more than a year, with the average rate on 30-year fixed-rate home loans rising to 6.71%, up 5 basis points from the previous week and marking a new high since late July 2025. A year ago, the average rate stood at 6.50%.</p>",
+        "textZh": "<p><span style=\"color: rgba(0, 0, 0, 0.9);\">中东冲突重燃通胀担忧<strong>，30年期房贷利率创一年多新高，美联储9月加息概率升至50%</strong>。</span></p><p><span style=\"color: rgba(0, 0, 0, 0.9);\">本周，美国抵押贷款利率攀升至一年多来的最高水平，<strong>30年期固定利率住房贷款的平均利率上升至6.71%</strong>，较前一周上涨5个基点，创下自2025年7月下旬以来的新高。而一年前，该利率平均为6.50%。</span></p>"
+      },
+      {
+        "id": "b-mv4q8ko0-380kk",
+        "type": "image",
+        "src": "/images/uploads/1791777807801-ScreenShot_2026-10-12_120312_927.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4q8zvo-lmhdp",
+        "type": "text",
+        "textEn": "<p>The direct trigger for this round of surging interest rates is a large-scale sell-off in the global bond market. Amid recent escalating Middle East conflicts, the United States launched a new wave of airstrikes on Iranian targets this week, pushing oil prices to nearly $100 per barrel, which rekindled market concerns about inflation.</p><p>Affected by this, the yield on the 10-year U.S. Treasury note, a key benchmark for mortgage rates, climbed on Tuesday to its highest level since January 2025.</p><p>Despite higher rates, home purchase demand has remained relatively stable, indicating sustained interest from homebuyers in changing market conditions.</p><p>Federal Reserve Chairman Kevin Warsh, in his first speech at the Jackson Hole Economic Symposium last Friday, reiterated that inflation has been too high and persistent for too long, and that the policy rate remains the central bank's primary tool for controlling inflation. However, he did not commit to any specific action.</p><p>As of Thursday, traders saw about a 50% chance that the Federal Open Market Committee (FOMC) would raise rates at its September meeting.</p><p>Economists at <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://Realtor.com\">Realtor.com</a> said substantial relief in mortgage rates is unlikely this autumn. \"If inflation is not brought under control, the pain will be real. Higher inflation will simultaneously erode wage income and real income growth while keeping mortgage rates elevated for longer.\"</p><p>Persistent inflation in the United States has reduced purchasing power in the buyer's market while also dampening borrowing capacity. Yet despite the challenging rate environment, there are still some positive signals for homebuyers this year: sellers have not retreated, with the share of delistings far below the same period last year, and active listings remaining above year-ago levels.</p>",
+        "textZh": "<p><span style=\"color: rgba(0, 0, 0, 0.9);\">本轮利率飙升的直接导火索是全球债券市场的大规模抛售。<strong>近期中东冲突持续升级，美国本周对伊朗目标发动了新一波空袭，将油价推升至接近每桶100美元的水平，这重新点燃了市场对通胀的担忧</strong>。</span></p><p><span style=\"color: rgba(0, 0, 0, 0.9);\">受此影响，作为抵押贷款利率关键基准的<strong>10年期美国国债收益率</strong>在周二攀升至2025年1月以来的最高水平。</span></p><p><span style=\"color: rgba(0, 0, 0, 0.9);\">尽管利率走高，但购房需求保持相对稳定，表明购房者对不断变化的市场条件表现出持续的兴趣。</span></p><p><span style=\"color: rgba(0, 0, 0, 0.9);\">美联储主席凯文·沃什上周五在杰克逊霍尔经济会议上发表首次演讲时重申，通胀已经过高且持续太久，政策利率仍是央行控制通胀的主要工具。但他并未承诺任何具体行动。</span></p><p><span style=\"color: rgba(0, 0, 0, 0.9);\">截至周四，交易员认为联邦公开市场委员会（FOMC）在<strong>9月会议上加息的可能性约为50%</strong>。</span></p><p><span style=\"color: rgba(0, 0, 0, 0.9);\">Realtor.com经济学家称，今年秋天抵押贷款利率不太可能有实质性缓解。\"如果通胀得不到控制，痛苦将是真实的。更高的通胀将同时侵蚀工资收入和实际收入增长，同时使抵押贷款利率在更长时间内保持在高位。\"</span></p><p><span style=\"color: rgba(0, 0, 0, 0.9);\">美国持续通胀导致买方市场购买力下降，同时抑制贷款能力。但是尽管利率环境严峻，今年购房者仍有一些积极信号：卖家并未退缩，撤牌比例远低于去年同期，<strong>活跃挂牌量仍高于去年同期。</strong></span></p>"
+      }
+    ],
+    "image": "/images/uploads/1791777841180-ScreenShot_2026-10-12_120245_936.jpg"
+  },
+  {
+    "id": "news-1791778533734",
+    "slug": "news-1791778533734",
+    "kind": "news",
+    "date": "2026-09-06",
+    "dateLabelEn": "September 6, 2026",
+    "dateLabelZh": "2026年9月6日",
+    "archiveYear": 2026,
+    "archiveMonth": 9,
+    "titleEn": "Seattle-Portland Twin-City Corridor Value Opportunity | Riverside Gardens Villas Low-Density Community",
+    "titleZh": "西雅图・波特兰双城走廊价值洼地｜河畔花园别墅低密度社区",
+    "summaryEn": "",
+    "summaryZh": "",
+    "blocks": [
+      {
+        "id": "b-mv4qpdm3-lrpwi",
+        "type": "image",
+        "src": "/images/uploads/1791778663652-________.jpg",
+        "altEn": "",
+        "altZh": ""
+      }
+    ],
+    "image": "/images/uploads/1791778576858-ScreenShot_2026-10-12_121605_358.jpg"
+  },
+  {
     "id": "news-1788338680188",
     "slug": "news-1788338680188",
     "kind": "news",
