@@ -23,6 +23,42 @@
     "image": "/images/uploads/1791788747940-ScreenShot_2026-10-12_150534_120.jpg"
   },
   {
+    "id": "news-1791788819945",
+    "slug": "news-1791788819945",
+    "kind": "news",
+    "date": "2026-09-30",
+    "dateLabelEn": "September 30, 2026",
+    "dateLabelZh": "2026年9月30日",
+    "archiveYear": 2026,
+    "archiveMonth": 9,
+    "titleEn": "September 2026 Housing Data for Greater Seattle and Centralia, WA | Market Divergence, Seattle Shifts to a Buyer's Market",
+    "titleZh": "2026年9月大西雅图区及Centralia WA住房数据|房市分化，西雅图转入买方市场",
+    "summaryEn": "",
+    "summaryZh": "",
+    "blocks": [
+      {
+        "id": "b-mv4wtkjo-2s32e",
+        "type": "text",
+        "textEn": "<p>In September 2026, the U.S. housing market showed a pattern of firm home prices and sluggish transactions, with high mortgage rates continuing to suppress purchasing power. The Greater Seattle market cooled noticeably, with the median sale price falling 7.34% year over year, formally entering a buyer's market; while in Centralia, a small city in central Washington, home prices fluctuated within a narrow range.</p><p>Redfin data shows that in the four-week period ending mid-September, the national median home sale price was $398,637, up 2.2% year over year, setting a record high for the same period; the NAR reported that the median price of existing homes in August rose 1.6% year over year, marking 38 consecutive months of year-over-year increases.</p><p>Sales of pending homes fell 3.5% month over month, dropping to a near three-year low; mortgage purchase applications fell 19% year over year. The 30-year mortgage rate stood at 7.24%, remaining at a high level for more than a year, and high costs forced a large number of entry-level buyers to stay on the sidelines and exit the market.</p><p>In the fall of 2026, the housing market in the Greater Seattle metropolitan area has ushered in a notable adjustment, with transaction prices declining significantly year over year, inventory rising, and market bargaining power shifting to the buyer's side.</p>",
+        "textZh": "<p>2026 年 9 月美国房市呈现房价坚挺、成交低迷格局，高按揭利率持续压制购买力。大西雅图市场明显降温，成交中位价同比大跌 7.34%，正式进入买方市场；而华盛顿州中部小城 Centralia房价窄幅震荡。</p><p></p><p>Redfin 数据显示，截至 9 月中旬四周期，全美房屋销售中位价$398,637，同比 + 2.2%，创下同期历史新高；NAR 8 月二手房中位价同比上涨 1.6%，连续 38 个月同比上行。</p><p></p><p>待售房屋销量环比下滑 3.5%，跌至近三年低点；按揭购房申请量同比下降 19%。30年期贷款利率7.24%，维持一年以上高位，高成本迫使大量刚需买家观望离场。</p><p></p><p>2026年秋季大西雅图都会区住房市场迎来明显调整，成交价格同比显著下行，库存走高，市场话语权转移到买家一侧。</p>"
+      },
+      {
+        "id": "b-mv4wufmg-nvd0i",
+        "type": "image",
+        "src": "/images/uploads/1791788901473-ScreenShot_2026-10-12_150807_916.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4wumba-j4drp",
+        "type": "text",
+        "textEn": "<p>Data shows that in August, the median sale price in King County fell 7% year over year, and Snohomish County fell 3%; Kitsap and Pierce Counties rose 2% against the trend. Across the entire Northwest region, the median sale price in August fell about 2% year over year to $654,000.</p><p>Centralia belongs to a micro-market in Lewis County, Washington, with a small scale. As of June 30, the average home value was $399,240, up 1.2% year over year; the median sale price in Orchard over the past 30 days was $370,000, up 1% year over year. But when broken down, listings in the 98531 ZIP code saw home prices fall 12.2% year over year, with a median price of only $324,900. This difference indicates that in Centralia, sales of high-priced homes are pushing up the overall median, while the experience for ordinary entry-level homes is relatively weak.</p><p>The U.S. housing market still has some resilience, but high interest rates are suppressing purchasing power, and the fall of 2026 is entering a buyer's window.</p>",
+        "textZh": "<p>数据显示，8月金县成交中位价同比下跌7%，斯诺霍米什县下跌 3%；Kitsap 与 Pierce 县逆势上涨 2%。整个西北范围，8 月成交中位价同比下滑约 2% 至 $654,000。</p><p>Centralia 属于华盛顿州 Lewis 县微型市场，体量小，截至 6 月 30 日房屋平均价值 $399,240，同比涨幅1.2%；Orchard 近 30 天成交中位价 $370,000，同比涨幅1%。但拆分看98531邮编房源，房价同比下跌12.2%，中位价仅 $324,900。这一差异说明：Centralia高价房源成交拉高整体中位数，普通刚需房源体感偏弱。</p><p>全美房市韧性尚存，但高利率压制购买力，2026 年秋季进入买方窗口期。</p>"
+      }
+    ],
+    "image": "/images/uploads/1791788850261-ScreenShot_2026-10-12_150712_985.jpg"
+  },
+  {
     "id": "news-1791788623646",
     "slug": "news-1791788623646",
     "kind": "news",
