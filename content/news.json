@@ -1,5 +1,41 @@
 [
   {
+    "id": "news-1791777697944",
+    "slug": "news-1791777697944",
+    "kind": "news",
+    "date": "2026-09-06",
+    "dateLabelEn": "September 6, 2026",
+    "dateLabelZh": "2026年9月6日",
+    "archiveYear": 2026,
+    "archiveMonth": 9,
+    "titleEn": "U.S. mortgage rates surge to 6.71%!",
+    "titleZh": "美国房贷利率飙升至6.71%！",
+    "summaryEn": "",
+    "summaryZh": "",
+    "blocks": [
+      {
+        "id": "b-mv4q87od-qupd6",
+        "type": "text",
+        "textEn": "<p>Middle East conflicts rekindle inflation concerns, 30-year mortgage rates hit a more than one-year high, and the probability of a Fed rate hike in September rises to 50%.</p><p>This week, U.S. mortgage rates climbed to their highest level in more than a year, with the average rate on 30-year fixed-rate home loans rising to 6.71%, up 5 basis points from the previous week and marking a new high since late July 2025. A year ago, the average rate stood at 6.50%.</p>",
+        "textZh": "<p><span style=\"color: rgba(0, 0, 0, 0.9);\">中东冲突重燃通胀担忧<strong>，30年期房贷利率创一年多新高，美联储9月加息概率升至50%</strong>。</span></p><p><span style=\"color: rgba(0, 0, 0, 0.9);\">本周，美国抵押贷款利率攀升至一年多来的最高水平，<strong>30年期固定利率住房贷款的平均利率上升至6.71%</strong>，较前一周上涨5个基点，创下自2025年7月下旬以来的新高。而一年前，该利率平均为6.50%。</span></p>"
+      },
+      {
+        "id": "b-mv4q8ko0-380kk",
+        "type": "image",
+        "src": "/images/uploads/1791777807801-ScreenShot_2026-10-12_120312_927.jpg",
+        "altEn": "",
+        "altZh": ""
+      },
+      {
+        "id": "b-mv4q8zvo-lmhdp",
+        "type": "text",
+        "textEn": "<p>The direct trigger for this round of surging interest rates is a large-scale sell-off in the global bond market. Amid recent escalating Middle East conflicts, the United States launched a new wave of airstrikes on Iranian targets this week, pushing oil prices to nearly $100 per barrel, which rekindled market concerns about inflation.</p><p>Affected by this, the yield on the 10-year U.S. Treasury note, a key benchmark for mortgage rates, climbed on Tuesday to its highest level since January 2025.</p><p>Despite higher rates, home purchase demand has remained relatively stable, indicating sustained interest from homebuyers in changing market conditions.</p><p>Federal Reserve Chairman Kevin Warsh, in his first speech at the Jackson Hole Economic Symposium last Friday, reiterated that inflation has been too high and persistent for too long, and that the policy rate remains the central bank's primary tool for controlling inflation. However, he did not commit to any specific action.</p><p>As of Thursday, traders saw about a 50% chance that the Federal Open Market Committee (FOMC) would raise rates at its September meeting.</p><p>Economists at <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://Realtor.com\">Realtor.com</a> said substantial relief in mortgage rates is unlikely this autumn. \"If inflation is not brought under control, the pain will be real. Higher inflation will simultaneously erode wage income and real income growth while keeping mortgage rates elevated for longer.\"</p><p>Persistent inflation in the United States has reduced purchasing power in the buyer's market while also dampening borrowing capacity. Yet despite the challenging rate environment, there are still some positive signals for homebuyers this year: sellers have not retreated, with the share of delistings far below the same period last year, and active listings remaining above year-ago levels.</p>",
+        "textZh": "<p><span style=\"color: rgba(0, 0, 0, 0.9);\">本轮利率飙升的直接导火索是全球债券市场的大规模抛售。<strong>近期中东冲突持续升级，美国本周对伊朗目标发动了新一波空袭，将油价推升至接近每桶100美元的水平，这重新点燃了市场对通胀的担忧</strong>。</span></p><p><span style=\"color: rgba(0, 0, 0, 0.9);\">受此影响，作为抵押贷款利率关键基准的<strong>10年期美国国债收益率</strong>在周二攀升至2025年1月以来的最高水平。</span></p><p><span style=\"color: rgba(0, 0, 0, 0.9);\">尽管利率走高，但购房需求保持相对稳定，表明购房者对不断变化的市场条件表现出持续的兴趣。</span></p><p><span style=\"color: rgba(0, 0, 0, 0.9);\">美联储主席凯文·沃什上周五在杰克逊霍尔经济会议上发表首次演讲时重申，通胀已经过高且持续太久，政策利率仍是央行控制通胀的主要工具。但他并未承诺任何具体行动。</span></p><p><span style=\"color: rgba(0, 0, 0, 0.9);\">截至周四，交易员认为联邦公开市场委员会（FOMC）在<strong>9月会议上加息的可能性约为50%</strong>。</span></p><p><span style=\"color: rgba(0, 0, 0, 0.9);\">Realtor.com经济学家称，今年秋天抵押贷款利率不太可能有实质性缓解。\"如果通胀得不到控制，痛苦将是真实的。更高的通胀将同时侵蚀工资收入和实际收入增长，同时使抵押贷款利率在更长时间内保持在高位。\"</span></p><p><span style=\"color: rgba(0, 0, 0, 0.9);\">美国持续通胀导致买方市场购买力下降，同时抑制贷款能力。但是尽管利率环境严峻，今年购房者仍有一些积极信号：卖家并未退缩，撤牌比例远低于去年同期，<strong>活跃挂牌量仍高于去年同期。</strong></span></p>"
+      }
+    ],
+    "image": "/images/uploads/1791777841180-ScreenShot_2026-10-12_120245_936.jpg"
+  },
+  {
     "id": "news-1788338680188",
     "slug": "news-1788338680188",
     "kind": "news",
