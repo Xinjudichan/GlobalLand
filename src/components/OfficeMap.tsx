@@ -3,6 +3,7 @@ import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 import L from 'leaflet'
 import { contactContent, contactText } from '../lib/loadContact'
 import { useI18n } from '../i18n'
+import { mapTiles } from '../lib/mapTiles'
 import 'leaflet/dist/leaflet.css'
 
 function officePinIcon() {
@@ -37,10 +38,7 @@ export function OfficeMap() {
         className="office-map-canvas"
         attributionControl={false}
       >
-        <TileLayer
-          attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>'
-          url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png"
-        />
+        <TileLayer attribution={mapTiles.attribution} url={mapTiles.url} maxZoom={mapTiles.maxZoom} />
         <Marker position={center} icon={icon}>
           <Popup>
             <strong>

@@ -4,6 +4,7 @@ import L from 'leaflet'
 import type { Project, ProjectType } from '../data/projects'
 import { pickText } from '../lib/localized'
 import { useI18n } from '../i18n'
+import { mapTiles, hasCoords } from '../lib/mapTiles'
 import 'leaflet/dist/leaflet.css'
 
 const typeColors: Record<ProjectType, string> = {
@@ -62,24 +63,22 @@ export function ProjectMap({
 }) {
   const { t, lang } = useI18n()
   const center = useMemo<[number, number]>(() => [47.6, -122.2], [])
-  const selected = projects.find((p) => p.id === selectedId) ?? null
+  const mapped = useMemo(() => projects.filter(hasCoords), [projects])
+  const selected = mapped.find((p) => p.id === selectedId) ?? null
 
   const legendTypes = useMemo(() => {
     const seen = new Set<ProjectType>()
-    projects.forEach((p) => seen.add(p.type))
+    mapped.forEach((p) => seen.add(p.type))
     return Array.from(seen)
-  }, [projects])
+  }, [mapped])
 
   return (
     <div className="map-panel">
       <MapContainer center={center} zoom={9} scrollWheelZoom={false} className="gl-map">
-        <TileLayer
-          attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>'
-          url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png"
-        />
-        <FitBounds projects={projects} />
+        <TileLayer attribution={mapTiles.attribution} url={mapTiles.url} maxZoom={mapTiles.maxZoom} />
+        <FitBounds projects={mapped} />
         <FlyTo project={selected} />
-        {projects.map((p) => {
+        {mapped.map((p) => {
           const color = typeColors[p.type]
           const selectedNow = selectedId === p.id
           const name = pickText(p.name, lang)
