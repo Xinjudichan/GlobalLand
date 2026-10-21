@@ -36,7 +36,6 @@ export function OfficeMap() {
         zoom={c.mapZoom}
         scrollWheelZoom={false}
         className="office-map-canvas"
-        attributionControl={false}
       >
         <TileLayer attribution={mapTiles.attribution} url={mapTiles.url} maxZoom={mapTiles.maxZoom} />
         <Marker position={center} icon={icon}>
